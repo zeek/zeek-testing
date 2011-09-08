@@ -1,0 +1,8 @@
+# ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	validation_status	server_name	subject	not_valid_before	not_valid_after
+1258798785.76224	n1QUHEcFBBj	192.168.1.105	49168	65.55.25.59	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	ok	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258803237.19266	NvYLa5PXvsk	192.168.1.103	1274	207.46.21.123	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	ok	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258810935.97802	mOudIbfz4lb	192.168.1.106	1340	65.55.27.220	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	ok	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258847617.08594	E2PrGTlqBjb	192.168.1.104	1554	65.55.25.60	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	ok	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258867236.36109	P3jMPq6oP1j	192.168.1.103	1665	65.55.200.139	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	ok	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258867271.90777	euppwvjVxa8	192.168.1.105	49183	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	ok	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0
+1258867301.05347	FuLZx4YLbc2	192.168.1.105	49185	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	ok	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.0	1280936647.0

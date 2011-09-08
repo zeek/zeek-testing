@@ -1,0 +1,25 @@
+
+This test-suite uses the following trace files:
+
+2009-M57-day11-18.trace.gz
+2009-M57-day11-21.trace.gz
+
+    These traces are part of the 2009-M57-Patents scenario from
+    DigitalCorpora.org.
+
+    To quote the web site:
+
+        DigitalCorpora.org is a website of digital corpora for use in
+        computer forensics education research. All of the disk images,
+        memory dumps, and network packet captures available on this
+        website are freely available and may be used without prior
+        authorization or IRB approval. We also have available a
+        research corpus of real data acquired from around the world.
+        Use of that dataset is possible under special arrangement.
+
+    For more information, see:
+
+        http://digitalcorpora.org
+        http://digitalcorpora.org/corpora/scenarios/m57-patents-scenario
+
+    We fixed the checkums in the traces though.
