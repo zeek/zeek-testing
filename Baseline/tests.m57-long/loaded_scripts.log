@@ -111,7 +111,6 @@
 1	/home/robin/bro/master/scripts/policy/protocols/http/detect-MHR.bro
 1	/home/robin/bro/master/scripts/policy/protocols/http/detect-sqli.bro
 1	/home/robin/bro/master/scripts/policy/protocols/http/detect-webapps.bro
-1	/home/robin/bro/master/scripts/policy/protocols/http/headers.bro
 1	/home/robin/bro/master/scripts/policy/protocols/http/software.bro
 1	/home/robin/bro/master/scripts/policy/protocols/http/var-extraction-cookies.bro
 1	/home/robin/bro/master/scripts/policy/protocols/http/var-extraction-uri.bro
