@@ -1,11 +1,11 @@
 #separator \x09
 #path	ssl
-#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	server_name	subject	not_valid_before	not_valid_after	validation_status
-#types	time	string	addr	port	addr	port	string	string	string	string	time	time	string
-1258798785.762236	hgYZ2LljWNd	192.168.1.105	49168	65.55.25.59	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258803237.192662	ypaCXFZwvel	192.168.1.103	1274	207.46.21.123	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258810935.978019	8HeZ3z01mC7	192.168.1.106	1340	65.55.27.220	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258847617.085938	xSB4lMcGFic	192.168.1.104	1554	65.55.25.60	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258867236.361091	TFMkBGipOF9	192.168.1.103	1665	65.55.200.139	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258867271.907772	cgWZbAFWNqg	192.168.1.105	49183	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
-1258867301.053473	tYpVLa9b6Mb	192.168.1.105	49185	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	server_name	session_id	subject	not_valid_before	not_valid_after	validation_status
+#types	time	string	addr	port	addr	port	string	string	string	string	string	time	time	string
+1258798785.762236	hgYZ2LljWNd	192.168.1.105	49168	65.55.25.59	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258803237.192662	ypaCXFZwvel	192.168.1.103	1274	207.46.21.123	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258810935.978019	8HeZ3z01mC7	192.168.1.106	1340	65.55.27.220	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258847617.085938	xSB4lMcGFic	192.168.1.104	1554	65.55.25.60	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258867236.361091	TFMkBGipOF9	192.168.1.103	1665	65.55.200.139	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258867271.907772	cgWZbAFWNqg	192.168.1.105	49183	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
+1258867301.053473	tYpVLa9b6Mb	192.168.1.105	49185	65.55.200.139	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	1249400647.000000	1280936647.000000	ok
