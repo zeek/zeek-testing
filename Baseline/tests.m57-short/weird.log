@@ -117,7 +117,6 @@
 1258792716.546464	-	-	-	-	-	non_IPv4_packet	-	T
 1258792734.725046	-	-	-	-	-	non_IPv4_packet	-	T
 1258792734.725072	-	-	-	-	-	non_IPv4_packet	-	T
-1258792740.721018	ydiZblvsYri	192.168.1.106	1218	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258792746.661804	-	-	-	-	-	non_IPv4_packet	-	T
 1258792776.776627	-	-	-	-	-	non_IPv4_packet	-	T
 1258792806.891962	-	-	-	-	-	non_IPv4_packet	-	T
@@ -229,7 +228,6 @@
 1258794996.777758	-	-	-	-	-	non_IPv4_packet	-	T
 1258794996.777791	-	-	-	-	-	non_IPv4_packet	-	T
 1258795005.303891	-	-	-	-	-	non_IPv4_packet	-	T
-1258795031.560645	z7Q7sBqiVzi	192.168.1.104	1228	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258795035.419227	-	-	-	-	-	non_IPv4_packet	-	T
 1258795065.533812	-	-	-	-	-	non_IPv4_packet	-	T
 1258795095.649147	-	-	-	-	-	non_IPv4_packet	-	T
@@ -344,7 +342,6 @@
 1258797354.290113	-	-	-	-	-	non_IPv4_packet	-	T
 1258797355.469125	-	-	-	-	-	non_IPv4_packet	-	T
 1258797355.469149	-	-	-	-	-	non_IPv4_packet	-	T
-1258797363.155066	0NZfaz1reTe	192.168.1.103	1240	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258797384.404968	-	-	-	-	-	non_IPv4_packet	-	T
 1258797414.520809	-	-	-	-	-	non_IPv4_packet	-	T
 1258797444.635899	-	-	-	-	-	non_IPv4_packet	-	T
@@ -467,7 +464,6 @@
 1258799944.199532	-	-	-	-	-	non_IPv4_packet	-	T
 1258799947.993905	-	-	-	-	-	non_IPv4_packet	-	T
 1258799947.993932	-	-	-	-	-	non_IPv4_packet	-	T
-1258799966.366368	76IsSv4Livd	192.168.1.106	1266	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258799974.314869	-	-	-	-	-	non_IPv4_packet	-	T
 1258800004.429210	-	-	-	-	-	non_IPv4_packet	-	T
 1258800034.544301	-	-	-	-	-	non_IPv4_packet	-	T
@@ -574,7 +570,6 @@
 1258802206.712403	-	-	-	-	-	non_IPv4_packet	-	T
 1258802219.753935	-	-	-	-	-	non_IPv4_packet	-	T
 1258802219.753958	-	-	-	-	-	non_IPv4_packet	-	T
-1258802229.473092	i13Mdve61rj	192.168.1.104	1267	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258802232.954395	-	-	-	-	-	non_IPv4_packet	-	T
 1258802263.069730	-	-	-	-	-	non_IPv4_packet	-	T
 1258802293.184811	-	-	-	-	-	non_IPv4_packet	-	T
@@ -685,7 +680,6 @@
 1258804521.711420	-	-	-	-	-	non_IPv4_packet	-	T
 1258804529.333394	-	-	-	-	-	non_IPv4_packet	-	T
 1258804529.333425	-	-	-	-	-	non_IPv4_packet	-	T
-1258804535.412820	NA0Ki3m9clk	192.168.1.103	1287	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258804551.826509	-	-	-	-	-	non_IPv4_packet	-	T
 1258804581.941841	-	-	-	-	-	non_IPv4_packet	-	T
 1258804612.056930	-	-	-	-	-	non_IPv4_packet	-	T
@@ -809,7 +803,6 @@
 1258807135.709653	-	-	-	-	-	non_IPv4_packet	-	T
 1258807135.709677	-	-	-	-	-	non_IPv4_packet	-	T
 1258807141.736618	-	-	-	-	-	non_IPv4_packet	-	T
-1258807142.212062	THKKpTXM5p	192.168.1.106	1307	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258807156.750440	-	-	-	-	-	non_IPv4_packet	-	T
 1258807156.750455	-	-	-	-	-	non_IPv4_packet	-	T
 1258807171.851705	-	-	-	-	-	non_IPv4_packet	-	T
@@ -926,7 +919,6 @@
 1258809340.147836	-	-	-	-	-	non_IPv4_packet	-	T
 1258809370.263423	-	-	-	-	-	non_IPv4_packet	-	T
 1258809400.378758	-	-	-	-	-	non_IPv4_packet	-	T
-1258809410.498905	fmzhTmuyvkl	192.168.1.104	1318	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258809430.494091	-	-	-	-	-	non_IPv4_packet	-	T
 1258809451.302022	-	-	-	-	-	non_IPv4_packet	-	T
 1258809451.302040	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1041,7 +1033,6 @@
 1258811715.227334	-	-	-	-	-	non_IPv4_packet	-	T
 1258811715.227358	-	-	-	-	-	non_IPv4_packet	-	T
 1258811719.249558	-	-	-	-	-	non_IPv4_packet	-	T
-1258811725.947601	Ub0WVCpHIZ8	192.168.1.103	1338	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258811749.364895	-	-	-	-	-	non_IPv4_packet	-	T
 1258811779.479978	-	-	-	-	-	non_IPv4_packet	-	T
 1258811809.595315	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1158,7 +1149,6 @@
 1258814309.160361	-	-	-	-	-	non_IPv4_packet	-	T
 1258814310.470290	-	-	-	-	-	non_IPv4_packet	-	T
 1258814310.470313	-	-	-	-	-	non_IPv4_packet	-	T
-1258814317.640536	m6uxq5PMNYc	192.168.1.106	1361	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258814339.275696	-	-	-	-	-	non_IPv4_packet	-	T
 1258814369.391028	-	-	-	-	-	non_IPv4_packet	-	T
 1258814396.995296	LpKcvjDeEtd	192.168.1.1	5353	224.0.0.251	5353	DNS_label_too_long	-	F
@@ -1267,7 +1257,6 @@
 1258816567.803223	-	-	-	-	-	non_IPv4_packet	-	T
 1258816574.953484	-	-	-	-	-	non_IPv4_packet	-	T
 1258816574.953499	-	-	-	-	-	non_IPv4_packet	-	T
-1258816588.197417	RLlxOBQNLtf	192.168.1.104	1358	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258816597.918557	-	-	-	-	-	non_IPv4_packet	-	T
 1258816628.033893	-	-	-	-	-	non_IPv4_packet	-	T
 1258816658.148727	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1378,7 +1367,6 @@
 1258818934.357277	-	-	-	-	-	non_IPv4_packet	-	T
 1258818934.357299	-	-	-	-	-	non_IPv4_packet	-	T
 1258818946.905142	-	-	-	-	-	non_IPv4_packet	-	T
-1258818949.551000	IvRn3LlmlPf	192.168.1.103	1377	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258818977.020478	-	-	-	-	-	non_IPv4_packet	-	T
 1258819007.135815	-	-	-	-	-	non_IPv4_packet	-	T
 1258819037.251148	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1502,7 +1490,6 @@
 1258821563.872691	-	-	-	-	-	non_IPv4_packet	-	T
 1258821563.872716	-	-	-	-	-	non_IPv4_packet	-	T
 1258821566.931515	-	-	-	-	-	non_IPv4_packet	-	T
-1258821570.626441	iphGTgRQbre	192.168.1.106	1415	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258821596.895451	fgrSTqT6j4e	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F
 1258821596.995935	fgrSTqT6j4e	192.168.1.1	5353	224.0.0.251	5353	DNS_label_too_long	-	F
 1258821596.995935	fgrSTqT6j4e	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F
@@ -1618,7 +1605,6 @@
 1258823794.804934	-	-	-	-	-	non_IPv4_packet	-	T
 1258823794.804966	-	-	-	-	-	non_IPv4_packet	-	T
 1258823795.458765	-	-	-	-	-	non_IPv4_packet	-	T
-1258823817.405235	QTwaeyznlV7	192.168.1.104	1403	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258823825.573346	-	-	-	-	-	non_IPv4_packet	-	T
 1258823855.688682	-	-	-	-	-	non_IPv4_packet	-	T
 1258823885.803534	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1729,7 +1715,6 @@
 1258826114.331264	-	-	-	-	-	non_IPv4_packet	-	T
 1258826125.012809	-	-	-	-	-	non_IPv4_packet	-	T
 1258826125.012835	-	-	-	-	-	non_IPv4_packet	-	T
-1258826131.134967	Og4YgEHXoZ	192.168.1.103	1420	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258826144.446099	-	-	-	-	-	non_IPv4_packet	-	T
 1258826174.561429	-	-	-	-	-	non_IPv4_packet	-	T
 1258826204.676764	-	-	-	-	-	non_IPv4_packet	-	T
@@ -1852,7 +1837,6 @@
 1258828764.471393	-	-	-	-	-	non_IPv4_packet	-	T
 1258828767.510738	-	-	-	-	-	non_IPv4_packet	-	T
 1258828767.510770	-	-	-	-	-	non_IPv4_packet	-	T
-1258828773.576171	4EFlc1cco5j	192.168.1.106	1457	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258828794.585733	-	-	-	-	-	non_IPv4_packet	-	T
 1258828796.896284	QpkRpxAlddd	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F
 1258828796.996801	QpkRpxAlddd	192.168.1.1	5353	224.0.0.251	5353	DNS_label_too_long	-	F
@@ -1956,7 +1940,6 @@
 1258830992.996087	-	-	-	-	-	non_IPv4_packet	-	T
 1258831005.907480	-	-	-	-	-	non_IPv4_packet	-	T
 1258831005.907508	-	-	-	-	-	non_IPv4_packet	-	T
-1258831012.014133	m4PUc3uB8Oi	192.168.1.104	1447	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258831023.110912	-	-	-	-	-	non_IPv4_packet	-	T
 1258831053.225747	-	-	-	-	-	non_IPv4_packet	-	T
 1258831074.315258	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2072,7 +2055,6 @@
 1258833339.221113	-	-	-	-	-	non_IPv4_packet	-	T
 1258833339.221139	-	-	-	-	-	non_IPv4_packet	-	T
 1258833341.982873	-	-	-	-	-	non_IPv4_packet	-	T
-1258833349.794205	UZukDABukP2	192.168.1.103	1460	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258833358.488508	-	-	-	-	-	non_IPv4_packet	-	T
 1258833358.488529	-	-	-	-	-	non_IPv4_packet	-	T
 1258833372.097959	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2201,7 +2183,6 @@
 1258835931.893588	-	-	-	-	-	non_IPv4_packet	-	T
 1258835941.334666	-	-	-	-	-	non_IPv4_packet	-	T
 1258835941.334694	-	-	-	-	-	non_IPv4_packet	-	T
-1258835949.739127	sPaWq2NKbFf	192.168.1.106	1503	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258835962.008175	-	-	-	-	-	non_IPv4_packet	-	T
 1258835992.123260	-	-	-	-	-	non_IPv4_packet	-	T
 1258835996.896308	HowYxDqiDe7	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F
@@ -2309,7 +2290,6 @@
 1258838218.857838	-	-	-	-	-	non_IPv4_packet	-	T
 1258838218.857862	-	-	-	-	-	non_IPv4_packet	-	T
 1258838220.650715	-	-	-	-	-	non_IPv4_packet	-	T
-1258838242.433518	4B3aoqyYkj6	192.168.1.104	1491	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258838250.765795	-	-	-	-	-	non_IPv4_packet	-	T
 1258838280.880629	-	-	-	-	-	non_IPv4_packet	-	T
 1258838310.995962	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2427,7 +2407,6 @@
 1258840558.067262	-	-	-	-	-	non_IPv4_packet	-	T
 1258840558.067287	-	-	-	-	-	non_IPv4_packet	-	T
 1258840569.636741	-	-	-	-	-	non_IPv4_packet	-	T
-1258840573.529828	RwQ34gvSVa7	192.168.1.103	1502	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258840599.752077	-	-	-	-	-	non_IPv4_packet	-	T
 1258840603.077986	-	-	-	-	-	non_IPv4_packet	-	T
 1258840603.078006	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2541,7 +2520,6 @@
 1258843129.430674	-	-	-	-	-	non_IPv4_packet	-	T
 1258843129.739730	-	-	-	-	-	non_IPv4_packet	-	T
 1258843129.739753	-	-	-	-	-	non_IPv4_packet	-	T
-1258843135.886867	WnokOk3yOhc	192.168.1.106	1546	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258843152.985556	Oib76N1JMd4	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F
 1258843153.085830	Oib76N1JMd4	192.168.1.1	5353	224.0.0.251	5353	DNS_label_too_long	-	F
 1258843153.085830	Oib76N1JMd4	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F
@@ -2648,7 +2626,6 @@
 1258845388.073652	-	-	-	-	-	non_IPv4_packet	-	T
 1258845389.458290	-	-	-	-	-	non_IPv4_packet	-	T
 1258845389.458317	-	-	-	-	-	non_IPv4_packet	-	T
-1258845395.239651	vXMmqGWj1U	192.168.1.104	1531	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258845418.188504	-	-	-	-	-	non_IPv4_packet	-	T
 1258845448.303842	-	-	-	-	-	non_IPv4_packet	-	T
 1258845478.418191	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2767,7 +2744,6 @@
 1258847706.946003	-	-	-	-	-	non_IPv4_packet	-	T
 1258847726.192921	-	-	-	-	-	non_IPv4_packet	-	T
 1258847726.192949	-	-	-	-	-	non_IPv4_packet	-	T
-1258847732.528235	clNEkygxCO5	192.168.1.103	1543	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258847737.061844	-	-	-	-	-	non_IPv4_packet	-	T
 1258847767.177175	-	-	-	-	-	non_IPv4_packet	-	T
 1258847774.500330	-	-	-	-	-	non_IPv4_packet	-	T
@@ -2891,7 +2867,6 @@
 1258850297.919691	570Mm9OS3Ei	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F
 1258850315.368770	-	-	-	-	-	non_IPv4_packet	-	T
 1258850315.368803	-	-	-	-	-	non_IPv4_packet	-	T
-1258850321.482188	EPgNMTjZJs3	192.168.1.106	1588	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258850326.970974	-	-	-	-	-	non_IPv4_packet	-	T
 1258850357.086310	-	-	-	-	-	non_IPv4_packet	-	T
 1258850387.201146	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3001,7 +2976,6 @@
 1258852555.497999	-	-	-	-	-	non_IPv4_packet	-	T
 1258852579.253836	-	-	-	-	-	non_IPv4_packet	-	T
 1258852579.253860	-	-	-	-	-	non_IPv4_packet	-	T
-1258852585.264806	0mTDXVUAPt7	192.168.1.104	1584	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258852585.613333	-	-	-	-	-	non_IPv4_packet	-	T
 1258852615.728418	-	-	-	-	-	non_IPv4_packet	-	T
 1258852645.844001	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3119,7 +3093,6 @@
 1258854958.361006	-	-	-	-	-	non_IPv4_packet	-	T
 1258854958.361032	-	-	-	-	-	non_IPv4_packet	-	T
 1258854964.715007	-	-	-	-	-	non_IPv4_packet	-	T
-1258854967.543225	X36CaQVsn3	192.168.1.103	1589	87.106.12.47	80	unmatched_HTTP_reply	-	F
 1258854972.240780	-	-	-	-	-	non_IPv4_packet	-	T
 1258854972.240797	-	-	-	-	-	non_IPv4_packet	-	T
 1258854994.830593	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3247,7 +3220,6 @@
 1258857554.622514	-	-	-	-	-	non_IPv4_packet	-	T
 1258857561.297320	-	-	-	-	-	non_IPv4_packet	-	T
 1258857561.297343	-	-	-	-	-	non_IPv4_packet	-	T
-1258857567.397494	n4D3tXImj37	192.168.1.106	1634	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258857584.737842	-	-	-	-	-	non_IPv4_packet	-	T
 1258857614.852926	-	-	-	-	-	non_IPv4_packet	-	T
 1258857644.968011	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3358,7 +3330,6 @@
 1258859838.278088	-	-	-	-	-	non_IPv4_packet	-	T
 1258859838.278110	-	-	-	-	-	non_IPv4_packet	-	T
 1258859843.380633	-	-	-	-	-	non_IPv4_packet	-	T
-1258859843.511552	0VGz9DFQAj3	192.168.1.104	1624	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258859873.495469	-	-	-	-	-	non_IPv4_packet	-	T
 1258859903.610802	-	-	-	-	-	non_IPv4_packet	-	T
 1258859933.725638	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3477,7 +3448,6 @@
 1258862162.251322	-	-	-	-	-	non_IPv4_packet	-	T
 1258862164.223833	-	-	-	-	-	non_IPv4_packet	-	T
 1258862164.223854	-	-	-	-	-	non_IPv4_packet	-	T
-1258862170.535374	aGJp3552mE6	192.168.1.103	1631	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258862192.366658	-	-	-	-	-	non_IPv4_packet	-	T
 1258862217.032663	-	-	-	-	-	non_IPv4_packet	-	T
 1258862217.032687	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3599,7 +3569,6 @@
 1258864691.930594	-	-	-	-	-	non_IPv4_packet	-	T
 1258864710.522173	-	-	-	-	-	non_IPv4_packet	-	T
 1258864710.522203	-	-	-	-	-	non_IPv4_packet	-	T
-1258864716.655577	wzL7pZSkh2c	192.168.1.106	1673	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258864722.045681	-	-	-	-	-	non_IPv4_packet	-	T
 1258864752.160515	-	-	-	-	-	non_IPv4_packet	-	T
 1258864782.276098	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3710,7 +3679,6 @@
 1258866980.687605	-	-	-	-	-	non_IPv4_packet	-	T
 1258866998.522164	-	-	-	-	-	non_IPv4_packet	-	T
 1258866998.522192	-	-	-	-	-	non_IPv4_packet	-	T
-1258867004.452439	sqTCEvmG1B3	192.168.1.104	1667	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258867010.802946	-	-	-	-	-	non_IPv4_packet	-	T
 1258867040.918291	-	-	-	-	-	non_IPv4_packet	-	T
 1258867071.033384	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3758,9 +3726,6 @@
 1258867914.261510	-	-	-	-	-	non_IPv4_packet	-	T
 1258867931.597628	-	-	-	-	-	non_IPv4_packet	-	T
 1258867931.597652	-	-	-	-	-	non_IPv4_packet	-	T
-1258867934.566026	KfwnIkHfMl	192.168.1.105	49219	198.189.255.75	80	http_no_crlf_in_header_list	-	T
-1258867934.566054	KfwnIkHfMl	192.168.1.105	49219	198.189.255.75	80	http_no_crlf_in_header_list	-	T
-1258867934.573499	KfwnIkHfMl	192.168.1.105	49219	198.189.255.75	80	http_no_crlf_in_header_list	-	T
 1258867944.376848	-	-	-	-	-	non_IPv4_packet	-	T
 1258867974.491946	-	-	-	-	-	non_IPv4_packet	-	T
 1258868004.607039	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3834,7 +3799,6 @@
 1258869299.560883	-	-	-	-	-	non_IPv4_packet	-	T
 1258869329.676221	-	-	-	-	-	non_IPv4_packet	-	T
 1258869359.791557	-	-	-	-	-	non_IPv4_packet	-	T
-1258869368.621759	Psfhl5Bbsxd	192.168.1.103	1681	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258869389.907393	-	-	-	-	-	non_IPv4_packet	-	T
 1258869420.022734	-	-	-	-	-	non_IPv4_packet	-	T
 1258869450.137817	-	-	-	-	-	non_IPv4_packet	-	T
@@ -3953,7 +3917,6 @@
 1258871924.179987	-	-	-	-	-	non_IPv4_packet	-	T
 1258871924.180012	-	-	-	-	-	non_IPv4_packet	-	T
 1258871949.702462	-	-	-	-	-	non_IPv4_packet	-	T
-1258871968.758994	STtn5kRWjDg	192.168.1.106	1712	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258871979.817303	-	-	-	-	-	non_IPv4_packet	-	T
 1258872009.932376	-	-	-	-	-	non_IPv4_packet	-	T
 1258872040.047712	-	-	-	-	-	non_IPv4_packet	-	T
@@ -4056,7 +4019,6 @@
 1258874178.228277	-	-	-	-	-	non_IPv4_packet	-	T
 1258874183.280607	-	-	-	-	-	non_IPv4_packet	-	T
 1258874183.280631	-	-	-	-	-	non_IPv4_packet	-	T
-1258874190.461861	HlzpDFCTBj2	192.168.1.104	1710	87.106.12.77	80	unmatched_HTTP_reply	-	F
 1258874208.343613	-	-	-	-	-	non_IPv4_packet	-	T
 1258874238.458948	-	-	-	-	-	non_IPv4_packet	-	T
 1258874268.574284	-	-	-	-	-	non_IPv4_packet	-	T
@@ -4178,7 +4140,6 @@
 1258876501.033360	-	-	-	-	-	non_IPv4_packet	-	T
 1258876501.033376	-	-	-	-	-	non_IPv4_packet	-	T
 1258876527.216438	-	-	-	-	-	non_IPv4_packet	-	T
-1258876547.010991	Kq3Fv133lCe	192.168.1.103	1721	87.106.13.61	80	unmatched_HTTP_reply	-	F
 1258876557.331495	-	-	-	-	-	non_IPv4_packet	-	T
 1258876587.447333	-	-	-	-	-	non_IPv4_packet	-	T
 1258876617.562416	-	-	-	-	-	non_IPv4_packet	-	T
