@@ -1,6 +1,6 @@
 #separator \x09
 #path	notice_policy
-#fields	position	priority	result	pred	halt	suppress_for
+#fields	position	priority	action	pred	halt	suppress_for
 #types	count	count	enum	func	bool	interval
 0	10	Notice::ACTION_NONE	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::lookup_location_types));\x0a}	F	-
 1	9	Notice::ACTION_NO_SUPPRESS	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::not_suppressed_types));\x0a}	F	-

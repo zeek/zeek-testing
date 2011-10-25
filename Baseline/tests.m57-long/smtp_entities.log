@@ -1,7 +1,7 @@
 #separator \x09
 #path	smtp_entities
-#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	mid	filename	content_len	mime_type	md5	extraction_file	excerpt
-#types	time	string	addr	port	addr	port	string	string	count	string	string	file	string
-1258574141.244088	cVlGuCnPxF2	192.168.1.104	1572	192.168.1.1	25	@WSJFcD8XfSg	-	482	text/plain	-	-	-
-1258577484.785543	OyRbKQOMW5b	192.168.1.104	1604	192.168.1.1	25	@wR2vqxv8AZa	-	215	text/plain	-	-	-
-1258577841.047448	qXK1O34wiq7	192.168.1.104	1665	192.168.1.1	25	@py2t7hKUeNh	-	124	text/plain	-	-	-
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	filename	content_len	mime_type	md5	extraction_file	excerpt
+#types	time	string	addr	port	addr	port	count	string	count	string	string	file	string
+1258574141.244088	WPErMCJnrM	192.168.1.104	1572	192.168.1.1	25	1	-	482	text/plain	-	-	-
+1258577484.785543	O5OicBCbh9	192.168.1.104	1604	192.168.1.1	25	1	-	215	text/plain	-	-	-
+1258577841.047448	3AuRjJDuacf	192.168.1.104	1665	192.168.1.1	25	1	-	124	text/plain	-	-	-
