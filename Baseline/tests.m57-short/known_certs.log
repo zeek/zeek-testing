@@ -1,4 +1,7 @@
 #separator \x09
+#set_separator	\x2c
+#empty_field	\x2d
+#unset_field	\x2d
 #path	known_certs
 #fields	ts	host	port_num	subject	issuer_subject	serial
 #types	time	addr	port	string	string	string

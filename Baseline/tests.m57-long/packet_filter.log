@@ -1,5 +1,8 @@
 #separator \x09
+#set_separator	\x2c
+#empty_field	\x2d
+#unset_field	\x2d
 #path	packet_filter
 #fields	ts	node	filter	init	success
 #types	time	string	string	bool	bool
-1315854446.432001	-	not ip6	T	T
+1323277337.156226	-	not ip6	T	T
