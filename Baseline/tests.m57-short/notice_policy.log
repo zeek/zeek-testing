@@ -2,7 +2,7 @@
 #path	notice_policy
 #fields	position	priority	action	pred	halt	suppress_for
 #types	count	count	enum	func	bool	interval
-0	10	Notice::ACTION_NONE	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::lookup_location_types));\x0a}	F	-
+0	10	Notice::ACTION_ADD_GEODATA	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::lookup_location_types));\x0a}	F	-
 1	9	Notice::ACTION_NO_SUPPRESS	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::not_suppressed_types));\x0a}	F	-
 2	9	Notice::ACTION_NONE	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::ignored_types));\x0a}	T	-
 3	8	Notice::ACTION_EMAIL	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::emailed_types));\x0a}	F	-
