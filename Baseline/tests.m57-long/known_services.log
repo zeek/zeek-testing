@@ -1,10 +1,10 @@
 #separator \x09
-#set_separator	\x2c
-#empty_field	\x2d
-#unset_field	\x2d
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
 #path	known_services
 #fields	ts	host	port_num	port_proto	service
-#types	time	addr	port	enum	table
+#types	time	addr	port	enum	table[string]
 1258535653.087137	65.54.95.64	80	tcp	HTTP
 1258535655.525107	65.55.184.16	80	tcp	HTTP
 1258535660.452083	65.55.184.16	443	tcp	SSL
@@ -400,8 +400,8 @@
 1258594100.696400	140.211.167.212	80	tcp	HTTP
 1258594101.111890	192.87.102.42	80	tcp	HTTP
 1258594110.547962	137.226.34.227	80	tcp	HTTP
-1258593978.298978	65.55.17.25	80	tcp	-
-1258595053.597629	192.168.1.1	139	tcp	-
+1258593978.298978	65.55.17.25	80	tcp	(empty)
+1258595053.597629	192.168.1.1	139	tcp	(empty)
 1258595464.742817	65.55.184.26	443	tcp	SSL
 1258595468.708266	65.54.95.7	80	tcp	HTTP
 1258595500.568019	65.54.95.209	80	tcp	HTTP

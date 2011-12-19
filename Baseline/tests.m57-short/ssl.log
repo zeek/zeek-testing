@@ -1,7 +1,7 @@
 #separator \x09
-#set_separator	\x2c
-#empty_field	\x2d
-#unset_field	\x2d
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
 #path	ssl
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	server_name	session_id	subject	not_valid_before	not_valid_after	last_alert	cert_hash	validation_status
 #types	time	string	addr	port	addr	port	string	string	string	string	string	time	time	string	string	string

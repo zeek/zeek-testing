@@ -1,7 +1,10 @@
 #separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
 #path	dns
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	QR	AA	TC	RD	RA	Z	answers	TTLs	auth	addl
-#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	bool	count	vector	vector	table	table
+#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	bool	count	vector[string]	vector[interval]	table[string]	table[string]
 1258790493.787450	UWkUyAuUGXf	192.168.1.104	137	192.168.1.255	137	udp	33084	WORKGROUP	1	C_INTERNET	32	NB	0	NOERROR	F	F	F	T	F	1	-	-	-	-
 1258790496.030790	UWkUyAuUGXf	192.168.1.104	137	192.168.1.255	137	udp	33087	WORKGROUP	1	C_INTERNET	32	NB	0	NOERROR	F	F	F	T	F	1	-	-	-	-
 1258790493.773208	UWkUyAuUGXf	192.168.1.104	137	192.168.1.255	137	udp	33081	DOMEX	1	C_INTERNET	32	NB	0	NOERROR	F	F	F	T	F	1	-	-	-	-

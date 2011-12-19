@@ -1,7 +1,7 @@
 #separator \x09
-#set_separator	\x2c
-#empty_field	\x2d
-#unset_field	\x2d
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
 #path	software
 #fields	ts	host	software_type	name	version.major	version.minor	version.minor2	version.addl	unparsed_version	url
 #types	time	addr	enum	string	count	count	count	string	string	string
@@ -289,7 +289,7 @@
 1258567195.406797	192.168.1.105	HTTP::BROWSER_PLUGIN	Shockwave Flash	-	-	-	-	Shockwave Flash	-
 1258567195.406797	192.168.1.105	HTTP::BROWSER_PLUGIN	Java(TM) Platform SE	6	-	-	U16	Java(TM) Platform SE 6 U16	-
 1258567195.507778	198.189.255.82	HTTP::SERVER	Microsoft-IIS	6	0	-	-	Microsoft-IIS/6.0	-
-1258567212.862109	68.71.209.202	HTTP::SERVER	-	1	7	-	-	1.7	-
+1258567212.862109	68.71.209.202	HTTP::SERVER	(empty)	1	7	-	-	1.7	-
 1258567221.316546	216.240.189.196	HTTP::SERVER	Microsoft-IIS	6	0	-	-	Microsoft-IIS/6.0	-
 1258567221.316546	216.240.189.196	HTTP::APPSERVER	ASP.NET	-	-	-	-	ASP.NET	-
 1258567221.726332	216.240.189.244	HTTP::SERVER	Microsoft-IIS	6	0	-	-	Microsoft-IIS/6.0	-

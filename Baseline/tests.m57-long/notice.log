@@ -1,10 +1,10 @@
 #separator \x09
-#set_separator	\x2c
-#empty_field	\x2d
-#unset_field	\x2d
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
 #path	notice
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	note	msg	sub	src	dst	p	n	peer_descr	actions	policy_items	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude	metric_index.host	metric_index.str	metric_index.network
-#types	time	string	addr	port	addr	port	enum	string	string	addr	addr	port	count	string	table	table	interval	bool	string	string	string	double	double	addr	string	subnet
+#types	time	string	addr	port	addr	port	enum	string	string	addr	addr	port	count	string	table[enum]	table[count]	interval	bool	string	string	string	double	double	addr	string	subnet
 1258544216.937559	KdxkbQDVvo2	192.168.1.104	1260	198.189.255.75	80	HTTP::Incorrect_File_Type	application/x-dosexec GET http://aa.avg.com/softw/90/update/u7avi1777u1705ff.bin	-	192.168.1.104	198.189.255.75	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
 1258544216.999901	KdxkbQDVvo2	192.168.1.104	1260	198.189.255.75	80	HTTP::MD5	192.168.1.104 0210a9516dd34abc481683f877bd8680 http://aa.avg.com/softw/90/update/u7avi1777u1705ff.bin	0210a9516dd34abc481683f877bd8680	192.168.1.104	198.189.255.75	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
 1258544217.374776	3SBtoMUTzFg	192.168.1.104	1262	198.189.255.75	80	HTTP::Incorrect_File_Type	application/x-dosexec GET http://aa.avg.com/softw/90/update/u7iavi2511u2510ff.bin	-	192.168.1.104	198.189.255.75	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
