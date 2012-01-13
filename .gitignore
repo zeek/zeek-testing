@@ -1,3 +1,5 @@
 Traces
 diag.log
 .proxy
+coverage.log
+.tmp
