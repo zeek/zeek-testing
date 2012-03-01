@@ -2,18 +2,24 @@
 DIAG=diag.log
 BTEST=../../../aux/btest/btest
 
-all: update-traces cleanup
-	@$(BTEST) -f $(DIAG)
-	@../../scripts/coverage-calc ".tmp/script-coverage" coverage.log `pwd`/../../../scripts
+all: update-traces cleanup btest-verbose coverage
 
-brief: update-traces cleanup
-	@rm -f $(DIAG)
+btest-verbose:
+	@$(BTEST) -f $(DIAG)
+
+brief: update-traces cleanup btest-brief coverage
+
+btest-brief:
 	@$(BTEST) -b -f $(DIAG)
-	@../../scripts/coverage-calc ".tmp/script-coverage" coverage.log `pwd`/../../../scripts
+
+coverage:
+	@../../scripts/coverage-calc ".tmp/script-coverage*" coverage.log `pwd`/../../../scripts
 
 update-traces:
-	../scripts/update-traces Traces
+	@../scripts/update-traces Traces
 
 cleanup:
 	@rm -f $(DIAG)
-	@rm -f .tmp/script-coverage
+	@rm -f .tmp/script-coverage*
+
+.PHONY: all btest-verbose brief btest-brief coverage update-traces cleanup
