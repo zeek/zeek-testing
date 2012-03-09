@@ -5,24 +5,24 @@
 #path	smtp
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	helo	mailfrom	rcptto	date	from	to	reply_to	msg_id	in_reply_to	subject	x_originating_ip	first_received	second_received	last_reply	path	user_agent	is_webmail
 #types	time	string	addr	port	addr	port	count	string	string	table[string]	string	string	table[string]	string	string	string	string	addr	string	string	string	vector[addr]	string	bool
-1258563574.317353	2StZIDNvMPd	192.168.1.103	1397	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258565030.376588	Gv4aw1dpqzf	192.168.1.103	1749	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258565174.991575	LRpJQlDBIfb	192.168.1.103	1755	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258565820.457990	Xq5N56aYexi	192.168.1.105	49218	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258565880.190433	00zjvzpBcge	192.168.1.105	49219	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258566050.196411	QtfPwF1PnX2	192.168.1.105	49220	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258566123.707914	nxSIruShqn9	192.168.1.103	1806	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258567109.538720	e4s4xUOl81j	192.168.1.102	1400	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
-1258567248.334105	zQf6I5N18O2	192.168.1.102	1404	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
-1258567289.263351	f5gBtT9k2g3	192.168.1.102	1405	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
-1258567757.529597	g4VqWGa1rFf	192.168.1.105	49336	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258568036.578840	MsCSTvIasqk	192.168.1.105	49353	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258568059.130219	9h4DDymDXKj	192.168.1.103	1836	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258568667.619232	o3D0PbXTn5b	192.168.1.102	1709	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
-1258568738.109336	HDYSrypQTf8	192.168.1.105	49561	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
-1258574141.215730	WPErMCJnrM	192.168.1.104	1572	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<pat@m57.biz>	Wed, 18 Nov 2009 11:58:15 -0800	Charlie <charlie@m57.biz>	Pat McGoo <pat@m57.biz>	-	<4B0451D7.6080508@m57.biz>	<98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>	Re: COFFEE	-	-	-	250 2.0.0 Ok: queued as 3B2C92AF471	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
-1258577484.766250	O5OicBCbh9	192.168.1.104	1604	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<pat@m57.biz>	Wed, 18 Nov 2009 12:53:59 -0800	Charlie <charlie@m57.biz>	Pat McGoo <pat@m57.biz>	-	<4B045EE7.2000405@m57.biz>	<941C9DB33FCE45B7848E97D30E37ABD2@m57pat>	Re: Google patent	-	-	-	250 2.0.0 Ok: queued as BF9192AF931	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
-1258577841.023534	3AuRjJDuacf	192.168.1.104	1665	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<alix.pery@yahoo.com>	Wed, 18 Nov 2009 12:59:55 -0800	Charlie <charlie@m57.biz>	Alix Pery <alix.pery@yahoo.com>	-	<4B04604B.3070508@m57.biz>	-	Movie tonight???	-	-	-	250 2.0.0 Ok: queued as 0B4782AF94B	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
-1258581758.231392	kB20gK4vnya	192.168.1.103	1934	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258582108.009273	wyvB0WFjED6	192.168.1.103	2008	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
-1258583615.024437	bK2sxKR7of	192.168.1.102	1911	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
+1258563574.317353	UGSfIqu3nOb	192.168.1.103	1397	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258565030.376588	dkyowOUkIgk	192.168.1.103	1749	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258565174.991575	GjsI0ukuqp6	192.168.1.103	1755	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258565820.457990	KSTgZYfmWQ	192.168.1.105	49218	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258565880.190433	BjcmwdKIWza	192.168.1.105	49219	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258566050.196411	oEICnKsNdV	192.168.1.105	49220	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258566123.707914	6iFDqCKKEKh	192.168.1.103	1806	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258567109.538720	nsC5iBFPkRi	192.168.1.102	1400	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
+1258567248.334105	EMZgmhheGmc	192.168.1.102	1404	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
+1258567289.263351	NFSIYJkoRuh	192.168.1.102	1405	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
+1258567757.529597	1pmrV8GC0pi	192.168.1.105	49336	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258568036.578840	Sz81q0PlfRf	192.168.1.105	49353	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258568059.130219	75pirZYwm8f	192.168.1.103	1836	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258568667.619232	KzN86BQxPPl	192.168.1.102	1709	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F
+1258568738.109336	V9nPxsgkYy6	192.168.1.105	49561	192.168.1.1	25	1	M57Terry	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.105	-	F
+1258574141.215730	17UO389cVe9	192.168.1.104	1572	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<pat@m57.biz>	Wed, 18 Nov 2009 11:58:15 -0800	Charlie <charlie@m57.biz>	Pat McGoo <pat@m57.biz>	-	<4B0451D7.6080508@m57.biz>	<98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>	Re: COFFEE	-	-	-	250 2.0.0 Ok: queued as 3B2C92AF471	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
+1258577484.766250	04gVwEf3OZ8	192.168.1.104	1604	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<pat@m57.biz>	Wed, 18 Nov 2009 12:53:59 -0800	Charlie <charlie@m57.biz>	Pat McGoo <pat@m57.biz>	-	<4B045EE7.2000405@m57.biz>	<941C9DB33FCE45B7848E97D30E37ABD2@m57pat>	Re: Google patent	-	-	-	250 2.0.0 Ok: queued as BF9192AF931	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
+1258577841.023534	b6peIpbcoQh	192.168.1.104	1665	192.168.1.1	25	1	[192.168.1.104]	<charlie@m57.biz>	<alix.pery@yahoo.com>	Wed, 18 Nov 2009 12:59:55 -0800	Charlie <charlie@m57.biz>	Alix Pery <alix.pery@yahoo.com>	-	<4B04604B.3070508@m57.biz>	-	Movie tonight???	-	-	-	250 2.0.0 Ok: queued as 0B4782AF94B	192.168.1.1,192.168.1.104	Thunderbird 2.0.0.23 (Windows/20090812)	F
+1258581758.231392	EnK3eTLfw49	192.168.1.103	1934	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258582108.009273	f2bpmIuRxn	192.168.1.103	2008	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	F
+1258583615.024437	1PlXs4zsjp3	192.168.1.102	1911	192.168.1.1	25	1	m57jo	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.102	-	F

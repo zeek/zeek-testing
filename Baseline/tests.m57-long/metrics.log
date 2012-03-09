@@ -38,10 +38,10 @@
 1258562660.423474	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	2
 1258562720.438558	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	35
 1258562780.884123	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	1
-1258563066.389709	SSL_SERVERNAME	no-google-ssl-servers	-	addons.mozilla.org	-	1
-1258563066.389709	SSL_SERVERNAME	no-google-ssl-servers	-	aus2.mozilla.org	-	1
+1258563073.184305	SSL_SERVERNAME	no-google-ssl-servers	-	addons.mozilla.org	-	1
+1258563073.184305	SSL_SERVERNAME	no-google-ssl-servers	-	aus2.mozilla.org	-	1
 1258563081.910716	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	3
-1258563087.302134	SSL_SERVERNAME	no-google-ssl-servers	-	mail.m57.biz	-	1
+1258563093.914400	SSL_SERVERNAME	no-google-ssl-servers	-	mail.m57.biz	-	1
 1258563322.308645	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	26
 1258563383.188890	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	1
 1258563623.955034	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	2
@@ -107,8 +107,8 @@
 1258568382.323811	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	24
 1258568442.355634	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	16
 1258568543.011206	SSL_SERVERNAME	no-google-ssl-servers	-	dsa.csdata1.com	-	1
-1258568553.695499	SSL_SERVERNAME	no-google-ssl-servers	-	ads.revsci.net	-	1
-1258568553.695499	SSL_SERVERNAME	no-google-ssl-servers	-	ad.yieldmanager.com	-	1
+1258568553.211801	SSL_SERVERNAME	no-google-ssl-servers	-	ads.revsci.net	-	1
+1258568553.211801	SSL_SERVERNAME	no-google-ssl-servers	-	ad.yieldmanager.com	-	1
 1258568563.015895	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	32
 1258568623.246343	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	28
 1258568660.569474	SSL_SERVERNAME	no-google-ssl-servers	-	pop.gmail.com	-	1
