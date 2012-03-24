@@ -3,3 +3,4 @@ diag.log
 .proxy
 coverage.log
 .tmp
+.btest.failed.dat

@@ -92,6 +92,7 @@
 1258560672.814170	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258560749.351904	g5QMV5gJUHl	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258560749.351926	4xDKNu3egAb	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
+1258561267.306549	-	-	-	-	-	unknown_protocol_58	-	F	bro
 1258561275.120146	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258561443.253053	M8BxeprkEql	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258561443.253069	CzKU7Ihr76h	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
@@ -247,14 +248,17 @@
 1258587656.101604	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258588258.408124	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258588510.373752	O8P6VwTPuCa	192.168.1.103	2068	66.235.139.54	80	unescaped_special_URI_char	-	F	bro
+1258588791.587271	-	-	-	-	-	unknown_protocol_58	-	F	bro
 1258588890.828496	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258589082.903369	gI2i2fQKyib	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258589082.903387	Mq78VTrPXql	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
+1258589303.367108	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258589493.134550	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258589755.194825	CYgCeBZ6HPf	192.168.1.102	5353	224.0.0.251	5353	DNS_label_len_gt_pkt	-	F	bro
 1258589755.194825	CYgCeBZ6HPf	192.168.1.102	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258589755.846670	CYgCeBZ6HPf	192.168.1.102	5353	224.0.0.251	5353	DNS_label_too_long	-	F	bro
 1258589755.846670	CYgCeBZ6HPf	192.168.1.102	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
+1258589757.290519	-	-	-	-	-	unknown_protocol_58	-	F	bro
 1258589759.150345	CYgCeBZ6HPf	192.168.1.102	5353	224.0.0.251	5353	dns_changed_number_of_responses	The declared number of responses changed from 5 to 2	F	bro
 1258589761.732969	Tz3pDToFU6c	192.168.1.104	5353	224.0.0.251	5353	DNS_label_len_gt_pkt	-	F	bro
 1258589761.732969	Tz3pDToFU6c	192.168.1.104	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
@@ -262,21 +266,26 @@
 1258589766.019279	ZWokZStu4jh	192.168.1.103	5353	224.0.0.251	5353	DNS_label_len_gt_pkt	-	F	bro
 1258589766.019279	ZWokZStu4jh	192.168.1.103	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258589768.021526	ZWokZStu4jh	192.168.1.103	5353	224.0.0.251	5353	dns_changed_number_of_responses	The declared number of responses changed from 5 to 2	F	bro
+1258589936.092312	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258590095.439577	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258590243.252572	6KHbojlWrK9	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258590243.252595	dgFXeZ9pq2	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258590727.860431	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258591360.280477	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258591684.254124	-	-	-	-	-	unknown_protocol_58	-	F	bro
+1258591685.270227	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258591992.701769	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258592297.089738	to9pXxb71I5	192.168.1.104	5353	224.0.0.251	5353	DNS_label_too_long	-	F	bro
 1258592297.089738	to9pXxb71I5	192.168.1.104	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258592297.089903	gk6bIAzS194	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258592297.089940	UEXBEzMUJh1	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_ans_too_short	-	F	bro
 1258592297.089979	uXPUqt8PI1a	192.168.1.102	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
+1258592297.097222	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258592297.852259	483Q9d9Wxo6	192.168.1.103	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258592596.624339	GdDOVm4VFNj	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258592596.624375	o2flSOKG6yi	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258592625.122744	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258592927.775320	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258593089.102815	srXfLc4HZ5c	192.168.1.102	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
 1258593089.102954	2jSvgjd8Zf6	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258593089.102985	s6QHnGkaM9a	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_ans_too_short	-	F	bro
@@ -295,6 +304,7 @@
 1258594856.063290	7nptaBhBMqf	192.168.1.103	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258594856.063434	DHar9wRMO6c	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_ans_too_short	-	F	bro
 1258594856.063465	fZLRKCKu0el	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_ans_too_short	-	F	bro
+1258594856.068533	-	-	-	-	-	unknown_protocol_2	-	F	bro
 1258594866.458695	ftUBcDteLih	192.168.1.1	5353	224.0.0.251	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258594866.458709	A96ajSu7OPf	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_truncated_RR_rdlength_lt_len	-	F	bro
 1258594907.849138	m0sYjQaExIl	192.168.1.1	137	192.168.1.102	137	DNS_truncated_ans_too_short	-	F	bro
