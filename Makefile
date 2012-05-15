@@ -1,6 +1,6 @@
 
 DIAG=diag.log
-BTEST=../../../aux/btest/btest
+BTEST=../../../aux/btest/btest -j 3
 
 all: update-traces cleanup btest-verbose coverage
 
