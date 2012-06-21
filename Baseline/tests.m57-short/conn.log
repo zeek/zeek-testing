@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	parents
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	count	string	count	count	count	count	table[string]
 1258790493.773208	k6kgXLOoSKl	192.168.1.104	137	192.168.1.255	137	udp	dns	3.748891	350	0	S0	-	0	D	7	546	0	0	(empty)
 1258790451.402091	arKYeMETxOg	192.168.1.106	138	192.168.1.255	138	udp	-	-	-	-	S0	-	0	D	1	229	0	0	(empty)
