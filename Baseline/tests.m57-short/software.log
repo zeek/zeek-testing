@@ -3,6 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
+#start	2009-11-21-08-38-56
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	string	string	string
 1258792736.753765	192.168.1.106	-	HTTP::BROWSER	SCSDK	6	0	0	-	SCSDK-6.0.0	-
@@ -82,3 +83,4 @@
 1258867304.596250	192.168.1.105	-	HTTP::BROWSER	Microsoft BITS	7	0	-	-	Microsoft BITS/7.0	-
 1258867304.610983	198.189.255.75	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	Microsoft-IIS/6.0	-
 1258867304.610983	198.189.255.75	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	ASP.NET	-
+#end	2009-11-22-07-59-58

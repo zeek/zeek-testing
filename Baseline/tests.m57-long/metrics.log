@@ -3,6 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	metrics
+#start	2009-11-18-09-14-37
 #fields	ts	metric_id	filter_name	index.host	index.str	index.network	value
 #types	time	enum	string	addr	string	subnet	count
 1258535677.150531	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	7
@@ -444,3 +445,4 @@
 1258617048.574759	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	2
 1258617349.517538	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	3
 1258617409.958038	CONNS_ORIGINATED	default	-	-	192.168.1.0/24	6
+#end	2009-11-19-07-59-50

@@ -3,8 +3,10 @@
 #empty_field	(empty)
 #unset_field	-
 #path	smtp_entities
+#start	2009-11-18-19-55-41
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	filename	content_len	mime_type	md5	extraction_file	excerpt
 #types	time	string	addr	port	addr	port	count	string	count	string	string	file	string
-1258574141.244088	17UO389cVe9	192.168.1.104	1572	192.168.1.1	25	1	-	482	text/plain	-	-	(empty)
-1258577484.785543	04gVwEf3OZ8	192.168.1.104	1604	192.168.1.1	25	1	-	215	text/plain	-	-	(empty)
-1258577841.047448	b6peIpbcoQh	192.168.1.104	1665	192.168.1.1	25	1	-	124	text/plain	-	-	(empty)
+1258574141.244088	FDgGuBWiEv1	192.168.1.104	1572	192.168.1.1	25	1	-	482	text/plain	-	-	(empty)
+1258577484.785543	s9nZC6muksi	192.168.1.104	1604	192.168.1.1	25	1	-	215	text/plain	-	-	(empty)
+1258577841.047448	QKyFz7EQawl	192.168.1.104	1665	192.168.1.1	25	1	-	124	text/plain	-	-	(empty)
+#end	2009-11-19-07-59-50

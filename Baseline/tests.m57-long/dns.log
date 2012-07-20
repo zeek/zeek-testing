@@ -3,6 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dns
+#start	2009-11-18-08-08-13
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	auth	addl
 #types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	table[string]	table[string]
 1258531680.268999	nQcgTWjvg4c	192.168.1.103	137	192.168.1.255	137	udp	33000	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	-	-
@@ -4938,3 +4939,4 @@
 1258617368.380397	9Ek550CT7Zb	192.168.1.102	137	192.168.1.255	137	udp	33080	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	-	-
 1258617366.131567	9Ek550CT7Zb	192.168.1.102	137	192.168.1.255	137	udp	33077	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	-	-
 1258617366.107575	9Ek550CT7Zb	192.168.1.102	137	192.168.1.255	137	udp	33074	DOMEX	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	-	-
+#end	2009-11-19-07-59-50
