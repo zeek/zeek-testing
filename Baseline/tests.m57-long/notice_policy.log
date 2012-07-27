@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice_policy
-#start	1970-01-01-00-00-00
+#open	1970-01-01-00-00-00
 #fields	position	priority	action	pred	halt	suppress_for
 #types	count	count	enum	func	bool	interval
 0	10	Notice::ACTION_ADD_GEODATA	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::lookup_location_types));\x0a}	F	-
@@ -13,4 +13,4 @@
 4	8	Notice::ACTION_NONE	anonymous-function\x0a{ \x0aif (Notice::n$note in Notice::type_suppression_intervals) \x0a\x09{ \x0a\x09Notice::n$suppress_for = Notice::type_suppression_intervals[Notice::n$note];\x0a\x09return (T);\x0a\x09}\x0a\x0areturn (F);\x0a}	F	-
 5	8	Notice::ACTION_EMAIL	anonymous-function\x0a{ \x0areturn ((Notice::n$note in Notice::emailed_types));\x0a}	F	-
 6	0	Notice::ACTION_LOG	-	F	-
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50

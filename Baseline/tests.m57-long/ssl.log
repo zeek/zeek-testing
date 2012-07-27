@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	ssl
-#start	2009-11-18-09-14-20
+#open	2009-11-18-09-14-20
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	server_name	session_id	subject	issuer_subject	not_valid_before	not_valid_after	last_alert	cert_hash	validation_status
 #types	time	string	addr	port	addr	port	string	string	string	string	string	string	time	time	string	string	string
 1258535660.267128	GrMAs8leAyl	192.168.1.104	1196	65.55.184.16	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	-	6e9580332b2f03f52b5abb868fa6e68d	ok
@@ -119,4 +119,4 @@
 1258594094.464059	vq0z7kLUL9f	192.168.1.105	49313	65.55.251.108	443	TLSv10	TLS_RSA_WITH_RC4_128_MD5	urs.microsoft.com	1f0a00008fac56996776e268dca36689e96b826430b49bcc1c76428cd8ab72a6	CN=urs.microsoft.com,OU=Windows Live Operations,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1231971875.000000	1263507875.000000	-	3041b775bc56f705276c16ea44b2031d	ok
 1258595464.562116	pKlVLP7BGpc	192.168.1.105	49331	65.55.184.26	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	www.update.microsoft.com	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	-	6e9580332b2f03f52b5abb868fa6e68d	ok
 1258608433.330766	u7FAPpgppA3	192.168.1.104	1186	65.55.184.155	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	-	6e9580332b2f03f52b5abb868fa6e68d	ok
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50

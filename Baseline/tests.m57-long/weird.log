@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#start	2009-11-18-08-00-20
+#open	2009-11-18-08-00-20
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -475,4 +475,4 @@
 1258616998.281722	Vd2iK9Plsa9	192.168.1.1	137	192.168.1.104	137	DNS_truncated_ans_too_short	-	F	bro
 1258617169.035855	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258617366.107652	3sJZVearNP6	192.168.1.1	137	192.168.1.102	137	DNS_truncated_ans_too_short	-	F	bro
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50

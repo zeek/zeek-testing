@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#start	2009-11-18-11-36-56
+#open	2009-11-18-11-36-56
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	policy_items	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude	metric_index.host	metric_index.str	metric_index.network
 #types	time	string	addr	port	addr	port	enum	enum	string	string	addr	addr	port	count	string	table[enum]	table[count]	interval	bool	string	string	string	double	double	addr	string	subnet
 1258544216.937559	10QazuoihR4	192.168.1.104	1260	198.189.255.75	80	tcp	HTTP::Incorrect_File_Type	application/x-dosexec GET http://aa.avg.com/softw/90/update/u7avi1777u1705ff.bin	-	192.168.1.104	198.189.255.75	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
@@ -751,4 +751,4 @@
 1258607813.524011	UJJAlHlKT7	192.168.1.104	1169	87.106.1.47	80	tcp	Conn::Ack_Above_Hole	192.168.1.104:1169 > 87.106.1.47:80 ack above a hole	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
 1258607813.550249	UJJAlHlKT7	192.168.1.104	1169	87.106.1.47	80	tcp	Conn::Content_Gap	192.168.1.104:1169 > 87.106.1.47:80 content gap (< 238741/2760)	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
 1258607813.550249	UJJAlHlKT7	192.168.1.104	1169	87.106.1.47	80	tcp	Conn::Ack_Above_Hole	192.168.1.104:1169 > 87.106.1.47:80 ack above a hole	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	6	3600.000000	F	-	-	-	-	-	-	-	-
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50

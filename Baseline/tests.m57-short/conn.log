@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#start	2009-11-21-08-01-58
+#open	2009-11-21-08-01-58
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	count	string	count	count	count	count	table[string]
 1258790493.773208	k6kgXLOoSKl	192.168.1.104	137	192.168.1.255	137	udp	dns	3.748891	350	0	S0	-	0	D	7	546	0	0	(empty)
@@ -2165,4 +2165,4 @@
 1258876706.548280	Ja9iJLi8sJh	192.168.1.104	137	192.168.1.255	137	udp	dns	3.748902	350	0	S0	-	0	D	7	546	0	0	(empty)
 1258876706.556523	3fPt19MnQCk	192.168.1.104	138	192.168.1.255	138	udp	-	2.248839	348	0	S0	-	0	D	2	404	0	0	(empty)
 1258790412.799620	UWkUyAuUGXf	192.168.1.1	626	224.0.0.1	626	udp	-	86369.999968	95040	0	S0	-	0	D	2880	175680	0	0	(empty)
-#end	2009-11-22-07-59-58
+#close	2009-11-22-07-59-58

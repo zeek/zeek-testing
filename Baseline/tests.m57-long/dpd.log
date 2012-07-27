@@ -3,9 +3,9 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dpd
-#start	2009-11-19-07-24-03
+#open	2009-11-19-07-24-03
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	analyzer	failure_reason	packet_segment
 #types	time	string	addr	port	addr	port	enum	string	string	string
 1258615443.252640	5J6Ar0sj3W1	192.168.1.1	5353	224.0.0.251	5353	udp	DNS	DNS_Conn_count_too_large	^A\0^\0\0\xfb\0^Y\xe3\xe7]#^H\0E\0\0\x93\xa6%\0\0\xff^Qr\x8f\xc0\xa8^A^A\xe0\0\0\xfb^T\xe9^T\xe9\0^?\xe0X\0\0\0\0\0^F\0\0\0\0\0\0^L_sleep-proxy^D_udp^Elocal\0\0^L\0^A^N_netbootclient^D_tcp\xc0\x1e\0^L\0^A^H_airport\xc08\0^L\0^A^F_xgrid\xc08\0^L\0^A^D_smb\xc08\0^L\0^A^F_adisk\xc08\0^L\0^A
 1258615443.252667	GBRgo61yKS8	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	udp	DNS	DNS_Conn_count_too_large	33\0\0\0\xfb\0^Y\xe3\xe7]#\x86\xdd`\0\0\0\0^?^Q\xff\xfe\x80\0\0\0\0\0\0^B^Y\xe3\xff\xfe\xe7]#\xff^B\0\0\0\0\0\0\0\0\0\0\0\0\0\xfb^T\xe9^T\xe9\0^?B[\0\0\0\0\0^F\0\0\0\0\0\0^L_sleep-proxy^D_udp^Elocal\0\0^L\0^A^N_netbootclient^D_tcp\xc0\x1e\0^L\0^A^H_airport\xc08\0^L\0^A^F_xgrid\xc08\0^L\0^A^D_smb\xc08\0^L\0^A^F_adisk\xc08\0^L\0^A
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50

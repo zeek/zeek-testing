@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_services
-#start	2009-11-21-08-38-56
+#open	2009-11-21-08-38-56
 #fields	ts	host	port_num	port_proto	service
 #types	time	addr	port	enum	table[string]
 1258792736.753765	212.227.96.110	80	tcp	HTTP
@@ -46,4 +46,4 @@
 1258867230.399085	65.55.200.139	80	tcp	HTTP
 1258867236.541235	65.55.200.139	443	tcp	SSL
 1258867257.852848	208.111.145.161	80	tcp	HTTP
-#end	2009-11-22-07-59-58
+#close	2009-11-22-07-59-58

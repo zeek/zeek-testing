@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_certs
-#start	2009-11-18-09-14-20
+#open	2009-11-18-09-14-20
 #fields	ts	host	port_num	subject	issuer_subject	serial
 #types	time	addr	port	string	string	string
 1258535660.452083	65.55.184.16	443	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	36B3335E000500013491
@@ -37,4 +37,4 @@
 1258592302.771240	65.55.13.91	443	CN=update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	6462BC5300050001284A
 1258593989.342359	65.55.251.108	443	CN=urs.microsoft.com,OU=Windows Live Operations,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	31F68F1700050000FD04
 1258595464.742817	65.55.184.26	443	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	36B3335E000500013491
-#end	2009-11-19-07-59-50
+#close	2009-11-19-07-59-50
