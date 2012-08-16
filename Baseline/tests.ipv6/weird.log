@@ -1,0 +1,19 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2012-08-16-19-39-00
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
+#types	time	string	addr	port	addr	port	string	string	bool	string
+1343372921.486693	QlatSOojp8c	2001:200:0:1::800:21	58773	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12349	above_hole_data_without_any_acks	-	F	bro
+1343372929.059854	5tQ1K1KznU8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	53939	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343372929.357806	YIjiHysBQt3	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	51671	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343372930.754512	9b9ud0HLcG7	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	55257	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343372942.522819	4fBwuqjn5y9	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	24316	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343372952.958654	hMdq1LS5sF8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41160	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343424158.541624	5tCMn3rAqhd	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	64769	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343424158.950508	NPn0VfAQ15e	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	46535	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343424277.117582	jN8lxFepFr8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41235	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
+1343424370.201252	tMYh2zn1p0e	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	33891	2001:610:1:80bc:192:87:106:229	80	data_after_reset	-	F	bro
+#close	2012-08-16-19-39-24
