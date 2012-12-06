@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2012-12-03-23-17-46
+#open	2012-12-06-00-40-03
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -144,6 +144,8 @@
 1258567109.568817	zF2DeN58TI8	192.168.1.102	1400	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258567191.444496	tYpVLa9b6Mb	192.168.1.105	49229	68.71.209.70	80	unescaped_special_URI_char	-	F	bro
 1258567191.756436	rvPrFF3aggj	192.168.1.105	49235	198.189.255.82	80	above_hole_data_without_any_acks	-	F	bro
+1258567212.785361	JPA8HU9Ppm1	192.168.1.105	49251	68.71.209.202	80	bad_HTTP_request	-	F	bro
+1258567221.665542	Nm1Jt1lQavh	192.168.1.105	49252	68.71.209.202	80	bad_HTTP_request	-	F	bro
 1258567234.270879	b4QlfuKTok3	192.168.1.105	49313	65.242.27.32	80	unescaped_special_URI_char	-	F	bro
 1258567248.336794	3CfnQZEJIoj	192.168.1.102	1404	192.168.1.1	25	NUL_in_line	-	F	bro
 1258567248.336935	3CfnQZEJIoj	192.168.1.102	1404	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
@@ -472,4 +474,4 @@
 1258616998.281722	Vd2iK9Plsa9	192.168.1.1	137	192.168.1.104	137	DNS_truncated_ans_too_short	-	F	bro
 1258617169.035855	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258617366.107652	3sJZVearNP6	192.168.1.1	137	192.168.1.102	137	DNS_truncated_ans_too_short	-	F	bro
-#close	2012-12-03-23-19-21
+#close	2012-12-06-00-41-43
