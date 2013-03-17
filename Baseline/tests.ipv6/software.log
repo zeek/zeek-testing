@@ -3,55 +3,55 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2012-08-16-19-38-48
-#fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.addl	unparsed_version	url
-#types	time	addr	port	enum	string	count	count	count	string	string	string
-1341812178.428028	2001:470:1f05:17a6::6	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	fetch libfetch/2.0	-
-1341812180.343788	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	Apache/2.2.14	-
-1341815664.380397	2001:4830:134:3::b	80	HTTP::SERVER	Apache	2	2	14	Trisquel	Apache/2.2.14 (Trisquel GNU/Linux)	-
-1341891954.294808	2001:470:1f05:17a6:213:72ff:fe0d:a566	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	fetch libfetch/2.0	-
-1341891954.363170	2001:1868:205::10	80	HTTP::SERVER	Apache	2	2	22	Fedora	Apache/2.2.22 (Fedora)	-
-1341891970.029297	2001:6b0:e:2018::1337	80	HTTP::SERVER	Apache	2	2	22	Unix	Apache/2.2.22 (Unix)	-
-1341891989.683836	2001:4860:8005::52	80	HTTP::SERVER	DFE/largefile	-	-	-	-	DFE/largefile	-
-1341892038.879341	2001:1620:f05::1	80	HTTP::SERVER	Apache	2	2	22	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.3 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
-1341892444.954009	2001:470:1f05:1a07::1	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1341903546.440533	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	Apache/2.2.14	-
-1341903559.255468	2a01:4f8:131:13c1::80	80	HTTP::SERVER	nginx	1	3	1	-	nginx/1.3.1	-
-1343363678.001936	2001:470:1f05:17a6:213:72ff:fe0d:a566	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	fetch libfetch/2.0	-
-1343363678.286963	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	Apache/2.2.14	-
-1343363751.563263	2001:4830:134:3::b	80	HTTP::SERVER	Apache	2	2	14	Trisquel	Apache/2.2.14 (Trisquel GNU/Linux)	-
-1343371658.057102	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	fetch libfetch/2.0	-
-1343372948.898272	2001:6b0:e:2018::163	80	HTTP::SERVER	Apache	2	2	22	Unix	Apache/2.2.22 (Unix)	-
-1343372955.793259	2001:630:212:267::80:14	80	HTTP::SERVER	Apache	2	2	3	CentOS	Apache/2.2.3 (CentOS)	-
-1343373006.241803	2001:df0:232:eed0::7	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343373017.588206	2001:200:141:feed::feed	80	HTTP::SERVER	Apache	2	2	22	Unix	Apache/2.2.22 (Unix)	-
-1343373018.650359	2001:6b0:e:2018::1337	80	HTTP::SERVER	Apache	2	2	22	Unix	Apache/2.2.22 (Unix)	-
-1343373023.554670	2001:2f8:ff00:53::46	80	HTTP::SERVER	lighttpd	1	4	30	-	lighttpd/1.4.30	-
-1343373073.935189	2801:82:80ff:8000::8	80	HTTP::SERVER	Apache	2	2	22	-	Apache/2.2.22	-
-1343373077.974113	2610:148:1f00:6f00:21b:24ff:fe1d:e940	80	HTTP::SERVER	Apache	2	2	3	Red Hat	Apache/2.2.3 (Red Hat)	-
-1343405077.921259	2a01:e0d:1:3:58bf:fa02:0:2	80	HTTP::SERVER	nginx	1	2	1	-	nginx/1.2.1	-
-1343405083.193108	2001:1868:205::10	80	HTTP::SERVER	Apache	2	2	22	Fedora	Apache/2.2.22 (Fedora)	-
-1343414364.397678	2001:470:1f00:ffff::1279	80	HTTP::SERVER	Apache	2	2	22	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.4 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
-1343415065.815785	2001:1620:f05::1	80	HTTP::SERVER	Apache	2	2	22	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.4 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
-1343424139.258483	2001:4f8:0:2::1e	80	HTTP::SERVER	lighttpd	1	4	29	-	lighttpd/1.4.29	-
-1343424160.059861	2001:6b0:e:2018::138	80	HTTP::SERVER	Apache	2	2	22	Unix	Apache/2.2.22 (Unix)	-
-1343424163.304900	2001:b30:1::146	80	HTTP::SERVER	nginx	0	8	15	-	nginx/0.8.15	-
-1343424165.863963	2610:28:3090:3001:5054:ff:fedb:7f5a	80	HTTP::SERVER	Apache	2	2	15	-	Apache/2.2.15	-
-1343424237.197254	2001:4860:8005::79	80	HTTP::SERVER	Google Frontend	-	-	-	-	Google Frontend	-
-1343424238.316106	2610:148:1f00:6f00:216:36ff:fee9:2178	80	HTTP::SERVER	Apache	2	2	3	Red Hat	Apache/2.2.3 (Red Hat)	-
-1343424239.859176	2001:470:1f05:1a07::1	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343424240.111794	2a00:1a28:1200:9::2	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343424281.039841	2001:4860:8005::52	80	HTTP::SERVER	DFE/largefile	-	-	-	-	DFE/largefile	-
-1343424283.138495	2001:620:0:1b::21	80	HTTP::SERVER	Apache	2	2	16	Debian	Apache/2.2.16 (Debian)	-
-1343424312.401890	2001:e10:ffff:1f02::17	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343424326.938752	2a01:238:436b:c500:4e1f:1969:8721:166f	80	HTTP::SERVER	Apache	2	2	21	Linux/SUSE	Apache/2.2.21 (Linux/SUSE)	-
-1343424342.377584	2001:878:346::113	80	HTTP::SERVER	Apache	2	2	8	Ubuntu	Apache/2.2.8 (Ubuntu) DAV/2 SVN/1.4.6 PHP/5.2.4-2ubuntu5.17 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g	-
-1343424342.377584	2001:878:346::113	80	HTTP::APPSERVER	PHP	5	2	4	2	PHP/5.2.4-2ubuntu5.17	-
-1343424348.312816	2001:610:1:80bc:192:87:106:229	80	HTTP::SERVER	Apache	2	4	1	Unix	Apache/2.4.1 (Unix) OpenSSL/1.0.0g	-
-1343424353.576695	2801:82:80ff:8000::3	80	HTTP::SERVER	Apache	2	2	22	-	Apache/2.2.22	-
-1343424360.855868	2001:878:346::116	80	HTTP::SERVER	Apache	2	2	14	Ubuntu	Apache/2.2.14 (Ubuntu)	-
-1343424453.890678	2610:28:3090:3000:0:bad:cafe:23	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343424464.489851	2001:610:1108:5012::135	80	HTTP::SERVER	xs-httpd	3	7	-	beta/0	xs-httpd/3.7 beta/0.23	-
-1343424638.006411	2001:41c8:1:6043::12	80	HTTP::SERVER	Apache	-	-	-	-	Apache	-
-1343424645.257645	2001:2010:0:1::1	80	HTTP::SERVER	nginx	0	7	65	-	nginx/0.7.65	-
-#close	2012-08-16-19-39-24
+#open	2013-03-14-13-54-36
+#fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
+#types	time	addr	port	enum	string	count	count	count	count	string	string	string
+1341812178.428028	2001:470:1f05:17a6::6	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	-	fetch libfetch/2.0	-
+1341812180.343788	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	-	Apache/2.2.14	-
+1341815664.380397	2001:4830:134:3::b	80	HTTP::SERVER	Apache	2	2	14	-	Trisquel	Apache/2.2.14 (Trisquel GNU/Linux)	-
+1341891954.294808	2001:470:1f05:17a6:213:72ff:fe0d:a566	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	-	fetch libfetch/2.0	-
+1341891954.363170	2001:1868:205::10	80	HTTP::SERVER	Apache	2	2	22	-	Fedora	Apache/2.2.22 (Fedora)	-
+1341891970.029297	2001:6b0:e:2018::1337	80	HTTP::SERVER	Apache	2	2	22	-	Unix	Apache/2.2.22 (Unix)	-
+1341891989.683836	2001:4860:8005::52	80	HTTP::SERVER	DFE/largefile	-	-	-	-	-	DFE/largefile	-
+1341892038.879341	2001:1620:f05::1	80	HTTP::SERVER	Apache	2	2	22	-	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.3 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
+1341892444.954009	2001:470:1f05:1a07::1	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1341903546.440533	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	-	Apache/2.2.14	-
+1341903559.255468	2a01:4f8:131:13c1::80	80	HTTP::SERVER	nginx	1	3	1	-	-	nginx/1.3.1	-
+1343363678.001936	2001:470:1f05:17a6:213:72ff:fe0d:a566	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	-	fetch libfetch/2.0	-
+1343363678.286963	2001:770:18:aa40::c101:c142	80	HTTP::SERVER	Apache	2	2	14	-	-	Apache/2.2.14	-
+1343363751.563263	2001:4830:134:3::b	80	HTTP::SERVER	Apache	2	2	14	-	Trisquel	Apache/2.2.14 (Trisquel GNU/Linux)	-
+1343371658.057102	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	-	fetch libfetch/2.0	-
+1343372948.898272	2001:6b0:e:2018::163	80	HTTP::SERVER	Apache	2	2	22	-	Unix	Apache/2.2.22 (Unix)	-
+1343372955.793259	2001:630:212:267::80:14	80	HTTP::SERVER	Apache	2	2	3	-	CentOS	Apache/2.2.3 (CentOS)	-
+1343373006.241803	2001:df0:232:eed0::7	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343373017.588206	2001:200:141:feed::feed	80	HTTP::SERVER	Apache	2	2	22	-	Unix	Apache/2.2.22 (Unix)	-
+1343373018.650359	2001:6b0:e:2018::1337	80	HTTP::SERVER	Apache	2	2	22	-	Unix	Apache/2.2.22 (Unix)	-
+1343373023.554670	2001:2f8:ff00:53::46	80	HTTP::SERVER	lighttpd	1	4	30	-	-	lighttpd/1.4.30	-
+1343373073.935189	2801:82:80ff:8000::8	80	HTTP::SERVER	Apache	2	2	22	-	-	Apache/2.2.22	-
+1343373077.974113	2610:148:1f00:6f00:21b:24ff:fe1d:e940	80	HTTP::SERVER	Apache	2	2	3	-	Red Hat	Apache/2.2.3 (Red Hat)	-
+1343405077.921259	2a01:e0d:1:3:58bf:fa02:0:2	80	HTTP::SERVER	nginx	1	2	1	-	-	nginx/1.2.1	-
+1343405083.193108	2001:1868:205::10	80	HTTP::SERVER	Apache	2	2	22	-	Fedora	Apache/2.2.22 (Fedora)	-
+1343414364.397678	2001:470:1f00:ffff::1279	80	HTTP::SERVER	Apache	2	2	22	-	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.4 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
+1343415065.815785	2001:1620:f05::1	80	HTTP::SERVER	Apache	2	2	22	-	FreeBSD	Apache/2.2.22 (FreeBSD) PHP/5.4.4 mod_ssl/2.2.22 OpenSSL/0.9.8q DAV/2	-
+1343424139.258483	2001:4f8:0:2::1e	80	HTTP::SERVER	lighttpd	1	4	29	-	-	lighttpd/1.4.29	-
+1343424160.059861	2001:6b0:e:2018::138	80	HTTP::SERVER	Apache	2	2	22	-	Unix	Apache/2.2.22 (Unix)	-
+1343424163.304900	2001:b30:1::146	80	HTTP::SERVER	nginx	0	8	15	-	-	nginx/0.8.15	-
+1343424165.863963	2610:28:3090:3001:5054:ff:fedb:7f5a	80	HTTP::SERVER	Apache	2	2	15	-	-	Apache/2.2.15	-
+1343424237.197254	2001:4860:8005::79	80	HTTP::SERVER	Google Frontend	-	-	-	-	-	Google Frontend	-
+1343424238.316106	2610:148:1f00:6f00:216:36ff:fee9:2178	80	HTTP::SERVER	Apache	2	2	3	-	Red Hat	Apache/2.2.3 (Red Hat)	-
+1343424239.859176	2001:470:1f05:1a07::1	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343424240.111794	2a00:1a28:1200:9::2	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343424281.039841	2001:4860:8005::52	80	HTTP::SERVER	DFE/largefile	-	-	-	-	-	DFE/largefile	-
+1343424283.138495	2001:620:0:1b::21	80	HTTP::SERVER	Apache	2	2	16	-	Debian	Apache/2.2.16 (Debian)	-
+1343424312.401890	2001:e10:ffff:1f02::17	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343424326.938752	2a01:238:436b:c500:4e1f:1969:8721:166f	80	HTTP::SERVER	Apache	2	2	21	-	Linux/SUSE	Apache/2.2.21 (Linux/SUSE)	-
+1343424342.377584	2001:878:346::113	80	HTTP::SERVER	Apache	2	2	8	-	Ubuntu	Apache/2.2.8 (Ubuntu) DAV/2 SVN/1.4.6 PHP/5.2.4-2ubuntu5.17 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g	-
+1343424342.377584	2001:878:346::113	80	HTTP::APPSERVER	PHP	5	2	4	2	ubuntu5	PHP/5.2.4-2ubuntu5.17	-
+1343424348.312816	2001:610:1:80bc:192:87:106:229	80	HTTP::SERVER	Apache	2	4	1	-	Unix	Apache/2.4.1 (Unix) OpenSSL/1.0.0g	-
+1343424353.576695	2801:82:80ff:8000::3	80	HTTP::SERVER	Apache	2	2	22	-	-	Apache/2.2.22	-
+1343424360.855868	2001:878:346::116	80	HTTP::SERVER	Apache	2	2	14	-	Ubuntu	Apache/2.2.14 (Ubuntu)	-
+1343424453.890678	2610:28:3090:3000:0:bad:cafe:23	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343424464.489851	2001:610:1108:5012::135	80	HTTP::SERVER	xs-httpd	3	7	-	-	beta/0	xs-httpd/3.7 beta/0.23	-
+1343424638.006411	2001:41c8:1:6043::12	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
+1343424645.257645	2001:2010:0:1::1	80	HTTP::SERVER	nginx	0	7	65	-	-	nginx/0.7.65	-
+#close	2013-03-14-13-54-42
