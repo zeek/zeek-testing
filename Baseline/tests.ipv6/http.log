@@ -5,7 +5,7 @@
 #path	http
 #open	2012-08-16-19-38-48
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	filename	tags	username	password	proxied	mime_type	md5	extraction_file	client_header_names	server_header_names	cookie_vars	uri_vars
-#types	time	string	addr	port	addr	port	count	string	string	string	string	string	count	count	count	string	count	string	string	table[enum]	string	string	table[string]	string	string	file	vector[string]	vector[string]	vector[string]	vector[string]
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	count	count	count	string	count	string	string	table[enum]	string	string	table[string]	string	string	string	vector[string]	vector[string]	vector[string]	vector[string]
 1341812178.428028	zHqb7t7kv28	2001:470:1f05:17a6::6	59439	2001:770:18:aa40::c101:c142	80	1	GET	heanet.dl.sourceforge.net	/project/cryptopp/cryptopp/5.6.1/cryptopp561.zip	-	fetch libfetch/2.0	0	1069703	200	OK	-	-	-	(empty)	-	-	-	application/zip	-	-	HOST,USER-AGENT,CONNECTION	-	-	/project/cryptopp/cryptopp/5.6.1/cryptopp561.zip
 1341815664.267060	NkTZq1scnw7	2001:470:1f05:17a6::6	62393	2001:4830:134:3::b	80	1	GET	ftp.gnu.org	/gnu/libiconv/libiconv-1.14.tar.gz	-	fetch libfetch/2.0	0	4984397	200	OK	-	-	-	(empty)	-	-	-	application/x-gzip	-	-	HOST,USER-AGENT,CONNECTION	-	-	/gnu/libiconv/libiconv-1.14.tar.gz
 1341819052.181808	QPdpVFcxKGb	2001:470:1f05:17a6::6	30718	2001:4830:134:3::b	80	1	GET	ftp.gnu.org	/gnu/gmp/gmp-5.0.5.tar.bz2	-	fetch libfetch/2.0	0	2052144	200	OK	-	-	-	(empty)	-	-	-	application/bzip2	-	-	HOST,USER-AGENT,CONNECTION	-	-	/gnu/gmp/gmp-5.0.5.tar.bz2

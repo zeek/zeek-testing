@@ -1,0 +1,420 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	file_analysis
+#open	2013-03-28-19-40-31
+#fields	file_id	parent_file_id	source	last_active	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timeout_interval	bof_buffer_size	file_type	mime_type	timedout	conn_uids	actions_taken	extracted_files	md5	sha1	sha256
+#types	string	string	string	time	count	count	count	count	interval	count	string	string	bool	table[string]	table[enum]	table[string]	string	string	string
+DA0oYJuH7Va	-	HTTP	1341812185.448725	1069703	1069703	0	0	120.000000	1024	Zip archive data, at least v1.0 to extract	application/zip; charset=binary	F	zHqb7t7kv28	(empty)	(empty)	-	-	-
+mgrdp2W838f	-	HTTP	1341815670.571767	4984397	4984397	0	0	120.000000	1024	gzip compressed data, was "libiconv-1.14.tar", from Unix, last modified: Sun Aug  7 17:52:38 2011, max compression	application/x-gzip; charset=binary	F	NkTZq1scnw7	(empty)	(empty)	-	-	-
+d1qYoiMd7N4	-	HTTP	1341819054.826530	2052144	2052144	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	QPdpVFcxKGb	(empty)	(empty)	-	-	-
+Xg4VP8nbuK8	-	HTTP	1341891954.908999	813979	813979	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	3KQMgyISQU9	(empty)	(empty)	-	-	-
+8NmgwYM9zai	-	HTTP	1341891955.575552	850644	850644	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	hZPUVvz8UC6	(empty)	(empty)	-	-	-
+pFcYPt8TBuk	-	FTP_DATA	1341891966.515896	63578	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue May  1 17:41:10 2012	application/x-gzip; charset=binary	F	0WL9Z6pT9d	(empty)	(empty)	-	-	-
+7W477dFYel8	-	HTTP	1341891974.399123	524264	524264	0	0	120.000000	1024	Zip archive data	application/zip; charset=binary	F	eAalc6xfA2h	(empty)	(empty)	-	-	-
+Hea8qMbOnsk	-	HTTP	1341891989.194224	1445348	1445348	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Feb 28 18:56:23 2012, max compression	application/x-gzip; charset=binary	F	u0L9lwEDmml	(empty)	(empty)	-	-	-
+4iNsDwec9Q2	-	HTTP	1341891995.956429	1653485	1653485	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	ERNxwXyPcfb	(empty)	(empty)	-	-	-
+jijwaDzhRK9	-	HTTP	1341892002.860538	1395	1395	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	N8astV3NUEh	(empty)	(empty)	-	-	-
+vsYCFYlQ5zj	-	HTTP	1341892003.222483	1699	1699	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	3XoMBuk9wRk	(empty)	(empty)	-	-	-
+cAC8QNe3Naj	-	HTTP	1341892003.598653	1363	1363	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	tSxwPpfXoMb	(empty)	(empty)	-	-	-
+Kxxoer29b81	-	HTTP	1341892003.943270	3969	3969	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	VGJ1zd7GQKf	(empty)	(empty)	-	-	-
+VGCB29eUSGk	-	HTTP	1341892004.275547	1577	1577	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	QnYnVtwv6X6	(empty)	(empty)	-	-	-
+X0lnoyeDzF	-	HTTP	1341892004.603990	1461	1461	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	ENnLkRIfat9	(empty)	(empty)	-	-	-
+d0aFwalX64d	-	HTTP	1341892004.997423	1834	1834	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	OYwBu0FsYK1	(empty)	(empty)	-	-	-
+bTiV6WRvB6b	-	HTTP	1341892041.165135	127020	127020	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	kD8AxOEkNF3	(empty)	(empty)	-	-	-
+vDBp5EoWux	-	FTP_DATA	1341892045.642166	150980	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	DdwrMhcpkI8	(empty)	(empty)	-	-	-
+3Txg7zeLj6k	-	HTTP	1341892138.194493	705772	705772	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	fbcGTKF3PP2	(empty)	(empty)	-	-	-
+D3oGMBSwOgf	-	HTTP	1341892149.978159	186197	186197	0	0	120.000000	1024	gzip compressed data, from Unix, max compression	application/x-gzip; charset=binary	F	aNx3te4mOTh	(empty)	(empty)	-	-	-
+cwNR7DLwd6g	-	HTTP	1341892150.158560	1214744	1214744	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	6De49jhk8vk	(empty)	(empty)	-	-	-
+jfp0qsTmtjj	-	FTP_DATA	1341892175.325073	495604	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	e3eZeqcj1Nc	(empty)	(empty)	-	-	-
+gsV1HEraRg	-	HTTP	1341892202.112117	239408	239408	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	RS2f3qR5mLj	(empty)	(empty)	-	-	-
+xCVUuE4jRzi	-	HTTP	1341892210.662870	1352384	1352384	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	NWYgsytjqAi	(empty)	(empty)	-	-	-
+iIW5DBZZm	-	HTTP	1341892223.816069	522255	522255	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	aIrvDQdDQqk	(empty)	(empty)	-	-	-
+3MkcbkK2oCd	-	FTP_DATA	1341892230.752552	6280	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	4rAmQYR5X1d	(empty)	(empty)	-	-	-
+gmG40ire5tf	-	FTP_DATA	1341892235.843492	2690	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	kW4msUPpqB3	(empty)	(empty)	-	-	-
+orMZtl5t7E7	-	FTP_DATA	1341892237.458900	116496	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	eFCq6wJ3ZZ1	(empty)	(empty)	-	-	-
+pNy3TxPv2Hh	-	FTP_DATA	1341892242.284009	1906	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	ld8raZOTBO8	(empty)	(empty)	-	-	-
+DVdt3OstrSj	-	FTP_DATA	1341892243.348173	25023	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	TAUaktHe6W2	(empty)	(empty)	-	-	-
+dxRX6pRB0h1	-	FTP_DATA	1341892244.266198	2012	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	mi8xl5j8jug	(empty)	(empty)	-	-	-
+8U7AfXPVaoe	-	FTP_DATA	1341892245.119523	2986	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	iAng0qrHxnb	(empty)	(empty)	-	-	-
+x9BCAStEZkk	-	FTP_DATA	1341892246.007157	16599	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	nxkiHnq7Cuh	(empty)	(empty)	-	-	-
+n7vDJffZBp7	-	HTTP	1341892444.954009	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	p7Jt0cyKif4	(empty)	(empty)	-	-	-
+wueKq8OGcg1	-	HTTP	1341892445.046579	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	ShHK4jOaCx5	(empty)	(empty)	-	-	-
+c9y62Sxaptg	-	HTTP	1341892445.167515	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	4WfDepJfZPa	(empty)	(empty)	-	-	-
+zaSR1nLIoDi	-	HTTP	1341892445.268468	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	4OxT44Wvsl	(empty)	(empty)	-	-	-
+yNozUKCi14c	-	HTTP	1341892445.684621	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	UIGazlIiD25	(empty)	(empty)	-	-	-
+iGBOMqrPHwf	-	HTTP	1341892445.779321	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	ZK2ILyt3Ed6	(empty)	(empty)	-	-	-
+K8BujwuZ2xb	-	HTTP	1341892445.894505	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	TNSExLz77ca	(empty)	(empty)	-	-	-
+DUs3GOsMWj2	-	HTTP	1341892445.987586	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	7HbtLkyl071	(empty)	(empty)	-	-	-
+MiVAlcC1d2c	-	HTTP	1341892446.147377	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	ZeOZ4SpuAj4	(empty)	(empty)	-	-	-
+DKQWgMHLSce	-	HTTP	1341892446.243702	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	clNEkygxCO5	(empty)	(empty)	-	-	-
+36fw4hyCVwk	-	HTTP	1341892446.358141	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	O4agJt9ACJa	(empty)	(empty)	-	-	-
+Y1ThSahHoL7	-	HTTP	1341892446.458965	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	CuOHOY8ctC	(empty)	(empty)	-	-	-
+5WXActBy8df	-	FTP_DATA	1341903514.084298	481	-	0	0	120.000000	1024	PGP signature	application/pgp-signature; charset=us-ascii	F	x7YSefzuxra	(empty)	(empty)	-	-	-
+03WhyYPb2N7	-	HTTP	1341903559.121492	1288642	1288642	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	UArROntTvI	(empty)	(empty)	-	-	-
+3cybooIaGb1	-	HTTP	1341903561.196435	106040	106040	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	I2NMq6PA2P9	(empty)	(empty)	-	-	-
+7IGXy9IhR15	-	HTTP	1343363681.175074	706348	706348	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	bIiH2oAUur9	(empty)	(empty)	-	-	-
+jGXlZ29blB9	-	HTTP	1343363753.370570	1113274	1113274	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Jul  7 13:27:55 2012	application/x-gzip; charset=binary	F	LbdA23OqFN1	(empty)	(empty)	-	-	-
+Y6rnq5TnFtl	-	HTTP	1343363857.011748	1367980	1367980	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	M7Ij7jrNCF8	(empty)	(empty)	-	-	-
+N7ysJbLzxP5	-	FTP_DATA	1343363860.426589	490	-	0	0	120.000000	1024	PGP signature	application/pgp-signature; charset=us-ascii	F	i5u2XTZxHHj	(empty)	(empty)	-	-	-
+1mmsFPqSQXh	-	HTTP	1343363892.670227	975917	975917	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Feb 16 15:43:36 2011, max compression	application/x-gzip; charset=binary	F	VdOWVGWakKc	(empty)	(empty)	-	-	-
+eyD4wr8vGq5	-	HTTP	1343363897.183482	1317907	1317907	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	v8FUHHGJ7Fe	(empty)	(empty)	-	-	-
+ZRVQfOUgal2	-	FTP_DATA	1343363907.410218	842961	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu May  3 16:28:43 2012, max compression	application/x-gzip; charset=binary	F	XkB7RdU6wsk	(empty)	(empty)	-	-	-
+sTGKOrbkEQ1	-	HTTP	1343371661.516893	1065005	1065005	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Oct 29 14:28:06 2011, max compression	application/x-gzip; charset=binary	F	lde8VNgcrtb	(empty)	(empty)	-	-	-
+EcjiMpwf4s2	-	HTTP	1343371668.073375	2632347	2632347	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Oct 18 06:22:40 2011, max compression	application/x-gzip; charset=binary	F	kuP7ReSG6ec	(empty)	(empty)	-	-	-
+NYTM4agTDth	-	HTTP	1343371668.493054	1242186	1242186	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	onWPVbyabo6	(empty)	(empty)	-	-	-
+dZKA1wIW0q3	-	HTTP	1343371668.821316	4984397	4984397	0	0	120.000000	1024	gzip compressed data, was "libiconv-1.14.tar", from Unix, last modified: Sun Aug  7 17:52:38 2011, max compression	application/x-gzip; charset=binary	F	0Gp5Vhdllbf	(empty)	(empty)	-	-	-
+jan8AXaREsd	-	HTTP	1343371670.267465	446456	446456	0	0	120.000000	1024	gzip compressed data, was "expat-2.0.1.tar", from FAT filesystem (MS-DOS, OS/2, NT), last modified: Thu Jun  7 02:34:43 2007	application/x-gzip; charset=binary	F	qUhhFeTwlh1	(empty)	(empty)	-	-	-
+HAxQ1uG3MD1	-	HTTP	1343371672.830631	1504819	1504819	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	q6ggWD1h52a	(empty)	(empty)	-	-	-
+2CHav3TZwLl	-	HTTP	1343371674.589908	558943	558943	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Sep 23 10:58:45 2009, max compression	application/x-gzip; charset=binary	F	FQ8ERR3bpUa	(empty)	(empty)	-	-	-
+kjT4qX49ZR3	-	FTP_DATA	1343372893.111592	586516	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	mipXpKyuGrf	(empty)	(empty)	-	-	-
+93nuJrRvaz1	-	HTTP	1343372917.266142	1118845	1118845	0	0	120.000000	1024	gzip compressed data, was "zip30.tar", from Unix, last modified: Tue Sep 23 03:34:29 2008	application/x-gzip; charset=binary	F	FgeQS9Ff2wd	(empty)	(empty)	-	-	-
+FFlV02mYwP7	-	HTTP	1343372917.703394	1376845	1376845	0	0	120.000000	1024	gzip compressed data, was "unzip60.tar", from Unix, last modified: Sat Apr 25 13:12:31 2009, max compression	application/x-gzip; charset=binary	F	3lj0w105I3e	(empty)	(empty)	-	-	-
+isWpqFiYtNb	-	HTTP	1343372936.328601	1258362	1258362	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	gRywhAAImWc	(empty)	(empty)	-	-	-
+bskhzMzsMAl	-	FTP_DATA	1343372935.935599	259210	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	S6WvKLIwzqe	(empty)	(empty)	-	-	-
+gaujxdJWzag	-	HTTP	1343372941.936768	1608376	1608376	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	WPeCRnRF4h9	(empty)	(empty)	-	-	-
+VxX6CdqKaX1	-	HTTP	1343372948.898272	378	378	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	T15zTWiuuK7	(empty)	(empty)	-	-	-
+dVVwZKvepRb	-	HTTP	1343372951.519095	706348	706348	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	1Dd3WxLSD13	(empty)	(empty)	-	-	-
+mAxDZgmLWCg	-	HTTP	1343372955.628747	9250	9250	0	0	120.000000	1024	gzip compressed data, was "libpng-1.5.12-apng.patch", from Unix, last modified: Wed Jul 11 19:15:46 2012	application/x-gzip; charset=binary	F	h7NJFzci3Cj	(empty)	(empty)	-	-	-
+95dY0OZhSxb	-	FTP_DATA	1343372952.789406	427149	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	o14HvyLA007	(empty)	(empty)	-	-	-
+iafoVeB2uDk	-	FTP_DATA	1343372954.022197	305203	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	uagfjHSF3O1	(empty)	(empty)	-	-	-
+uEfSVso1Lhl	-	HTTP	1343372968.970078	264276	264276	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	pvwSmr7EyMi	(empty)	(empty)	-	-	-
+Wa80MqfkY9d	-	HTTP	1343372969.068525	865088	865088	0	0	120.000000	1024	gzip compressed data, was "gperf-3.0.3.tar", from Unix, last modified: Wed May  2 16:02:01 2007, max compression	application/x-gzip; charset=binary	F	4HSClxaZQK3	(empty)	(empty)	-	-	-
+VkgklQZSEji	-	HTTP	1343372971.797295	405712	405712	0	0	120.000000	1024	gzip compressed data, was "jbigkit-1.6.tar", from Unix, last modified: Fri Jun 11 18:06:13 2004, max compression	application/x-gzip; charset=binary	F	vQbQHhRuHOd	(empty)	(empty)	-	-	-
+q1YjcBjfZhh	-	HTTP	1343372998.402886	975917	975917	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Feb 16 15:43:36 2011, max compression	application/x-gzip; charset=binary	F	rYqp2Tn2Yx6	(empty)	(empty)	-	-	-
+o42sZc4JQW	-	FTP_DATA	1343372995.350408	150980	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	MlO118I8v5h	(empty)	(empty)	-	-	-
+81P3SMOcWzi	-	FTP_DATA	1343373001.127868	139287	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Mar 24 14:26:07 2010, max compression	application/x-gzip; charset=binary	F	OSxvmumZfrl	(empty)	(empty)	-	-	-
+M5WgZ74mXJl	-	FTP_DATA	1343373006.131682	731719	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Dec 31 12:48:48 2009, max compression	application/x-gzip; charset=binary	F	UMa9HuCw5Qc	(empty)	(empty)	-	-	-
+ZgOqpZKRES2	-	FTP_DATA	1343373008.087922	842961	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu May  3 16:28:43 2012, max compression	application/x-gzip; charset=binary	F	x1iEEi2qYR9	(empty)	(empty)	-	-	-
+TxyVOIaaPB5	-	FTP_DATA	1343373013.092193	965125	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun May 16 08:14:20 2010	application/x-gzip; charset=binary	F	KblsRoKcM86	(empty)	(empty)	-	-	-
+d3s5nc8EyF3	-	HTTP	1343373018.650359	340	340	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	K9w2Vmihg3b	(empty)	(empty)	-	-	-
+HpAfiKzFUSk	-	HTTP	1343373023.554670	345	345	0	0	120.000000	1024	XML document text	application/xml; charset=us-ascii	F	cy6vnlR5Gjg	(empty)	(empty)	-	-	-
+677e3AsDX77	-	HTTP	1343373025.063896	238441	238441	0	0	120.000000	1024	gzip compressed data, was "XML-Parser-2.41.tar", from Unix, last modified: Fri Jun  3 04:17:36 2011, max compression	application/x-gzip; charset=binary	F	6xybBjsRCvl	(empty)	(empty)	-	-	-
+qADTT6x1KQ1	-	HTTP	1343373033.399672	1415752	1415752	0	0	120.000000	1024	Zip archive data, at least v1.0 to extract	application/zip; charset=binary	F	CLghggKuuQg	(empty)	(empty)	-	-	-
+eqngskpp7te	-	FTP_DATA	1343373044.849363	1436502	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Oct 31 07:12:49 2011, max compression	application/x-gzip; charset=binary	F	3TEYaNSIiHb	(empty)	(empty)	-	-	-
+PIIlHQnMe8a	-	FTP_DATA	1343373049.419358	1653485	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	ZwHTAqK2OHf	(empty)	(empty)	-	-	-
+VQs5ShM1Hkd	-	FTP_DATA	1343373054.072058	8531	-	0	0	120.000000	1024	C source, ASCII text, with CRLF, CR line terminators	text/x-c; charset=us-ascii	F	X0H4WGeAwBf	(empty)	(empty)	-	-	-
+6qSGLIMlV3a	-	HTTP	1343373059.529641	387	387	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	7FrMhenKBL9	(empty)	(empty)	-	-	-
+1W3OmOzujJ	-	HTTP	1343373073.935189	326	326	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	xypdfSRKC11	(empty)	(empty)	-	-	-
+AMP0TQlZ2h7	-	HTTP	1343373077.974113	342	342	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	quOZTuLYAta	(empty)	(empty)	-	-	-
+OOZLQUS91p6	-	HTTP	1343373085.237139	2944	2944	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	ysA9KZshXm5	(empty)	(empty)	-	-	-
+hLiyiTGGmRe	-	HTTP	1343373085.594877	1780	1780	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	yMzBhhyOj1	(empty)	(empty)	-	-	-
+Punuutdwxh7	-	HTTP	1343373086.150227	6896	6896	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	RdboRygORWi	(empty)	(empty)	-	-	-
+BSirlBLwUN8	-	HTTP	1343373086.517638	1686	1686	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	7WWtGerS5pj	(empty)	(empty)	-	-	-
+So2FmenVyBe	-	HTTP	1343373086.909428	3424	3424	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	hHShAORf94d	(empty)	(empty)	-	-	-
+a7lMVLIbGzb	-	HTTP	1343373087.274533	1187	1187	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	hThBDIWOiie	(empty)	(empty)	-	-	-
+0coOBd6yLR6	-	HTTP	1343373087.629684	1394	1394	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	azV84Pm01vi	(empty)	(empty)	-	-	-
+ko2JWIDRx4e	-	HTTP	1343373088.073809	2164	2164	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	IabbSdn6q4k	(empty)	(empty)	-	-	-
+sh4STiBcvo	-	HTTP	1343373088.477136	2384	2384	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	IaLgkOEuLHc	(empty)	(empty)	-	-	-
+6491DXbHxI8	-	HTTP	1343373088.892195	1818	1818	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	ehzr3BpCuSe	(empty)	(empty)	-	-	-
+HIHx5j6g3lg	-	HTTP	1343373089.320026	1426	1426	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	6g084k8Vt29	(empty)	(empty)	-	-	-
+VwvPjHZPYea	-	HTTP	1343373089.750423	4247	4247	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	esJt8hATfy7	(empty)	(empty)	-	-	-
+TDjuoJ3cWsl	-	HTTP	1343373090.167569	1340	1340	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	2qVrEHzVOV3	(empty)	(empty)	-	-	-
+WpEwDSIPQ42	-	HTTP	1343373090.617713	1434	1434	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	wZUjp1rxKF1	(empty)	(empty)	-	-	-
+UIaQWdONCQ8	-	HTTP	1343373091.072733	1991	1991	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	PhMthMgtss8	(empty)	(empty)	-	-	-
+NrTG7vx6CQ	-	HTTP	1343373091.514176	1410	1410	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	r1fDQ8p0OU7	(empty)	(empty)	-	-	-
+QNtBBxRvvsa	-	HTTP	1343373091.976102	1399	1399	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	vtYaQ12rkg3	(empty)	(empty)	-	-	-
+c60sMTMa256	-	HTTP	1343373092.465020	1929	1929	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	rbHInoI4r72	(empty)	(empty)	-	-	-
+o0sostx9dQ2	-	HTTP	1343373092.926569	1415	1415	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	GDDnXyPpL89	(empty)	(empty)	-	-	-
+2V3Zer4sl1c	-	HTTP	1343373093.373094	1825	1825	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	m5G6xI0Ikh7	(empty)	(empty)	-	-	-
+39a9Vfvsf7c	-	HTTP	1343373093.875660	1532	1532	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	2Nl7zSw6624	(empty)	(empty)	-	-	-
+lbrrxzMbc4k	-	HTTP	1343373094.451684	1395	1395	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	AgFmHtg2Po1	(empty)	(empty)	-	-	-
+8Yb3PC4dzNh	-	HTTP	1343373094.903314	1699	1699	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	zwbCZ6KS5o8	(empty)	(empty)	-	-	-
+Y0tdGaofoRj	-	HTTP	1343373095.410920	1363	1363	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	lPZngTLVO98	(empty)	(empty)	-	-	-
+0veyx5wjXg8	-	HTTP	1343373095.939011	3969	3969	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	pjcY1Z7wXb3	(empty)	(empty)	-	-	-
+Y3AK5rM8fhc	-	HTTP	1343373096.426122	1577	1577	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	zQxrz2SFrm2	(empty)	(empty)	-	-	-
+w6F4AMLLMF2	-	HTTP	1343373096.930921	1461	1461	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	RaqrZAghNbj	(empty)	(empty)	-	-	-
+CM68Reb2P32	-	HTTP	1343373097.435436	1834	1834	0	0	120.000000	1024	ASCII text	text/plain; charset=us-ascii	F	BoSPXejbOkj	(empty)	(empty)	-	-	-
+quj5IddUmQe	-	FTP_DATA	1343372936.973430	66192	-	0	0	120.000000	1024	data	application/octet-stream; charset=binary	T	lRkUX2Larz2	(empty)	(empty)	-	-	-
+J5ElwHBkQbe	-	FTP_DATA	1343373162.656659	8448	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	FsGmBMyr1ee	(empty)	(empty)	-	-	-
+quj5IddUmQe	-	FTP_DATA	1343373227.005003	3888	-	0	0	120.000000	1024	data	application/octet-stream; charset=binary	F	lRkUX2Larz2	(empty)	(empty)	-	-	-
+yL66xNdrPZ8	-	HTTP	1343405061.266717	3356444	3356444	0	0	120.000000	1024	gzip compressed data, from Unix, max compression	application/x-gzip; charset=binary	F	NRW2rMUMBgg	(empty)	(empty)	-	-	-
+Vz6zGabKkGj	-	HTTP	1343405065.356799	186197	186197	0	0	120.000000	1024	gzip compressed data, from Unix, max compression	application/x-gzip; charset=binary	F	FS4CGc49ea6	(empty)	(empty)	-	-	-
+B3FXPOnFjT1	-	HTTP	1343405069.970068	1317907	1317907	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	b6Lwbeziujb	(empty)	(empty)	-	-	-
+40INYrEoX6c	-	FTP_DATA	1343405067.767497	63578	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue May  1 17:41:10 2012	application/x-gzip; charset=binary	F	RiuHRpwSwh	(empty)	(empty)	-	-	-
+cAcYlIqeIP5	-	HTTP	1343405074.541765	338143	338143	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Feb 17 02:58:16 2004, max compression	application/x-gzip; charset=binary	F	LNopIRVZRj5	(empty)	(empty)	-	-	-
+TO4Ab0IKC9e	-	HTTP	1343405075.784950	502379	502379	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Feb 17 02:55:45 2004, max compression	application/x-gzip; charset=binary	F	QliWuimCAw6	(empty)	(empty)	-	-	-
+1E9r79opTNl	-	HTTP	1343405080.192463	393291	393291	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	Ss62SdJPvQ9	(empty)	(empty)	-	-	-
+rGRTlasoH21	-	HTTP	1343405081.535511	308373	308373	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	Ql9GiKlYoJ	(empty)	(empty)	-	-	-
+OrW22ChWsB6	-	HTTP	1343405083.572169	813979	813979	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	05pG1c4uwE4	(empty)	(empty)	-	-	-
+wO6GFLsGSD1	-	HTTP	1343405084.197302	850644	850644	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	DHTTARAP6Yh	(empty)	(empty)	-	-	-
+t06l5WNJuBg	-	HTTP	1343405089.437380	97265	97265	0	0	120.000000	1024	gzip compressed data, from Unix	application/x-gzip; charset=binary	F	oPaeOM5I6Li	(empty)	(empty)	-	-	-
+ZhHggLQv0lj	-	FTP_DATA	1343405086.806925	1117646	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Nov  1 20:52:21 2010, max compression	application/x-gzip; charset=binary	F	PN07DqyEiRc	(empty)	(empty)	-	-	-
+vZUAiFTtJv5	-	FTP_DATA	1343405091.584463	356119	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	8zv47ncvGAj	(empty)	(empty)	-	-	-
+RXHwaUGlCA4	-	FTP_DATA	1343405094.989053	747248	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	u0T1IcS0vNd	(empty)	(empty)	-	-	-
+9WPSAUQLZl8	-	HTTP	1343405100.572424	554843	554843	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Aug 13 15:13:49 2011, max compression	application/x-gzip; charset=binary	F	afL8J0lRpL2	(empty)	(empty)	-	-	-
+4VAgHPqd9il	-	FTP_DATA	1343405103.063719	2361097	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	6b2bcPZ57J7	(empty)	(empty)	-	-	-
+hucdamPaMFg	-	FTP_DATA	1343405152.420932	351277	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Oct 23 02:57:23 2009, max compression	application/x-gzip; charset=binary	F	P6XZBiG7sz9	(empty)	(empty)	-	-	-
+1lhDOUgAajb	-	HTTP	1343405158.367899	1878163	1878163	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Jul  4 09:53:10 2011, max compression	application/x-gzip; charset=binary	F	htEHQOqus17	(empty)	(empty)	-	-	-
+GG8kvhI9jj2	-	HTTP	1343405159.406034	175360	175360	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	78AuXRtq3M3	(empty)	(empty)	-	-	-
+qS3VsWqfYr1	-	HTTP	1343410787.796683	9250	9250	0	0	120.000000	1024	gzip compressed data, was "libpng-1.5.12-apng.patch", from Unix, last modified: Wed Jul 11 19:15:46 2012	application/x-gzip; charset=binary	F	iWXTmRS6qd3	(empty)	(empty)	-	-	-
+dYeFrmMTim1	-	FTP_DATA	1343413901.495375	840602	-	0	0	120.000000	1024	gzip compressed data, from Unix, max compression	application/x-gzip; charset=binary	F	DexUgs25IF4	(empty)	(empty)	-	-	-
+c3BYbCtxetl	-	FTP_DATA	1343414319.614193	20510	-	0	0	120.000000	1024	Zip archive data, at least v2.0 to extract	application/zip; charset=binary	F	V1TgCXzd3Cf	(empty)	(empty)	-	-	-
+ffCe9Zhd6Bb	-	HTTP	1343414329.020895	3682531	3682531	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	fUgJifN3dYb	(empty)	(empty)	-	-	-
+Ky6TToI79B1	-	HTTP	1343414333.142867	1443221	1443221	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	tVpNQVrpOU8	(empty)	(empty)	-	-	-
+f0jJX1lHetd	-	HTTP	1343414364.721451	23399	23399	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	ldsVkPMLVF7	(empty)	(empty)	-	-	-
+EsLmvGUj0xf	-	FTP_DATA	1343415048.416495	840602	-	0	0	120.000000	1024	gzip compressed data, from Unix, max compression	application/x-gzip; charset=binary	F	diRiYoRLsRj	(empty)	(empty)	-	-	-
+3ceuPPKLZMb	-	HTTP	1343415065.816905	2915	2915	0	0	120.000000	1024	RPM v3.0 bin noarch	application/x-rpm; charset=binary	F	LZiTb3xw1wd	(empty)	(empty)	-	-	-
+CMzeqqZiskh	-	HTTP	1343415070.843800	1887256	1887256	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	nhxXvN3Se4e	(empty)	(empty)	-	-	-
+uWCjJEOPtLi	-	HTTP	1343415072.080970	50129	50129	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	IIeyKUhD9Qc	(empty)	(empty)	-	-	-
+9QbUXcZ99Qh	-	HTTP	1343415073.080722	39174	39174	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	ggam1oiuWGe	(empty)	(empty)	-	-	-
+N8HW8GdohOh	-	HTTP	1343415073.700994	10267	10267	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	DcCB28GXUMi	(empty)	(empty)	-	-	-
+wYc5Y1nG9x1	-	HTTP	1343415075.110724	93425	93425	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	TCME3hK5SBj	(empty)	(empty)	-	-	-
+HVAYi5a4nzk	-	HTTP	1343415076.889565	229559	229559	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	RrR03ubcYAd	(empty)	(empty)	-	-	-
+xk115241Dhl	-	HTTP	1343415089.521148	4766326	4766326	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	XHQcMgAzXK7	(empty)	(empty)	-	-	-
+8cCSrKq1N7i	-	HTTP	1343415092.445736	668622	668622	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	zlXL8O7yBM2	(empty)	(empty)	-	-	-
+Mf2NGVBEfm9	-	HTTP	1343415095.666785	756194	756194	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	LVDQrZbSjE2	(empty)	(empty)	-	-	-
+jL0FTnlogtd	-	HTTP	1343415097.274004	155626	155626	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	6u1S339aBx9	(empty)	(empty)	-	-	-
+GRLPvQmYf2e	-	HTTP	1343415099.153501	245952	245952	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	q8IyUlVmj07	(empty)	(empty)	-	-	-
+qogIMKDyorg	-	HTTP	1343415100.157553	25912	25912	0	0	120.000000	1024	RPM v3.0 bin noarch	application/x-rpm; charset=binary	F	Ku4imB9wfK3	(empty)	(empty)	-	-	-
+BQ3A2JeNi0c	-	HTTP	1343415101.780301	122118	122118	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	UdOeeAm2aO1	(empty)	(empty)	-	-	-
+6gaZib8rEAa	-	HTTP	1343415103.990222	363437	363437	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	JrmhxymG7jh	(empty)	(empty)	-	-	-
+wae0JWu8eA4	-	HTTP	1343415105.506637	127020	127020	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	t7HX7F9JDdl	(empty)	(empty)	-	-	-
+WUkgV1WUHz3	-	HTTP	1343415106.563198	28457	28457	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	jgOs9Tscc7c	(empty)	(empty)	-	-	-
+WA8aEE3Mune	-	HTTP	1343415108.294488	141994	141994	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	vqxatKndoqf	(empty)	(empty)	-	-	-
+ZTUxeuAEW95	-	HTTP	1343415113.157464	1501812	1501812	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	iVuIr7FvsGg	(empty)	(empty)	-	-	-
+NemoolviUjb	-	HTTP	1343415167.081545	186790	186790	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	aJXQPYkA9Il	(empty)	(empty)	-	-	-
+KDE8PS0VIih	-	HTTP	1343415168.962191	182020	182020	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	E6sB7kgsFzb	(empty)	(empty)	-	-	-
+7ERf2c1uJzl	-	HTTP	1343415169.830670	18315	18315	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	QyYYjsQ1rPf	(empty)	(empty)	-	-	-
+bAFe42r1HVj	-	HTTP	1343415172.970179	737213	737213	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	87vSmWNybGa	(empty)	(empty)	-	-	-
+OeDnkwL7L6d	-	HTTP	1343415173.821551	22539	22539	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	4Fgcl56xKJ5	(empty)	(empty)	-	-	-
+3MIZRMWNf45	-	HTTP	1343415174.724855	13866	13866	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	SCWN3wdDOS4	(empty)	(empty)	-	-	-
+m5S5w96TA97	-	HTTP	1343415175.786809	30367	30367	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	w9G3eXKuCx	(empty)	(empty)	-	-	-
+I0C9VQG8ioe	-	HTTP	1343415177.088082	53705	53705	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	NKTDKDJtYga	(empty)	(empty)	-	-	-
+2PPhjejF2ld	-	HTTP	1343415179.171331	216055	216055	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	FYHmpnG07h6	(empty)	(empty)	-	-	-
+4CL7fErXht6	-	HTTP	1343415180.618285	105673	105673	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	BO9gSJD7to4	(empty)	(empty)	-	-	-
+gx5X3Fry2d6	-	HTTP	1343415182.416949	133337	133337	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	zXlUEs41sa1	(empty)	(empty)	-	-	-
+Zy9Bl21MS36	-	HTTP	1343415184.870522	332230	332230	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	MmtvtXtBMVa	(empty)	(empty)	-	-	-
+JdbVFVQjJ2b	-	HTTP	1343415186.534039	173195	173195	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	g4dz3SfUNE5	(empty)	(empty)	-	-	-
+aVpJRNKxL7a	-	HTTP	1343415188.833761	334108	334108	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	gmWK39wlp85	(empty)	(empty)	-	-	-
+LZsnIzD2AA3	-	HTTP	1343415190.759524	217801	217801	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	gseJiEHxFs	(empty)	(empty)	-	-	-
+WCe7UsalFFj	-	HTTP	1343415191.812795	40346	40346	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	Xw7zl1tkD0a	(empty)	(empty)	-	-	-
+ME0GuWQh4R1	-	HTTP	1343415193.607053	188833	188833	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	1BjdpX4oOm6	(empty)	(empty)	-	-	-
+ofYWBkL1zZ	-	HTTP	1343415194.434919	23185	23185	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	BHXV44DE784	(empty)	(empty)	-	-	-
+ls5G9u6LFf5	-	HTTP	1343415196.089086	147271	147271	0	0	120.000000	1024	RPM v3.0 bin noarch	application/x-rpm; charset=binary	F	xbfQX2S49g1	(empty)	(empty)	-	-	-
+zu39IlgC9Qa	-	HTTP	1343415198.754197	506927	506927	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	LV75XpoBJoh	(empty)	(empty)	-	-	-
+VQZPWoZDG9g	-	HTTP	1343415200.147093	76050	76050	0	0	120.000000	1024	RPM v3.0 bin i386/x86_64	application/x-rpm; charset=binary	F	duL5AIhtnXk	(empty)	(empty)	-	-	-
+LB0C03wAC4d	-	HTTP	1343415208.725877	375060	375060	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Jul 27 21:09:41 2002, max compression	application/x-gzip; charset=binary	F	Hl5t5RHrOcc	(empty)	(empty)	-	-	-
+8Bbd2svxCH8	-	HTTP	1343415210.991906	1214744	1214744	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	zLbt9bTh8af	(empty)	(empty)	-	-	-
+zq8ryawE7wd	-	HTTP	1343415386.457229	1367980	1367980	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	GwPBLtslqBg	(empty)	(empty)	-	-	-
+DnIezXY7R0h	-	HTTP	1343424140.271034	371080	371080	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	sKU5aNhkP3h	(empty)	(empty)	-	-	-
+RRRfcBl1ypi	-	FTP_DATA	1343424142.626479	1144818	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Sep 10 14:43:31 2010, max compression	application/x-gzip; charset=binary	F	2m378hSdH95	(empty)	(empty)	-	-	-
+PtSFwQTnw3d	-	HTTP	1343424147.949793	2387543	2387543	0	0	120.000000	1024	Zip archive data, at least v1.0 to extract	application/zip; charset=binary	F	aqEp0sjvze	(empty)	(empty)	-	-	-
+zKfLWZ2mlog	-	HTTP	1343424157.683696	2009217	2009217	0	0	120.000000	1024	gzip compressed data, was "flac-1.2.1.tar", from Unix, last modified: Sun Sep 16 21:46:29 2007, max compression	application/x-gzip; charset=binary	F	paBkFa7ABT9	(empty)	(empty)	-	-	-
+spohOk8jIUg	-	HTTP	1343424162.120723	9153	9153	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	1CmrFpKoa88	(empty)	(empty)	-	-	-
+2dSj7Wn7VGh	-	HTTP	1343424162.438732	400736	400736	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	vNMq7Y1jj83	(empty)	(empty)	-	-	-
+vnPldUfeMb2	-	FTP_DATA	1343424159.636375	4841	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	zb52HkLm6f8	(empty)	(empty)	-	-	-
+S3UcoLwSY8j	-	HTTP	1343424164.880681	2286024	2286024	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	9xdg7xdT9hj	(empty)	(empty)	-	-	-
+P4yQg1SEpRh	-	HTTP	1343424165.654805	333301	333301	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Sep 28 06:24:56 2010, max compression	application/x-gzip; charset=binary	F	uM90oPTcN34	(empty)	(empty)	-	-	-
+rDBFh6ldQ02	-	FTP_DATA	1343424161.165670	764820	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	U45UHBQqtck	(empty)	(empty)	-	-	-
+XAj90nCYCX5	-	FTP_DATA	1343424161.480858	251287	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	FyjxdKXPrf2	(empty)	(empty)	-	-	-
+DhOj0LckBy9	-	HTTP	1343424167.220396	807093	807093	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	milAkGYYLx1	(empty)	(empty)	-	-	-
+TMa78ZZWLfc	-	FTP_DATA	1343424163.259036	1541688	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	cCsulJ8jXmi	(empty)	(empty)	-	-	-
+48rO9eKlxah	-	HTTP	1343424182.073358	239408	239408	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	eWggUrsu1l7	(empty)	(empty)	-	-	-
+PlrrIBTPWC9	-	HTTP	1343424186.821196	2052144	2052144	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	qeifnVsGIf9	(empty)	(empty)	-	-	-
+Pc8DnxQulbe	-	HTTP	1343424212.986862	29459	29459	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	GjFpJY6G3C1	(empty)	(empty)	-	-	-
+3r5fJXB164f	-	HTTP	1343424223.809152	4269054	4269054	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Dec  2 19:16:53 2008	application/x-gzip; charset=binary	F	vaeF5gY1kp3	(empty)	(empty)	-	-	-
+DbF4wQHKLik	-	HTTP	1343424230.886428	280712	280712	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	VXC3d9hLN18	(empty)	(empty)	-	-	-
+5q3Nfr1rM59	-	HTTP	1343424235.855429	400	400	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	3RPcXUodV3a	(empty)	(empty)	-	-	-
+vYhtnoImDg5	-	HTTP	1343424236.696583	522255	522255	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	AFNxNM9wNQe	(empty)	(empty)	-	-	-
+4Cl9y9ygZNc	-	HTTP	1343424237.702735	24325	24325	0	0	120.000000	1024	gzip compressed data, was "dist/isodate-0.4.8.tar", last modified: Fri May  4 10:28:08 2012, max compression	application/x-gzip; charset=binary	F	rGYVNuFZT5l	(empty)	(empty)	-	-	-
+EEMwPdpfpS2	-	HTTP	1343424239.859176	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	xG1OZOn7U4c	(empty)	(empty)	-	-	-
+KgjLtTOqwkk	-	HTTP	1343424240.333550	1530020	1530020	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	jkPfVfRw592	(empty)	(empty)	-	-	-
+7VDxdpqnTsd	-	FTP_DATA	1343424236.082250	82102	-	0	0	120.000000	1024	gzip compressed data, from Unix	application/x-gzip; charset=binary	F	sBhefdRYn15	(empty)	(empty)	-	-	-
+2SiZZMaxRFb	-	HTTP	1343424241.340196	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	KqPNR4BCdDb	(empty)	(empty)	-	-	-
+PlZUEcXc0zh	-	HTTP	1343424242.087714	439814	439814	0	0	120.000000	1024	gzip compressed data, was "dist/rdflib-3.2.1.tar", last modified: Tue Apr 24 13:51:09 2012, max compression	application/x-gzip; charset=binary	F	buJTVGSWHqh	(empty)	(empty)	-	-	-
+uLEckIgN6c7	-	HTTP	1343424242.931433	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	YUBydmdk1V4	(empty)	(empty)	-	-	-
+YSzl9jCYso6	-	HTTP	1343424244.738310	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	Yin9HlD9xNa	(empty)	(empty)	-	-	-
+TmKyUu8yawh	-	HTTP	1343424247.320940	67592	67592	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	kfL7FNsE2Xf	(empty)	(empty)	-	-	-
+YrFwmJ67L53	-	HTTP	1343424247.777472	927752	927752	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Dec  1 00:00:00 2006	application/x-gzip; charset=binary	F	7lKTT4XdRh1	(empty)	(empty)	-	-	-
+y1OdJARbsLh	-	HTTP	1343424248.206669	355272	355272	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Apr 24 13:20:46 2010, max compression	application/x-gzip; charset=binary	F	IKrJPmCGdyg	(empty)	(empty)	-	-	-
+HpwUpvDS8li	-	HTTP	1343424250.726962	1070813	1070813	0	0	120.000000	1024	Zip archive data, at least v2.0 to extract	application/zip; charset=binary	F	NCbJkm28yg4	(empty)	(empty)	-	-	-
+uKF2SrEL0Gf	-	HTTP	1343424253.039781	21040	21040	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	LNRp4ky33ce	(empty)	(empty)	-	-	-
+4TjE4SCCK75	-	FTP_DATA	1343424248.588989	37882	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	mDY0Mx39dN5	(empty)	(empty)	-	-	-
+0t6RBme3Zs4	-	HTTP	1343424254.070561	1093337	1093337	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Jul 13 13:20:10 2007	application/x-gzip; charset=binary	F	SykXM64uTTa	(empty)	(empty)	-	-	-
+fzye2YKbPf9	-	HTTP	1343424256.717554	54954	54954	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	N7vPmBrZ3f6	(empty)	(empty)	-	-	-
+F6Ge8kblNJ5	-	FTP_DATA	1343424251.976734	358781	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Sep 21 17:59:20 2011	application/x-gzip; charset=binary	F	hq9AFF7rZt6	(empty)	(empty)	-	-	-
+jauQLRG8Ov9	-	HTTP	1343424258.128245	46320	46320	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	bVfQzX3h1oj	(empty)	(empty)	-	-	-
+6WX05qkw644	-	FTP_DATA	1343424256.748646	75683	-	0	0	120.000000	1024	Zip archive data, at least v2.0 to extract	application/zip; charset=binary	F	zsTBw7fzPk4	(empty)	(empty)	-	-	-
+hLwlIDWsYSk	-	HTTP	1343424262.347189	1973811	1973811	0	0	120.000000	1024	LZMA compressed data, streamed	application/octet-stream; charset=binary	F	tIkiR7q7yhf	(empty)	(empty)	-	-	-
+uw0dMPF57A4	-	HTTP	1343424263.209024	93388	93388	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	VO2y3i4DRnd	(empty)	(empty)	-	-	-
+9e2H7cXG5X6	-	HTTP	1343424264.125582	1089784	1089784	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Mar 27 13:08:20 2012, max compression	application/x-gzip; charset=binary	F	UsBEz4PExG	(empty)	(empty)	-	-	-
+IlvS1ChHLc1	-	HTTP	1343424265.284218	9821	9821	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue May 10 21:51:54 2011	application/x-gzip; charset=binary	F	QIAV9qvc5e7	(empty)	(empty)	-	-	-
+pBhKlhXizW7	-	HTTP	1343424265.441611	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	bY5oZqbLOl2	(empty)	(empty)	-	-	-
+bwmAOaSz9v	-	FTP_DATA	1343424261.026652	116496	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	lPlJUWwsV21	(empty)	(empty)	-	-	-
+TB7vzjq38Qc	-	FTP_DATA	1343424262.496266	37163	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Nov  7 22:32:48 2005	application/x-gzip; charset=binary	F	oJt1ZRB4c6k	(empty)	(empty)	-	-	-
+QqW3sVfQuU2	-	HTTP	1343424267.812528	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	ZnxnZiTQme8	(empty)	(empty)	-	-	-
+jor4P2LaO27	-	FTP_DATA	1343424265.155118	1083128	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	2OIpkt2ekri	(empty)	(empty)	-	-	-
+gi9LHKBMBZj	-	HTTP	1343424270.282744	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	sRLignAmlG1	(empty)	(empty)	-	-	-
+7M004bQLTy6	-	FTP_DATA	1343424266.139468	370705	-	0	0	120.000000	1024	gzip compressed data, was "talloc-2.0.7.tar", from Unix, last modified: Fri Sep 16 07:39:32 2011, max compression	application/x-gzip; charset=binary	F	kpSXqnsCpnc	(empty)	(empty)	-	-	-
+AcXx9y4fZx8	-	HTTP	1343424272.264457	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	krDvIt0mLt7	(empty)	(empty)	-	-	-
+Gsv0UlPBrXf	-	HTTP	1343424273.276419	210944	210944	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	WsVwUnYgmZe	(empty)	(empty)	-	-	-
+kbiddlGVE2f	-	HTTP	1343424274.208781	2202328	2202328	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Jan 15 07:54:31 2011	application/x-gzip; charset=binary	F	zBuXQaplwYi	(empty)	(empty)	-	-	-
+XjKzndvc9o9	-	HTTP	1343424274.836331	1954245	1954245	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	m4EbMTS0iKl	(empty)	(empty)	-	-	-
+eQa6qngiC5g	-	HTTP	1343424275.090755	325	325	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	7sIwx0MpKhe	(empty)	(empty)	-	-	-
+ETAf0SiQOj8	-	HTTP	1343424276.206082	303176	303176	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	mRV67UjIw99	(empty)	(empty)	-	-	-
+gT2Hui4cYz8	-	HTTP	1343424276.804397	323252	323252	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	nBjtToAI4bj	(empty)	(empty)	-	-	-
+iGEIvYT3umd	-	HTTP	1343424276.894899	338	338	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	JzTm4AxjItj	(empty)	(empty)	-	-	-
+y7jlk9mX8C5	-	HTTP	1343424278.664776	328	328	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	ZzenUGTgJUi	(empty)	(empty)	-	-	-
+DyKGoSWPlu6	-	HTTP	1343424279.495705	329	329	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	0SwXrZd6f1k	(empty)	(empty)	-	-	-
+uhDYkuTJyHc	-	HTTP	1343424283.138495	409	409	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	sHZTfgm0W6g	(empty)	(empty)	-	-	-
+eKF9QjQvVz5	-	HTTP	1343424283.781769	619924	619924	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	qoZoaOjL5gi	(empty)	(empty)	-	-	-
+R9p831lag79	-	HTTP	1343424284.045826	1149067	1149067	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun Sep 27 02:40:12 2009	application/x-gzip; charset=binary	F	oW4pMRB5rX3	(empty)	(empty)	-	-	-
+aAVXxRK8S9g	-	FTP_DATA	1343424279.219048	1019247	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Jan 23 02:06:52 2012, max compression	application/x-gzip; charset=binary	F	yj0kk5fOj3g	(empty)	(empty)	-	-	-
+6v9stauvSH	-	FTP_DATA	1343424280.071331	1935	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	N9clQ4fQgc4	(empty)	(empty)	-	-	-
+8ZlhHRiJVjb	-	HTTP	1343424285.136140	544552	544552	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Sep 22 20:54:55 2011	application/x-gzip; charset=binary	F	c41OCVApV45	(empty)	(empty)	-	-	-
+Nq15xOxKJy7	-	HTTP	1343424285.136766	411	411	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	FGjHoCCnigc	(empty)	(empty)	-	-	-
+V3o8y2PXFt9	-	HTTP	1343424285.886065	688171	688171	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	a1aOTSXCpUe	(empty)	(empty)	-	-	-
+U5LYUsixrV5	-	HTTP	1343424291.935561	2169375	2169375	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Jul 27 21:47:18 2005	application/x-gzip; charset=binary	F	j8a2bzYuw7d	(empty)	(empty)	-	-	-
+puYH7YhGnPc	-	FTP_DATA	1343424287.453867	4502	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	PzsBuQGNUmh	(empty)	(empty)	-	-	-
+HNxy1ZyAxdj	-	HTTP	1343424293.713464	258908	258908	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	x2vZo4UEw1l	(empty)	(empty)	-	-	-
+697wvadDDDj	-	FTP_DATA	1343424289.957443	482380	-	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	kGZnw5I5Pt	(empty)	(empty)	-	-	-
+y835QLl0Zj	-	FTP_DATA	1343424290.119087	415492	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	8fJJC63quqb	(empty)	(empty)	-	-	-
+fFSDhmtMA3	-	FTP_DATA	1343424291.553678	597463	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	qdtWitapBXa	(empty)	(empty)	-	-	-
+vfsXpM5la6k	-	FTP_DATA	1343424297.450616	8260	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	mrqIzVIo0El	(empty)	(empty)	-	-	-
+AXp36RuOAG8	-	HTTP	1343424305.517430	405	405	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	92ePvI3ti91	(empty)	(empty)	-	-	-
+kpp3xrc5EH2	-	HTTP	1343424307.105202	2858756	2858756	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	okot6jGwFq1	(empty)	(empty)	-	-	-
+GGrYmHAtMP	-	FTP_DATA	1343424302.284596	4530731	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	3qqQdLHJUjc	(empty)	(empty)	-	-	-
+IyJOAVKTyOh	-	HTTP	1343424312.401890	316	316	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	IfL6vusirz	(empty)	(empty)	-	-	-
+rvfkErsnvx4	-	HTTP	1343424312.473277	652640	652640	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Jun  8 18:15:30 2006, max compression	application/x-gzip; charset=binary	F	32S03V4F7hl	(empty)	(empty)	-	-	-
+orSrDjT388d	-	HTTP	1343424313.069546	3966792	3966792	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	5LVPxFcYc8a	(empty)	(empty)	-	-	-
+4q0no8qPkS1	-	FTP_DATA	1343424310.269110	6280	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	jfxMxYhcgl6	(empty)	(empty)	-	-	-
+RYZWJE2e2dl	-	FTP_DATA	1343424315.295603	2301747	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	KLCgM0XuGvi	(empty)	(empty)	-	-	-
+TdkKfjHjC4g	-	FTP_DATA	1343424324.412976	2690	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	Y6ecAydqjPc	(empty)	(empty)	-	-	-
+Fl2SpQDSaa7	-	HTTP	1343424329.796328	134952	134952	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	HWza6hPL8Kd	(empty)	(empty)	-	-	-
+3q1x1TxPOG6	-	HTTP	1343424331.045185	4461644	4461644	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Dec 15 15:49:03 2011	application/x-gzip; charset=binary	F	dVu0m1jzqf3	(empty)	(empty)	-	-	-
+851VmY7p90f	-	HTTP	1343424332.021349	574666	574666	0	0	120.000000	1024	gzip compressed data, was "scons-2.1.0.tar", from Unix, last modified: Sat Sep 10 04:31:16 2011, max compression	application/x-gzip; charset=binary	F	LK1QkDWEtCd	(empty)	(empty)	-	-	-
+BrsWfXff1X2	-	FTP_DATA	1343424329.739057	2901161	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Feb  9 17:31:39 2006, max compression	application/x-gzip; charset=binary	F	e0hL7gtTzCg	(empty)	(empty)	-	-	-
+9nIvmBSGkvh	-	HTTP	1343424335.707246	71444	71444	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Wr3Qa7gSayk	(empty)	(empty)	-	-	-
+3vuPGx1uI3d	-	HTTP	1343424337.628463	34433	34433	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	uI3GYQI8FS1	(empty)	(empty)	-	-	-
+t0lDNGLLzyc	-	HTTP	1343424338.358824	1256271	1256271	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Jan  5 15:26:35 2010, max compression	application/x-gzip; charset=binary	F	FplA0V075Ji	(empty)	(empty)	-	-	-
+0UkdLKuF2t1	-	HTTP	1343424339.556393	42396	42396	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	IJGYIjP0rB9	(empty)	(empty)	-	-	-
+WIyfZIhsJ4l	-	HTTP	1343424340.881714	2083193	2083193	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	bqqqEUNiICj	(empty)	(empty)	-	-	-
+EB0kQBmB2Rk	-	HTTP	1343424341.468166	57617	57617	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	MPpKGEQ9tZ6	(empty)	(empty)	-	-	-
+4kcLvFLQIQd	-	HTTP	1343424342.676789	1275638	1275638	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	a9lYCjYkMKe	(empty)	(empty)	-	-	-
+3yd89olrPk4	-	FTP_DATA	1343424340.006879	1906	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	p8gSaIbLrN2	(empty)	(empty)	-	-	-
+SNaYnj808c1	-	HTTP	1343424345.586219	1774416	1774416	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	OCklqcBrFO4	(empty)	(empty)	-	-	-
+dgdTksllchl	-	HTTP	1343424348.312816	315	315	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	6fmMjy219t3	(empty)	(empty)	-	-	-
+HUqNQsgfEMf	-	HTTP	1343424353.576695	396	396	0	0	120.000000	1024	HTML document, ASCII text	text/html; charset=us-ascii	F	yhmEvUA6q47	(empty)	(empty)	-	-	-
+c8NDS03lve1	-	FTP_DATA	1343424349.238117	25023	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	VwGwcLl2tM7	(empty)	(empty)	-	-	-
+KhSJS1eyHmf	-	FTP_DATA	1343424359.195299	2012	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	fn2heIBJRwd	(empty)	(empty)	-	-	-
+xpapZ4SQaql	-	HTTP	1343424364.862756	4732	4732	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	WSGeFxm8v4	(empty)	(empty)	-	-	-
+msuArCT90vh	-	HTTP	1343424366.231790	37880	37880	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	FOucLYwhBB4	(empty)	(empty)	-	-	-
+jgnsBT4ZRyh	-	HTTP	1343424367.228513	20576	20576	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	MhbXVLHwfm5	(empty)	(empty)	-	-	-
+I6ShFnJchxi	-	HTTP	1343424367.838469	73188	73188	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	CgsQRq7Huik	(empty)	(empty)	-	-	-
+O71iHkFDuc7	-	HTTP	1343424368.941936	134768	134768	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	WQMjQ0du6ve	(empty)	(empty)	-	-	-
+zgNymFaRaf	-	HTTP	1343424370.201262	609	769076	0	0	120.000000	1024	gzip compressed data, was "apr-util-1.3.12.tar", from Unix, last modified: Thu May 19 14:58:24 2011, max compression	application/x-gzip; charset=binary	F	tMYh2zn1p0e	(empty)	(empty)	-	-	-
+CQpPvOdRwUl	-	HTTP	1343424370.530376	477382	477382	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Feb 16 21:13:21 2008, max compression	application/x-gzip; charset=binary	F	HP1YB8CeYSj	(empty)	(empty)	-	-	-
+hvoKvAI8gKk	-	HTTP	1343424371.911715	614117	614117	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Feb 16 21:46:08 2008, max compression	application/x-gzip; charset=binary	F	Ra1rN05SsDi	(empty)	(empty)	-	-	-
+1TOeJ0xsvgd	-	FTP_DATA	1343424369.347835	2986	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	MEWsTm0Tcog	(empty)	(empty)	-	-	-
+txDuJO5zALh	-	FTP_DATA	1343424372.774268	867738	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	F9i10eRYLG7	(empty)	(empty)	-	-	-
+7B4YW3Hkdj2	-	HTTP	1343424381.447912	9344	9344	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	l12a5igycKk	(empty)	(empty)	-	-	-
+CCvAtKfMd7l	-	HTTP	1343424382.272718	1412921	1412921	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	BueMlP2TcI9	(empty)	(empty)	-	-	-
+x91CQs9a7C8	-	HTTP	1343424383.776296	44793	44793	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Sep 14 20:18:48 2010	application/x-gzip; charset=binary	F	3wP7dJTmdyf	(empty)	(empty)	-	-	-
+FsKMrnPbhLa	-	HTTP	1343424384.173932	13668	13668	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	aA2bUPEappl	(empty)	(empty)	-	-	-
+L8ROY8n05Bh	-	HTTP	1343424384.862565	41756	41756	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Twxx7URg3Zb	(empty)	(empty)	-	-	-
+Sy8ENpwbkPd	-	HTTP	1343424385.952822	42028	42028	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Z1daQnzKeMh	(empty)	(empty)	-	-	-
+PSHCF2dMmw3	-	HTTP	1343424390.993984	27532	27532	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	lE2wix6FePk	(empty)	(empty)	-	-	-
+iN3pd875RX7	-	FTP_DATA	1343424386.590665	16599	-	0	0	120.000000	1024	unified diff output, ASCII text	text/x-diff; charset=us-ascii	F	hWDxycn9fDf	(empty)	(empty)	-	-	-
+TOHMnFojPvg	-	HTTP	1343424392.981694	83108	83108	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Eh8qkxbpcah	(empty)	(empty)	-	-	-
+LF4V4ZNzvY1	-	HTTP	1343424394.743662	2543949	2543949	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue May  8 03:01:20 2012	application/x-gzip; charset=binary	F	2cjvXvnLmya	(empty)	(empty)	-	-	-
+w7YNsTheZvi	-	HTTP	1343424397.938146	4445949	4445949	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	FGWV8aJLxP6	(empty)	(empty)	-	-	-
+x2vbG0UMtXi	-	HTTP	1343424402.711162	271096	271096	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	q4Fjd3fFAig	(empty)	(empty)	-	-	-
+3pmSz9dGM63	-	HTTP	1343424404.972505	2227504	2227504	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Ty3MlF8UM33	(empty)	(empty)	-	-	-
+rvprR7L6D17	-	HTTP	1343424406.812719	2117572	2117572	0	0	120.000000	1024	gzip compressed data, from Unix	application/x-gzip; charset=binary	F	I0f1GNX5WTg	(empty)	(empty)	-	-	-
+saeNlZWmoYl	-	HTTP	1343424407.224217	1114648	1114648	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	A98xMEbQTR5	(empty)	(empty)	-	-	-
+3sXukqxQkS3	-	HTTP	1343424407.294939	264944	264944	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	NgDr8Dy4nJb	(empty)	(empty)	-	-	-
+AdpnlYXl8I9	-	HTTP	1343424412.846822	2780696	2780696	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	lPx5QSODMu2	(empty)	(empty)	-	-	-
+yh8EgrVFxQi	-	HTTP	1343424414.785361	1954644	1954644	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	UdFKPkKls6i	(empty)	(empty)	-	-	-
+gMTp69wiFDe	-	FTP_DATA	1343424413.076971	1737255	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Mon Jun 25 02:13:50 2012, max compression	application/x-gzip; charset=binary	F	dIff1dd4YW	(empty)	(empty)	-	-	-
+nRCj6Lds6mc	-	HTTP	1343424419.290939	214240	214240	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	ifEqcE2syg5	(empty)	(empty)	-	-	-
+1sc4vJrHMwf	-	HTTP	1343424420.540465	216580	216580	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	ccFS3ClmFsa	(empty)	(empty)	-	-	-
+epnOHHtCrdj	-	HTTP	1343424420.786474	146556	146556	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	iWOfnBplTTf	(empty)	(empty)	-	-	-
+4iD0Ar6kVm4	-	HTTP	1343424423.472832	272996	272996	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	oNPwKCprrMl	(empty)	(empty)	-	-	-
+FyU8xoAU5m7	-	HTTP	1343424426.071639	1227385	1227385	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun Mar 18 14:47:01 2012, max compression	application/x-gzip; charset=binary	F	TClivvLmnH	(empty)	(empty)	-	-	-
+WGXE1MSVmug	-	HTTP	1343424426.428778	1193560	1193560	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	0fq2dbJYuhb	(empty)	(empty)	-	-	-
+zcC054gyEr9	-	HTTP	1343424428.333140	2550287	2550287	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Jun 21 22:40:04 2012	application/x-gzip; charset=binary	F	fOixnm6iyG4	(empty)	(empty)	-	-	-
+jXPyzhjBPVj	-	HTTP	1343424430.456403	567144	567144	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	jsDsVxRz9N9	(empty)	(empty)	-	-	-
+Y9J4EJZ6Jia	-	HTTP	1343424431.874931	38075	38075	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	NQuFwp5i0n1	(empty)	(empty)	-	-	-
+Y3Y8Y5dNSc6	-	HTTP	1343424432.949329	623480	623480	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	WxKYpKRxQk	(empty)	(empty)	-	-	-
+2EwlmZZRnHi	-	HTTP	1343424433.056709	424864	424864	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	MDeizH2inDb	(empty)	(empty)	-	-	-
+9eIQvj8NCFc	-	HTTP	1343424438.523329	157280	157280	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	F6HLJ4sw47a	(empty)	(empty)	-	-	-
+0mM6qnJulPc	-	HTTP	1343424444.467699	377912	377912	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	0gujB2HAoB	(empty)	(empty)	-	-	-
+gAzYdGOYkub	-	FTP_DATA	1343424439.786739	252036	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	IQyDKOJKaX4	(empty)	(empty)	-	-	-
+NtMk3FKYkU5	-	HTTP	1343424447.678925	1155292	1155292	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	syxafatVe86	(empty)	(empty)	-	-	-
+DpOp6wLe7M8	-	HTTP	1343424448.476378	910148	910148	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	lgOAwF4R6al	(empty)	(empty)	-	-	-
+bGMqoeX9pF6	-	FTP_DATA	1343424445.032525	610860	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	hma3BORGK2c	(empty)	(empty)	-	-	-
+9sxt2HVH3Ii	-	HTTP	1343424450.540737	682292	682292	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	x7As1WVyUc6	(empty)	(empty)	-	-	-
+4IWNIzUNcl7	-	HTTP	1343424450.551843	665416	665416	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	1LtskUj2mda	(empty)	(empty)	-	-	-
+PFvTBwBrICk	-	HTTP	1343424451.357057	3281134	3281134	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed May  4 21:12:57 2011, max compression	application/x-gzip; charset=binary	F	7rhot5GLPt6	(empty)	(empty)	-	-	-
+wEHQX8OhQt7	-	HTTP	1343424455.969488	37072	37072	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	vub4qG01Rvh	(empty)	(empty)	-	-	-
+k8kNlflMB72	-	FTP_DATA	1343424451.539445	1201152	-	0	0	120.000000	1024	tar archive	application/x-tar; charset=binary	F	0vDhBnJRZJg	(empty)	(empty)	-	-	-
+IGM1RSsI2P8	-	HTTP	1343424458.367817	86828	86828	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	uTiclO7KaYf	(empty)	(empty)	-	-	-
+lgWO6A38tVl	-	HTTP	1343424458.737779	27966	27966	0	0	120.000000	1024	gzip compressed data, was "type1inst-0.6.1.tar", from Unix, last modified: Wed Feb 11 11:00:13 1998, max compression	application/x-gzip; charset=binary	F	QcBbg3misr7	(empty)	(empty)	-	-	-
+b4k9GpXQwW9	-	HTTP	1343424459.886805	89360	89360	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	LE91L49zK3l	(empty)	(empty)	-	-	-
+yW7otjZDS6b	-	HTTP	1343424463.833787	1529956	1529956	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	791lHHxbHmf	(empty)	(empty)	-	-	-
+c5Otvcgi38e	-	HTTP	1343424468.613659	1217404	1217404	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	eFgWkPuOmN5	(empty)	(empty)	-	-	-
+dvnbV8itpC6	-	HTTP	1343424468.992168	857286	857286	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	ME8SUKyn4vg	(empty)	(empty)	-	-	-
+wLovN7lXYwh	-	HTTP	1343424478.338584	394084	394084	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	q7GTfp7urob	(empty)	(empty)	-	-	-
+vCQj8H5B2fl	-	HTTP	1343424480.009558	1726028	1726028	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	F7sqH2NTFk4	(empty)	(empty)	-	-	-
+GvFh3g5OvPb	-	HTTP	1343424488.863692	733120	733120	0	0	120.000000	1024	gzip compressed data, was "sip-4.13.2.tar", last modified: Fri Feb 10 10:03:16 2012, max compression	application/x-gzip; charset=binary	F	93HbNyP5E18	(empty)	(empty)	-	-	-
+XTwI1NhoPo3	-	HTTP	1343424494.133311	1084088	1084088	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Y6luScI9JQl	(empty)	(empty)	-	-	-
+K6E8Cg36y71	-	HTTP	1343424496.683348	2185822	2185822	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun May 10 19:50:44 2009	application/x-gzip; charset=binary	F	GWybcFR0om	(empty)	(empty)	-	-	-
+2HzeLzqHB34	-	HTTP	1343424498.173136	2657820	2657820	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	XiAfkBAL461	(empty)	(empty)	-	-	-
+I94vQjbjpsa	-	HTTP	1343424509.042621	1872534	1872534	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun Dec 23 15:50:35 2007	application/x-gzip; charset=binary	F	coiD5FKPDV8	(empty)	(empty)	-	-	-
+3hLD9Z6VSJb	-	HTTP	1343424509.207952	1212730	1212730	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	9D3k3pozkgf	(empty)	(empty)	-	-	-
+iu00d9fWu5	-	HTTP	1343424528.805221	2111428	2111428	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	FrMUsrg4Ljc	(empty)	(empty)	-	-	-
+bm0oeGYyVdk	-	HTTP	1343424532.770073	61860	61860	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	cNU1lRYUaoi	(empty)	(empty)	-	-	-
+4dNNhJscmx2	-	HTTP	1343424534.627727	2657005	2657005	0	0	120.000000	1024	gzip compressed data, was "QScintilla-gpl-2.6.1.tar", last modified: Fri Feb 10 09:59:56 2012, max compression	application/x-gzip; charset=binary	F	lVPEPurBan3	(empty)	(empty)	-	-	-
+ymxtZG1oZfd	-	HTTP	1343424536.164477	84892	84892	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	m0m0s4qYXAc	(empty)	(empty)	-	-	-
+CJPcQRUwVSg	-	HTTP	1343424542.110440	157648	157648	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	VuKqL0dl6pe	(empty)	(empty)	-	-	-
+WSTYyEBHLB3	-	HTTP	1343424545.167555	151216	151216	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	aw4KAv2sELe	(empty)	(empty)	-	-	-
+dVjVM9DxL3c	-	HTTP	1343424549.848209	283536	283536	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	TveBSlRXVvj	(empty)	(empty)	-	-	-
+YKwlOl4jiCf	-	HTTP	1343424550.349885	734954	734954	0	0	120.000000	1024	gzip compressed data, was "PyXML-0.8.4.tar", from Unix, last modified: Mon Nov 29 14:02:02 2004, max compression	application/x-gzip; charset=binary	F	IBdkKi9vCXj	(empty)	(empty)	-	-	-
+pYXhZKeRKsc	-	HTTP	1343424551.800705	296540	296540	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	nvsZPbiqZad	(empty)	(empty)	-	-	-
+CfY70cu0bnb	-	HTTP	1343424573.601284	817180	817180	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	nt0OyaxpF3j	(empty)	(empty)	-	-	-
+5AhoiZRYeS9	-	FTP_DATA	1343424579.145496	4660623	-	0	0	120.000000	1024	gzip compressed data, was "cfitsio3300.tar", from Unix, last modified: Thu Apr 19 15:45:19 2012	application/x-gzip; charset=binary	F	okzzG13nUy1	(empty)	(empty)	-	-	-
+URqy5B7lQNd	-	FTP_DATA	1343424586.863138	52018	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	C1Fwl1PCBuc	(empty)	(empty)	-	-	-
+oDmtWMG3rTb	-	HTTP	1343424592.527718	1500644	1500644	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	BteFEXpPW7j	(empty)	(empty)	-	-	-
+jQTHhKCkcFf	-	HTTP	1343424601.716097	3290351	5636443	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Feb 24 16:46:04 2012	application/x-gzip; charset=binary	F	Hkihe5x4gz8	(empty)	(empty)	-	-	-
+zjgnbUAT95	-	FTP_DATA	1343424599.659689	214514	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	0n6yr4qnzc9	(empty)	(empty)	-	-	-
+RsE04RZuDd6	-	HTTP	1343424611.169303	316900	316900	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	KsVNqEQUCs1	(empty)	(empty)	-	-	-
+NEEAXtQf34e	-	HTTP	1343424612.794152	340230	340230	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Jan 19 15:19:04 2011, max compression	application/x-gzip; charset=binary	F	DrQLmTzD983	(empty)	(empty)	-	-	-
+VPUhg5JrKkh	-	HTTP	1343424613.562992	479325	479325	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Dec 30 02:17:01 2005, max compression	application/x-gzip; charset=binary	F	lWX5pzSqfk8	(empty)	(empty)	-	-	-
+mZUpEcSDAmb	-	HTTP	1343424625.703882	1678609	1678609	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri May  4 17:03:02 2012, max compression	application/x-gzip; charset=binary	F	rh5upo19Bi2	(empty)	(empty)	-	-	-
+B9ueY32QQP3	-	HTTP	1343424626.781861	1445348	1445348	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Feb 28 18:56:23 2012, max compression	application/x-gzip; charset=binary	F	c76FoJT9bl7	(empty)	(empty)	-	-	-
+qouE550TXwg	-	HTTP	1343424630.004693	886195	886195	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Mar  2 18:01:17 2005, max compression	application/x-gzip; charset=binary	F	6pZUOBVt7nl	(empty)	(empty)	-	-	-
+vyFVoa7thUd	-	FTP_DATA	1343424626.061357	1036604	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	0EVhPDt8F2f	(empty)	(empty)	-	-	-
+lBos5uxf45i	-	HTTP	1343424636.965537	598496	598496	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Oct  5 14:36:03 2011, max compression	application/x-gzip; charset=binary	F	vqyFqW8DWLf	(empty)	(empty)	-	-	-
+G25R3GOfT7	-	HTTP	1343424645.123075	391732	391732	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	DLAyfW4c9C6	(empty)	(empty)	-	-	-
+24fQEqeL3E2	-	HTTP	1343424646.840351	7251	7251	0	0	120.000000	1024	gzip compressed data, was "Digest-HMAC-1.03.tar", from Unix, last modified: Mon Jul 25 16:53:49 2011, max compression	application/x-gzip; charset=binary	F	buiJguuvvI6	(empty)	(empty)	-	-	-
+TSvbd0r2F8l	-	HTTP	1343424646.853494	8150	8150	0	0	120.000000	1024	gzip compressed data, was "HTML-Tagset-3.20.tar", from Unix, last modified: Sat Mar  1 06:16:36 2008, max compression	application/x-gzip; charset=binary	F	0CVAxg0Kst5	(empty)	(empty)	-	-	-
+vXvNNO248b9	-	HTTP	1343424646.878370	7319	7319	0	0	120.000000	1024	gzip compressed data, was "HTTP-Date-6.02.tar", from Unix, last modified: Fri Mar 30 12:07:25 2012, max compression	application/x-gzip; charset=binary	F	7O7jFrsrZs4	(empty)	(empty)	-	-	-
+LczXTnfX009	-	HTTP	1343424646.975232	8596	8596	0	0	120.000000	1024	gzip compressed data, was "HTTP-Negotiate-6.01.tar", from Unix, last modified: Sat Feb 18 12:31:54 2012, max compression	application/x-gzip; charset=binary	F	0i0r909S3Aa	(empty)	(empty)	-	-	-
+XoPidn3nPS1	-	HTTP	1343424648.467031	18751	18751	0	0	120.000000	1024	gzip compressed data, was "HTTP-Cookies-6.01.tar", from Unix, last modified: Wed Feb 15 22:16:13 2012, max compression	application/x-gzip; charset=binary	F	zy3VRUhi7V	(empty)	(empty)	-	-	-
+DCZHE4hIS92	-	HTTP	1343424650.011085	806861	806861	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Mar 18 06:12:49 2003, max compression	application/x-gzip; charset=binary	F	h8hg6I7FKO	(empty)	(empty)	-	-	-
+3htB3kd7WWf	-	HTTP	1343424651.515598	18628	18628	0	0	120.000000	1024	gzip compressed data, was "HTTP-Daemon-6.01.tar", from Unix, last modified: Sat Feb 18 12:24:17 2012, max compression	application/x-gzip; charset=binary	F	mULvLF8oXWg	(empty)	(empty)	-	-	-
+QWYKwJaxl6b	-	HTTP	1343424653.202004	81196	81196	0	0	120.000000	1024	gzip compressed data, was "URI-1.60.tar", from Unix, last modified: Sun Mar 25 20:51:04 2012, max compression	application/x-gzip; charset=binary	F	UYuBWsSZl06	(empty)	(empty)	-	-	-
+DXRs6J3lO32	-	HTTP	1343424655.862840	89531	89531	0	0	120.000000	1024	gzip compressed data, was "HTML-Parser-3.69.tar", from Unix, last modified: Sat Oct 15 15:32:56 2011, max compression	application/x-gzip; charset=binary	F	ew0OIZYo8Cl	(empty)	(empty)	-	-	-
+It7V7OKKg0a	-	HTTP	1343424657.348051	535427	535427	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Apr 20 16:41:28 2012	application/x-gzip; charset=binary	F	knXzgC0a4c	(empty)	(empty)	-	-	-
+jk4A0P1vrQj	-	HTTP	1343424668.177721	1169564	1169564	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	DaW3Z4IKaEh	(empty)	(empty)	-	-	-
+4ODosRKfDx	-	FTP_DATA	1343424664.652915	375009	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	am2k4PjHD46	(empty)	(empty)	-	-	-
+G9FVQwSWsC	-	HTTP	1343424670.202560	28959	28959	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	q8vkjjEDxn9	(empty)	(empty)	-	-	-
+TB32aXvHBw9	-	HTTP	1343424672.385492	546319	546319	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sat Aug  6 21:20:39 2011, max compression	application/x-gzip; charset=binary	F	8zO9WNe49qg	(empty)	(empty)	-	-	-
+a9NXK5jyDYj	-	HTTP	1343424672.945249	441968	441968	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	nMJoE5Oc6F9	(empty)	(empty)	-	-	-
+KaezVRbkmE2	-	HTTP	1343424674.668407	296837	296837	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Wed Feb 11 13:15:45 2004, max compression	application/x-gzip; charset=binary	F	PbbFEYFsPBk	(empty)	(empty)	-	-	-
+fOBmdQAKDO	-	HTTP	1343424675.810774	391028	391028	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Apr 26 15:33:13 2001, max compression	application/x-gzip; charset=binary	F	VioKEFIfsKh	(empty)	(empty)	-	-	-
+WovWf0MbCi3	-	HTTP	1343424681.604580	901043	901043	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	6SXetWPJL9b	(empty)	(empty)	-	-	-
+2cJt0saJRF9	-	HTTP	1343424681.740395	352909	352909	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	C6aaUvdmSc7	(empty)	(empty)	-	-	-
+84cxIO81uo5	-	FTP_DATA	1343424689.027756	896558	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	e2hmeT5Xwe5	(empty)	(empty)	-	-	-
+VNQTfdZyMEc	-	HTTP	1343424695.489014	1066815	1066815	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Mar 18 00:06:14 2011, max compression	application/x-gzip; charset=binary	F	pKfguDdYKRb	(empty)	(empty)	-	-	-
+oGH87PLGfg7	-	HTTP	1343424704.695430	2603352	2603352	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	Z1FfTaWDKSk	(empty)	(empty)	-	-	-
+Nudf56Amfu6	-	FTP_DATA	1343424700.030141	2346092	-	0	0	120.000000	1024	data	application/octet-stream; charset=binary	F	bLEKYIqV6W9	(empty)	(empty)	-	-	-
+JU3W1NHbLwg	-	HTTP	1343424722.141998	2323747	2323747	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Thu Oct 27 08:06:38 2011, max compression	application/x-gzip; charset=binary	F	tcUDj2F71vf	(empty)	(empty)	-	-	-
+qHaxEH55IN7	-	FTP_DATA	1343424721.900063	4258348	-	0	0	120.000000	1024	bzip2 compressed data, block size = 900k	application/x-bzip2; charset=binary	F	MKJBjDqE8eb	(empty)	(empty)	-	-	-
+lnP2kaWZHWh	-	FTP_DATA	1343424726.779419	65318	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Sun Apr  5 14:55:37 2009	application/x-gzip; charset=binary	F	9axHL4BCVs2	(empty)	(empty)	-	-	-
+boVuzRaGml3	-	HTTP	1343424766.004805	4857248	4857248	0	0	120.000000	1024	XZ compressed data	application/x-xz; charset=binary	F	yhR7B2WMM7	(empty)	(empty)	-	-	-
+myFsrROlgr1	-	FTP_DATA	1343424860.690207	317336	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Fri Sep 16 19:57:36 2011	application/x-gzip; charset=binary	F	c9ZGTYhjySh	(empty)	(empty)	-	-	-
+Z0OQ4PJ1pZ	-	FTP_DATA	1343425233.544558	29397	-	0	0	120.000000	1024	gzip compressed data, from Unix, last modified: Tue Dec  7 08:22:50 2004	application/x-gzip; charset=binary	F	hNC9yBGFAJ8	(empty)	(empty)	-	-	-
+#close	2013-03-28-19-41-43
