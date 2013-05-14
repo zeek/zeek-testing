@@ -3,9 +3,11 @@
 #empty_field	(empty)
 #unset_field	-
 #path	ftp
-#open	2009-11-19-01-34-56
-#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	user	password	command	arg	mime_type	mime_desc	file_size	reply_code	reply_msg	tags	extraction_file
-#types	time	string	addr	port	addr	port	string	string	string	string	string	string	count	count	string	table[string]	file
-1258594163.566694	DHar9wRMO6c	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	MS-DOS executable, MZ for MS-DOS	-	226	Transfer complete.	-	-
-1258594082.148042	JoW1gRiJbpj	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	MS-DOS executable, MZ for MS-DOS	-	226	Transfer complete.	-	-
-#close	2009-11-19-07-59-50
+#open	2013-05-13-18-58-54
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	user	password	command	arg	mime_type	file_size	reply_code	reply_msg	tags	data_channel.passive	data_channel.orig_h	data_channel.resp_h	data_channel.resp_p	extraction_file
+#types	time	string	addr	port	addr	port	string	string	string	string	string	count	count	string	table[string]	bool	addr	addr	port	string
+1258594081.911439	5gPp8lDLO74	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	PASV	-	-	-	227	Entering Passive Mode (143,166,11,10,250,53)	(empty)	T	192.168.1.105	143.166.11.10	64053	-
+1258594163.327845	WSLROC3Y8L2	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	PASV	-	-	-	227	Entering Passive Mode (143,166,11,10,251,78)	(empty)	T	192.168.1.105	143.166.11.10	64334	-
+1258594163.566694	WSLROC3Y8L2	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	(empty)	-	-	-	-	-
+1258594082.148042	5gPp8lDLO74	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	(empty)	-	-	-	-	-
+#close	2013-05-13-18-59-40
