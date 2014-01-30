@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2014-01-27-22-21-52
+#open	2014-01-30-18-46-11
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258790427.790165	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -11,6 +11,8 @@
 1258791632.397891	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258792234.702113	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258792837.007295	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258792950.699406	COR5A63SA18oL2dIai	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258792950.699427	CeuBcl4xzXkMhlzGId	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258793232.757846	CIoUpm46m1BK32ruC3	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258793232.757871	CfZDpnMpZDRjkQ2v9	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258793232.858119	CIoUpm46m1BK32ruC3	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
@@ -20,6 +22,8 @@
 1258794674.035706	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258795306.455747	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258795938.874790	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258796550.689611	C7GTliGZcItGRoFo8	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258796550.689631	CeQPiK1CfZo9u2DIc3	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258796571.294684	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258796809.474106	CaOjdH3irspWEPshrf	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
 1258796809.474127	COdExA2yyszwFSHDi6	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_RR_unknown_type	-	F	bro
@@ -28,6 +32,8 @@
 1258798408.323692	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258799010.627557	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258799612.931572	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258800150.660135	CVzBUn2fmzhTmuyvkl	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258800150.660156	CvxeFD363pIduBfkJf	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258800215.235821	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258800409.373843	CLyFg11AfES1hokQE6	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258800409.373865	CV49Q62vxqoEzbuLe	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
@@ -38,6 +44,8 @@
 1258802022.149291	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258802624.453487	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258803256.871553	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258803750.673531	CoidOq3wnAPBPbDbWa	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258803750.673554	C9eaMc1mSP0TPC8095	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258803889.291861	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258804009.373610	CborYd18apB2gkPJS4	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258804009.373631	CLr9i7PAaoWT3xzga	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
@@ -186,6 +194,8 @@
 1258855747.711700	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258856350.014387	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258856952.318574	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258857419.232860	CcNQL63L83IZTADuq9	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258857419.232885	CHspNw1pJ8t32JYOx3	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258857476.935206	CkMxHC1SxLt76GuNX2	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258857476.935225	C68D1wJTlyPPNnGzl	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258857477.034575	CkMxHC1SxLt76GuNX2	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
@@ -196,6 +206,8 @@
 1258859451.882043	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258860054.186226	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258860656.491144	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258861019.186832	CLQLKd84GhjP1BbOa	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258861019.186858	CyKCre1kSLVRaFTrV4	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258861076.934888	CRWGHD4UHGXP1QmjCb	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258861076.934908	Cp3g3p3BKSgcfOhabh	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258861077.035067	CRWGHD4UHGXP1QmjCb	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
@@ -206,6 +218,8 @@
 1258863095.822664	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258863728.243922	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258864330.547834	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258864619.223773	CHONUlE7Vo2Cjyt39	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258864619.223799	CPzDFB1zfWOGFATjh3	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258864676.934405	CwIdPrPxKZksGott8	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258864676.934426	C4nAtG1aSC2LObHr13	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258864677.034730	CwIdPrPxKZksGott8	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
@@ -216,6 +230,8 @@
 1258866830.111882	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258867462.532601	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258868064.837725	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258868219.207591	C99ePd3ZDcznVVKM3j	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258868219.207606	Cwr4974bMGrf5TXqgd	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258868276.934933	COdEq03f11f8hw06g8	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258868276.934957	CjzykJ15Yqa84F5k93	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258868277.034324	COdEq03f11f8hw06g8	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
@@ -239,5 +255,7 @@
 1258875355.229948	C5UVWAPxcpXpbUZM7	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_RR_unknown_type	-	F	bro
 1258875412.953009	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258876015.257714	-	-	-	-	-	unknown_packet_type	-	F	bro
+1258876036.086631	CjHvvf10C4kNbYgN0b	192.168.1.1	5353	224.0.0.251	5353	dns_unmatched_reply	-	F	bro
+1258876036.086653	CsmTOu3OZi9h48NiTg	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	dns_unmatched_reply	-	F	bro
 1258876617.562416	-	-	-	-	-	unknown_packet_type	-	F	bro
-#close	2014-01-27-22-24-03
+#close	2014-01-30-18-47-14
