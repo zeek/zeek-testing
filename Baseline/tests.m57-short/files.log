@@ -5,7 +5,7 @@
 #path	files
 #open	2014-03-31-17-05-13
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted
-#types	time	string	table[addr]	table[addr]	table[string]	string	count	table[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
 1258792736.753765	FDbW5b2iLXrF5THMi2	192.168.1.106	212.227.96.110	CuChlg202P8sUFuXrg	HTTP	0	MD5,SHA1	-	-	0.000000	-	T	984	984	0	0	F	-	1a2d4fd8d06069db3244ceec0af05cee	49e76419a90f7c1500da9c223e2a5c3fdff20a4d	-	-
 1258792736.948645	FxOzz31q8CFeyuy9p3	212.227.96.110	192.168.1.106	CuChlg202P8sUFuXrg	HTTP	0	MD5,SHA1	-	-	0.000000	-	F	96	96	0	0	F	-	87ce674424412d142e8f91a7d0a31543	0d37ea982113bceb6cc8a9def8397c6a23192e7d	-	-
 1258792737.659698	F9xPzQOphtirmCWD5	192.168.1.106	87.106.1.47	CZTTFm2GrMAs8leAyl	HTTP	0	MD5,SHA1	-	-	0.000000	-	T	984	984	0	0	F	-	fe81781b158b42de29a7c0fe012d42f2	c6bf38c7bee36331abaa089a558d70e76ed77924	-	-

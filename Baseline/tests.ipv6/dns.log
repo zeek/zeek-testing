@@ -5,7 +5,7 @@
 #path	dns
 #open	2012-10-05-16-51-40
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	auth	addl
-#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	table[string]	table[string]
+#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	set[string]	set[string]
 1341811941.294814	k6kgXLOoSKl	2001:470:1f05:17a6::6	54972	2001:470:86b2::3	53	udp	6775	www.kame.net	1	C_INTERNET	28	AAAA	0	NOERROR	F	F	T	T	0	orange.kame.net,2001:200:dff:fff1:216:3eff:feb1:44d7	85973.000000,85973.000000	F	orange.kame.net,mango.itojun.org	203.178.141.194,2001:2f0:0:8800::1:1,210.155.141.200
 1341811973.584055	VW0XPVINV8a	2001:470:1f05:17a6::6	55741	2001:470:86b2::3	53	udp	36432	downloads.powerdns.com	1	C_INTERNET	1	A	0	NOERROR	F	F	T	T	0	doc.powerdns.com,85.17.219.216	3600.000000,3600.000000	F	dns-us1.powerdns.net,dns-us2.powerdns.net,dns-eu1.powerdns.net,dns-eu2.powerdns.net	46.165.192.30,95.211.40.20,108.59.1.230,85.17.219.217
 1341811974.426964	qSsw6ESzHV4	2001:470:1f05:17a6::6	37175	2001:470:86b2::3	53	udp	58418	mirrors.evolva.ro	1	C_INTERNET	1	A	0	NOERROR	F	F	T	T	0	86.55.0.62	600.000000	F	ns2.evolva.ro,ns1.evolva.ro	2001:4d18:0:1::12,193.19.192.2,2001:4d18:0:1::1a,193.19.192.3

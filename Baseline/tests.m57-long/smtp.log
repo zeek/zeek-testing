@@ -5,7 +5,7 @@
 #path	smtp
 #open	2013-08-26-19-40-38
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	helo	mailfrom	rcptto	date	from	to	reply_to	msg_id	in_reply_to	subject	x_originating_ip	first_received	second_received	last_reply	path	user_agent	fuids	is_webmail
-#types	time	string	addr	port	addr	port	count	string	string	table[string]	string	string	table[string]	string	string	string	string	addr	string	string	string	vector[addr]	string	vector[string]	bool
+#types	time	string	addr	port	addr	port	count	string	string	set[string]	string	string	set[string]	string	string	string	string	addr	string	string	string	vector[addr]	string	vector[string]	bool
 1258563574.317353	CdbA613PQeyL1Z6X8j	192.168.1.103	1397	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	(empty)	F
 1258565030.376588	Cr9NNc4gqHnV7aE7Hd	192.168.1.103	1749	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	(empty)	F
 1258565174.991575	ChtONC3LiJaEx5BQsg	192.168.1.103	1755	192.168.1.1	25	1	m57pat	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.1.1,192.168.1.103	-	(empty)	F

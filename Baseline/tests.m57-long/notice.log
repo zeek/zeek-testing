@@ -5,7 +5,7 @@
 #path	notice
 #open	2014-02-28-22-05-40
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
-#types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	table[enum]	interval	bool	string	string	string	double	double
+#types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	C4CB2H39KpiLwHQNpf	192.168.1.104	1196	65.55.184.16	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258561885.852421	Ch9e9l26trionDird1	192.168.1.105	49210	65.55.184.155	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.184.155	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258562477.944082	CqebLx10VGz9DFQAj3	192.168.1.104	1377	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.104	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-

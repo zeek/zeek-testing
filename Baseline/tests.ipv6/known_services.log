@@ -5,7 +5,7 @@
 #path	known_services
 #open	2012-08-16-19-38-48
 #fields	ts	host	port_num	port_proto	service
-#types	time	addr	port	enum	table[string]
+#types	time	addr	port	enum	set[string]
 1341812178.428028	2001:770:18:aa40::c101:c142	80	tcp	HTTP
 1341815664.267060	2001:4830:134:3::b	80	tcp	HTTP
 1341891954.294808	2001:1868:205::10	80	tcp	HTTP

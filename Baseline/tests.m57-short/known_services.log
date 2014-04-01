@@ -5,7 +5,7 @@
 #path	known_services
 #open	2013-08-04-03-40-08
 #fields	ts	host	port_num	port_proto	service
-#types	time	addr	port	enum	table[string]
+#types	time	addr	port	enum	set[string]
 1258790620.442107	192.168.1.1	67	udp	DHCP
 1258792736.753765	212.227.96.110	80	tcp	HTTP
 1258792737.659698	87.106.1.47	80	tcp	HTTP

@@ -5,7 +5,7 @@
 #path	dns
 #open	2014-03-10-16-18-38
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	auth	addl
-#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	table[string]	table[string]
+#types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	set[string]	set[string]
 1258790493.787450	CCvvfg3TEfuqmmG4bh	192.168.1.104	137	192.168.1.255	137	udp	33084	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258790494.522251	CCvvfg3TEfuqmmG4bh	192.168.1.104	137	192.168.1.255	137	udp	33084	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258790495.272277	CCvvfg3TEfuqmmG4bh	192.168.1.104	137	192.168.1.255	137	udp	33084	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-

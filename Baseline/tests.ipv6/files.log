@@ -5,7 +5,7 @@
 #path	files
 #open	2014-03-25-15-28-29
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted
-#types	time	string	table[addr]	table[addr]	table[string]	string	count	table[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
 1341812180.352651	F3X6ND2Tf3Jeqk5Ix3	2001:770:18:aa40::c101:c142	2001:470:1f05:17a6::6	CUqYZc2XzbfnZKbgT	HTTP	0	MD5,SHA1	application/zip	-	5.096074	-	F	1069703	1069703	0	0	F	-	96cbeba0907562b077e26bcffb483828	31dbb456c21f50865218c57b7eaf4c955a222ba1	-	-
 1341815664.381521	FOGfP94xUuP0Oek9Y5	2001:4830:134:3::b	2001:470:1f05:17a6::6	CoDsF33JTB8qxvBAZi	HTTP	0	MD5,SHA1	application/x-gzip	-	6.190246	-	F	4984397	4984397	0	0	F	-	e34509b1623cec449dfeb73d7ce9c6c6	be7d67e50d72ff067b2c0291311bc283add36965	-	-
 1341819052.305723	FHBUPu2cco9hHikhU	2001:4830:134:3::b	2001:470:1f05:17a6::6	CQnnCYoNfERUepu96	HTTP	0	MD5,SHA1	application/x-bzip2	-	2.520807	-	F	2052144	2052144	0	0	F	-	041487d25e9c230b0c42b106361055fe	12a662456033e21aed3e318aef4177f4000afe3b	-	-

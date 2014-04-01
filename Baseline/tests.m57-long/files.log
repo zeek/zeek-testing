@@ -5,7 +5,7 @@
 #path	files
 #open	2014-03-31-16-48-56
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted
-#types	time	string	table[addr]	table[addr]	table[string]	string	count	table[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string
 1258535656.573031	FZFULlX5SD5JgXEol	65.54.95.64	192.168.1.104	CZp0Ny3Sci9r9VmPOf	HTTP	0	MD5,SHA1	application/vnd.ms-cab-compressed	-	0.047525	-	F	20756	20756	0	0	F	-	148968ffd41d47ddbe0e4e2f379bdad3	6fe5888f47292cd152bc914d47a6a72f5f50d313	-	-
 1258535660.452083	FElx6m3LsWEZ2L6a0h	65.55.184.16	192.168.1.104	C4CB2H39KpiLwHQNpf	SSL	0	X509,MD5,SHA1	-	-	0.000000	-	F	1585	-	0	0	F	-	6e9580332b2f03f52b5abb868fa6e68d	a6101afc2a332892ca9d400cfe6a3841e8485780	-	-
 1258535660.452083	Fgxthq11vETje01I32	65.55.184.16	192.168.1.104	C4CB2H39KpiLwHQNpf	SSL	0	X509,MD5,SHA1	-	-	0.000000	-	F	1559	-	0	0	F	-	6870daee3f74c44bc11fbd18ba938469	7e8ac29c5a328cc271a2d94f7570f7a91bf69405	-	-

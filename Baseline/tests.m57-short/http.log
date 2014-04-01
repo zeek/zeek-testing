@@ -5,7 +5,7 @@
 #path	http
 #open	2014-03-25-15-28-30
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	filename	tags	username	password	proxied	orig_fuids	orig_mime_types	resp_fuids	resp_mime_types	client_header_names	server_header_names	cookie_vars	uri_vars
-#types	time	string	addr	port	addr	port	count	string	string	string	string	string	count	count	count	string	count	string	string	table[enum]	string	string	table[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	count	count	count	string	count	string	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
 1258792736.753765	CuChlg202P8sUFuXrg	192.168.1.106	1214	212.227.96.110	80	1	POST	212.227.96.110	/rpc.html?e=bl	-	SCSDK-6.0.0	984	96	200	OK	-	-	-	(empty)	-	-	-	FDbW5b2iLXrF5THMi2	-	FxOzz31q8CFeyuy9p3	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH	-	-	/rpc.html?e
 1258792737.659698	CZTTFm2GrMAs8leAyl	192.168.1.106	1215	87.106.1.47	80	1	POST	87.106.1.47	/rpc.html?e=bl	-	SCSDK-6.0.0	984	96	200	OK	-	-	-	(empty)	-	-	-	F9xPzQOphtirmCWD5	-	FKIXpb3jwDUXTS6ql4	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH	-	-	/rpc.html?e
 1258792738.530153	CV23rC3tBHfPhMUPtf	192.168.1.106	1216	87.106.1.89	80	1	POST	87.106.1.89	/rpc.html?e=bl	-	SCSDK-6.0.0	984	96	200	OK	-	-	-	(empty)	-	-	-	FTyIIv49N8Dl73Pfn1	-	FqPM962Nw784pUTDp9	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH	-	-	/rpc.html?e

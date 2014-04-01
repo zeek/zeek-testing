@@ -5,7 +5,7 @@
 #path	conn
 #open	2014-02-13-20-30-28
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
-#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	count	string	count	count	count	count	table[string]
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	count	string	count	count	count	count	set[string]
 1341811941.294814	CCvvfg3TEfuqmmG4bh	2001:470:1f05:17a6::6	54972	2001:470:86b2::3	53	udp	dns	0.001571	30	183	SF	-	0	Dd	1	78	1	231	(empty)
 1341811975.117531	C3SfNE4BWaU4aSuwkc	2001:470:1f05:17a6::6	45175	2001:4d18:0:1::16	80	tcp	-	2.999391	0	0	S0	-	0	S	2	160	0	0	(empty)
 1341811973.584055	CJ3xTn1c4Zw9TmAE05	2001:470:1f05:17a6::6	55741	2001:470:86b2::3	53	udp	dns	0.622166	40	238	SF	-	0	Dd	1	88	1	286	(empty)
