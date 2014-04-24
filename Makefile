@@ -15,6 +15,9 @@ btest-brief:
 coverage:
 	@../../scripts/coverage-calc ".tmp/script-coverage*" coverage.log `pwd`/../../../scripts
 
+update-timing:
+	@$(BTEST) -T
+
 update-traces:
 	@../scripts/update-traces Traces
 

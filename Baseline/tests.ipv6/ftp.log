@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	ftp
-#open	2014-03-25-15-28-36
+#open	2014-04-21-21-34-45
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	user	password	command	arg	mime_type	file_size	reply_code	reply_msg	data_channel.passive	data_channel.orig_h	data_channel.resp_h	data_channel.resp_p	fuid
 #types	time	string	addr	port	addr	port	string	string	string	string	string	count	count	string	bool	addr	addr	port	string
 1341891965.942294	Covt454UXFgiOAfsMe	2001:470:1f05:17a6:213:72ff:fe0d:a566	31380	2001:4f8:0:2::e	21	anonymous	root@freebsd-5453	EPSV	-	-	-	229	Entering Extended Passive Mode (|||44547|).	T	2001:470:1f05:17a6:213:72ff:fe0d:a566	2001:4f8:0:2::e	44547	-
@@ -73,7 +73,7 @@
 1343372928.669275	CT1oOC1qCsuHZqPd03	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	55638	2001:6a8:a40::21	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:6a8:a40::21]/mirror/ftp.gnome.org/sources/glib/2.28/glib-2.28.8.tar.xz	<unknown>	-	150	Opening BINARY mode data connection for glib-2.28.8.tar.xz (2700428 bytes)	-	-	-	-	F46AJl4MONZeenBbh9
 1343373002.804485	COexj44gQuzmaYmh5e	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	55147	2001:4f8:0:2::e	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:4f8:0:2::e]/pub/FreeBSD/ports/distfiles/libvpx-v1.1.0.tar.bz2	application/x-bzip2	1	500	OOPS: priv_sock_get_cmd	-	-	-	-	FMsKcu4d2GvE1Ff2Bi
 1343373057.355147	CBsqVv4ETBqlr4y85c	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	17041	2001:770:18:aa40::c101:c140	21	anonymous	michael@sponge.es.net	EPSV	-	-	-	229	Entering Extended Passive Mode (|||51578|)	T	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	2001:770:18:aa40::c101:c140	51578	-
-1343373051.994134	Co6XUo3kPT7ycFzMbh	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	14271	2001:4f8:0:2::e	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:4f8:0:2::e]/pub/FreeBSD/ports/distfiles/jpeg8b2/jpegexiforient.c	text/x-c	8531	500	OOPS: priv_sock_get_cmd	-	-	-	-	F58F5J352gbUFwLCxb
+1343373051.994134	Co6XUo3kPT7ycFzMbh	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	14271	2001:4f8:0:2::e	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:4f8:0:2::e]/pub/FreeBSD/ports/distfiles/jpeg8b2/jpegexiforient.c	text/plain	8531	500	OOPS: priv_sock_get_cmd	-	-	-	-	F58F5J352gbUFwLCxb
 1343373059.845003	CBsqVv4ETBqlr4y85c	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	17041	2001:770:18:aa40::c101:c140	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:770:18:aa40::c101:c140]/mirrors/trolltech/pub/qt/source/qt-everywhere-opensource-src-4.8.2.tar.gz	-	-	550	qt-everywhere-opensource-src-4.8.2.tar.gz: No such file or directory	-	-	-	-	-
 1343373084.088209	CHE7Ya1bbdeda3O615	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	53576	2001:4f8:0:2::e	21	anonymous	michael@sponge.es.net	EPSV	-	-	-	229	Entering Extended Passive Mode (|||5794|).	T	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	2001:4f8:0:2::e	5794	-
 1343372978.365424	C5itsg2Nxq8NP0X28	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	62045	2001:4f8:0:2::e	21	anonymous	michael@sponge.es.net	RETR	ftp://[2001:4f8:0:2::e]/pub/FreeBSD/ports/distfiles/cmake-2.8.8.tar.gz	-	2	500	OOPS: priv_sock_get_cmd	-	-	-	-	-
@@ -221,4 +221,4 @@
 1343424387.331488	CwaDaC269qGNKQ6w1l	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	35958	2001:6f8:200:1::5:33	21	anonymous	root@sponge.es.net	RETR	ftp://[2001:6f8:200:1::5:33]/samba/samba-3.4.17.tar.gz	-	3	226	Transfer complete	-	-	-	-	-
 1343425233.405349	ClQlmF4CZe0tCzwCpb	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	65284	2001:4f8:0:2::e	21	anonymous	root@sponge.es.net	EPSV	-	-	-	229	Entering Extended Passive Mode (|||29994|).	T	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	2001:4f8:0:2::e	29994	-
 1343425233.441995	ClQlmF4CZe0tCzwCpb	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	65284	2001:4f8:0:2::e	21	anonymous	root@sponge.es.net	RETR	ftp://[2001:4f8:0:2::e]/pub/FreeBSD/ports/distfiles/teTeX/dvipsk-jpatch-p1.6a1.tar.gz	application/x-gzip	1	500	OOPS: priv_sock_get_cmd	-	-	-	-	FG9V1U1iQDE7Grzew7
-#close	2014-03-25-15-30-10
+#close	2014-04-21-21-36-03
