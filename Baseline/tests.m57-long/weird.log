@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2014-02-13-20-30-28
+#open	2014-05-15-17-51-56
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -254,8 +254,6 @@
 1258562977.600758	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258563142.267591	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258563280.208016	CxQekEnBXyuIsasH7	192.168.1.103	1367	66.235.138.19	80	unescaped_special_URI_char	-	F	bro
-1258563574.338666	CdbA613PQeyL1Z6X8j	192.168.1.103	1397	192.168.1.1	25	NUL_in_line	-	F	bro
-1258563574.338856	CdbA613PQeyL1Z6X8j	192.168.1.103	1397	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258563578.145839	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258563592.174537	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258563701.535900	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -284,35 +282,21 @@
 1258564828.721425	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258564949.183074	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258565020.737911	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258565030.381357	Cr9NNc4gqHnV7aE7Hd	192.168.1.103	1749	192.168.1.1	25	NUL_in_line	-	F	bro
-1258565030.381533	Cr9NNc4gqHnV7aE7Hd	192.168.1.103	1749	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258565043.252095	C83cNm4hfTuWL8HkJc	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258565043.252095	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258565043.252116	Cwk2883Y3D7J3rDOyi	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258565069.643721	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258565069.643721	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258565159.989765	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258565174.994589	ChtONC3LiJaEx5BQsg	192.168.1.103	1755	192.168.1.1	25	NUL_in_line	-	F	bro
-1258565174.994767	ChtONC3LiJaEx5BQsg	192.168.1.103	1755	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258565581.603399	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258565745.194475	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258565762.295244	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258565820.461482	CIQQig3QemT1WCZMyg	192.168.1.105	49218	192.168.1.1	25	NUL_in_line	-	F	bro
-1258565820.461659	CIQQig3QemT1WCZMyg	192.168.1.105	49218	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258565880.189257	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258565880.192994	CQRD6f3DVlSWwkmj3a	192.168.1.105	49219	192.168.1.1	25	NUL_in_line	-	F	bro
-1258565880.192994	CQRD6f3DVlSWwkmj3a	192.168.1.105	49219	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
-1258566050.198796	CSC9y5qxFV7sQZf2b	192.168.1.105	49220	192.168.1.1	25	NUL_in_line	-	F	bro
-1258566050.198796	CSC9y5qxFV7sQZf2b	192.168.1.105	49220	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
-1258566123.711407	CLG8GA4Jl4pjkqXeXb	192.168.1.103	1806	192.168.1.1	25	NUL_in_line	-	F	bro
-1258566123.711573	CLG8GA4Jl4pjkqXeXb	192.168.1.103	1806	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258566183.908381	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258566469.650782	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258566483.914414	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258566603.914427	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258566786.213096	-	-	-	-	-	unknown_packet_type	-	F	bro
-1258567109.568637	CzaBpE1fUQQXXgi3L3	192.168.1.102	1400	192.168.1.1	25	NUL_in_line	-	F	bro
-1258567109.568817	CzaBpE1fUQQXXgi3L3	192.168.1.102	1400	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258567191.444496	CPz3J5PpXyuvNNhVa	192.168.1.105	49229	68.71.209.70	80	unescaped_special_URI_char	-	F	bro
 1258567191.676563	CLwrcp4CTwnqj6x4Ub	192.168.1.105	62606	192.168.1.1	53	dns_unmatched_reply	-	F	bro
 1258567191.756436	C7WSXl3jpNIFk5nl4h	192.168.1.105	49235	198.189.255.82	80	above_hole_data_without_any_acks	-	F	bro
@@ -323,11 +307,7 @@
 1258567221.665542	CVkyS21GcS8aNu3Tf6	192.168.1.105	49252	68.71.209.202	80	bad_HTTP_request	-	F	bro
 1258567234.270879	CWqpaRiTdOjl4ZTh7	192.168.1.105	49313	65.242.27.32	80	unescaped_special_URI_char	-	F	bro
 1258567248.261596	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258567248.336794	CvoeXd1hqcu42Er7o4	192.168.1.102	1404	192.168.1.1	25	NUL_in_line	-	F	bro
-1258567248.336935	CvoeXd1hqcu42Er7o4	192.168.1.102	1404	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258567276.494616	CWaczeuhfTeFsCkKa	192.168.1.105	49335	66.179.5.20	80	unescaped_%_in_URI	-	F	bro
-1258567289.265602	CZ0vkP11ni3bty2Sd2	192.168.1.102	1405	192.168.1.1	25	NUL_in_line	-	F	bro
-1258567289.268667	CZ0vkP11ni3bty2Sd2	192.168.1.102	1405	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258567311.357735	C07H033XCyppbL2GUi	192.168.1.102	1423	66.235.132.118	80	unescaped_special_URI_char	-	F	bro
 1258567323.914428	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258567325.563821	CDepgBOpbkLK0sON7	192.168.1.104	1467	69.147.86.184	80	unescaped_special_URI_char	-	F	bro
@@ -335,19 +315,13 @@
 1258567327.718466	CdVv0l3SrBiJguP2yh	192.168.1.102	1455	66.235.132.118	80	unescaped_special_URI_char	-	F	bro
 1258567333.596870	C7Dv0N380AdlzFUowf	192.168.1.102	1482	74.201.118.102	80	HTTP_version_mismatch	-	F	bro
 1258567388.518065	-	-	-	-	-	unknown_packet_type	-	F	bro
-1258567757.531952	CFuLCZ2qP2XZb8pDEi	192.168.1.105	49336	192.168.1.1	25	NUL_in_line	-	F	bro
-1258567757.532132	CFuLCZ2qP2XZb8pDEi	192.168.1.105	49336	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258567812.507835	CRUZxp5sQfUmxNFk9	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
 1258567812.507855	CzG38v1E8q67WuvOec	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_RR_unknown_type	-	F	bro
 1258567924.730073	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258567943.159704	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258567990.824281	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258567994.594970	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258568036.581309	CqRwBV2hKeO4dGN2Jj	192.168.1.105	49353	192.168.1.1	25	NUL_in_line	-	F	bro
-1258568036.581495	CqRwBV2hKeO4dGN2Jj	192.168.1.105	49353	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258568051.054981	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258568059.132905	CzxNZO325bP3mleyh7	192.168.1.103	1836	192.168.1.1	25	NUL_in_line	-	F	bro
-1258568059.133065	CzxNZO325bP3mleyh7	192.168.1.103	1836	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258568081.170331	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258568117.893775	CFPN291xXmtbd43ry6	192.168.1.105	49391	204.77.30.86	80	unescaped_%_in_URI	-	F	bro
 1258568120.712255	CVfvac2MKq6pxjCLb1	192.168.1.105	49395	68.71.209.71	80	unescaped_special_URI_char	-	F	bro
@@ -368,11 +342,7 @@
 1258568653.361691	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258568653.361691	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258568663.786402	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258568667.621738	C2TbVQ3sRZVYkEQM2e	192.168.1.102	1709	192.168.1.1	25	NUL_in_line	-	F	bro
-1258568667.621911	C2TbVQ3sRZVYkEQM2e	192.168.1.102	1709	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258568696.981123	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258568738.113245	CiLpxa3F3WRNftfqti	192.168.1.105	49561	192.168.1.1	25	NUL_in_line	-	F	bro
-1258568738.113398	CiLpxa3F3WRNftfqti	192.168.1.105	49561	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258568778.696577	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258569225.551807	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258569269.437081	CbOALr2BU8YikyuCWl	192.168.1.102	1723	151.207.240.26	80	above_hole_data_without_any_acks	-	F	bro
@@ -478,16 +448,12 @@
 1258581512.592313	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258581686.955159	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258581702.121687	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258581758.251918	C0DmqS2cz4zyyhG0Qj	192.168.1.103	1934	192.168.1.1	25	NUL_in_line	-	F	bro
-1258581758.252167	C0DmqS2cz4zyyhG0Qj	192.168.1.103	1934	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258581782.014518	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258581782.014518	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258581782.703092	CprNy02cGUkDdEQ812	192.168.1.103	1940	66.235.139.54	80	unescaped_special_URI_char	-	F	bro
 1258581813.912740	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258582010.835003	CnmJ9d29KD1CQQhWcg	192.168.1.1	5353	224.0.0.251	5353	DNS_RR_unknown_type	-	F	bro
 1258582010.835031	Cg7O8o2LjrfqtdjKjl	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_RR_unknown_type	-	F	bro
-1258582108.124149	C3AlYK3ZRNebnxvRtg	192.168.1.103	2008	192.168.1.1	25	NUL_in_line	-	F	bro
-1258582108.124383	C3AlYK3ZRNebnxvRtg	192.168.1.103	2008	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258582145.007753	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258582418.992073	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258582425.063280	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -504,8 +470,6 @@
 1258583283.914683	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258583409.849615	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258583579.536659	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258583615.039851	CjpKFUeHVJjDfGNv6	192.168.1.102	1911	192.168.1.1	25	NUL_in_line	-	F	bro
-1258583615.040031	CjpKFUeHVJjDfGNv6	192.168.1.102	1911	192.168.1.1	25	line_terminated_with_single_CR	-	F	bro
 1258583860.324952	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258583880.906293	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258583982.040819	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -1039,4 +1003,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2014-02-13-20-31-21
+#close	2014-05-15-17-52-53
