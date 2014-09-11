@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2014-09-10-22-55-29
+#open	2014-09-11-19-34-31
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -643,6 +643,8 @@
 1258595988.322488	CzR5Lx1sAW97FNcxe3	192.168.1.1	137	192.168.1.104	137	dns_unmatched_reply	-	F	bro
 1258596003.914394	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258596003.914394	-	-	-	-	-	dns_unmatched_msg	-	F	bro
+1258596214.862885	CrGXgr2cEmj7KMXDTl	192.168.1.105	49550	68.142.123.21	80	line_terminated_with_single_CR	-	F	bro
+1258596215.358618	CofJwH1WJYqHsYXd6g	192.168.1.105	49549	68.142.123.21	80	line_terminated_with_single_CR	-	F	bro
 1258596329.298291	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258596356.762168	CJP7Cb2Esyyu6RpOy	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258596373.767395	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -657,6 +659,7 @@
 1258596712.798124	C9l92Sh1leU8QBD68	192.168.1.1	137	192.168.1.104	137	dns_unmatched_reply	-	F	bro
 1258596723.914397	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258596750.912830	-	-	-	-	-	dns_unmatched_msg	-	F	bro
+1258596869.833742	CDSsGY2I3LPbLxVQ8i	192.168.1.105	49590	208.111.129.62	80	line_terminated_with_single_CR	-	F	bro
 1258596931.604388	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258597081.218587	CIson437zy6myyE6z5	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258597112.294950	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -1023,4 +1026,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2014-09-10-22-56-12
+#close	2014-09-11-19-35-13
