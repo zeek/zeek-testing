@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2015-03-19-02-42-35
+#open	2015-03-19-17-24-21
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -299,7 +299,6 @@
 1258566786.213096	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258567191.444496	CPz3J5PpXyuvNNhVa	192.168.1.105	49229	68.71.209.70	80	unescaped_special_URI_char	-	F	bro
 1258567191.676563	CLwrcp4CTwnqj6x4Ub	192.168.1.105	62606	192.168.1.1	53	dns_unmatched_reply	-	F	bro
-1258567191.756436	C7WSXl3jpNIFk5nl4h	192.168.1.105	49235	198.189.255.82	80	above_hole_data_without_any_acks	-	F	bro
 1258567203.914406	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258567203.914406	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258567212.785361	C9bWDi2VkW8BdB1qE	192.168.1.105	49251	68.71.209.202	80	bad_HTTP_request	-	F	bro
@@ -345,7 +344,6 @@
 1258568696.981123	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258568778.696577	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258569225.551807	-	-	-	-	-	unknown_packet_type	-	F	bro
-1258569269.437081	CbOALr2BU8YikyuCWl	192.168.1.102	1723	151.207.240.26	80	above_hole_data_without_any_acks	-	F	bro
 1258569376.127800	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258569391.175105	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258569489.628313	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -365,7 +363,6 @@
 1258571553.914402	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258571664.889300	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258571664.889300	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258572136.488865	CvgZFIl885Yt4Wl18	192.168.1.104	1541	151.207.240.23	80	above_hole_data_without_any_acks	-	F	bro
 1258572243.252487	CfI7Wf39cx2Dfk1uvh	192.168.1.1	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	bro
 1258572243.252510	CVw2Bu4bcDzHXMjGe4	fe80::219:e3ff:fee7:5d23	5353	ff02::fb	5353	DNS_Conn_count_too_large	-	F	bro
 1258572253.796175	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -374,7 +371,6 @@
 1258572267.195016	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258572279.590990	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258572387.656420	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258572816.212512	Ca6Kyq42VT6wUgVn9	192.168.1.104	1549	151.207.240.23	80	above_hole_data_without_any_acks	-	F	bro
 1258572869.500256	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258572989.743291	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258573004.548252	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -383,7 +379,6 @@
 1258573742.843877	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258573742.843877	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258573863.305278	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258574080.118758	CZ9AKj3dhQ6crkIvI9	192.168.1.104	1569	151.207.240.23	80	above_hole_data_without_any_acks	-	F	bro
 1258574104.227314	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258574463.914400	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258574463.914400	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -612,7 +607,6 @@
 1258595273.935075	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258595284.023977	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258595486.042434	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-1258595506.740952	CVompyhV7Qx7OvBA9	192.168.1.105	49405	65.54.95.7	80	above_hole_data_without_any_acks	-	F	bro
 1258595632.305694	CjDe6n2olqmVr9BVDk	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258595642.326392	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258595652.418014	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -1003,4 +997,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2015-03-19-02-42-57
+#close	2015-03-19-17-26-05
