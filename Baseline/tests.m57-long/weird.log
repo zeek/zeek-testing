@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2015-03-19-17-24-21
+#open	2015-03-20-15-57-10
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -580,7 +580,6 @@
 1258593990.684944	Cc2OIi1L3uQOLibFf5	192.168.1.105	49282	198.189.255.82	80	unescaped_special_URI_char	-	F	bro
 1258594001.563925	CHOyys20X4BBddqegl	192.168.1.105	49299	207.176.215.250	80	inflate_failed	-	F	bro
 1258594095.892162	CSAV9i4B5tPXgBiroc	192.168.1.105	49316	66.235.133.1	80	unescaped_special_URI_char	-	F	bro
-1258594098.623241	CKOSwK1MVQze8Gche3	192.168.1.105	49320	204.16.104.2	80	unmatched_HTTP_reply	-	F	bro
 1258594203.594376	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258594492.268627	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258594559.604439	-	-	-	-	-	dns_unmatched_msg	-	F	bro
@@ -997,4 +996,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.1	137	192.168.1.102	137	dns_unmatched_reply	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2015-03-19-17-26-05
+#close	2015-03-20-15-59-00
