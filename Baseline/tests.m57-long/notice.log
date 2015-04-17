@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2015-03-19-17-24-22
+#open	2015-04-17-03-09-27
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	C4CB2H39KpiLwHQNpf	192.168.1.104	1196	65.55.184.16	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -135,7 +135,7 @@
 1258568418.762937	CBGELg1Lckw0Fe0yr5	192.168.1.105	49547	198.189.255.74	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49547 > 198.189.255.74:80 ack above a hole	-	192.168.1.105	198.189.255.74	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568418.769682	CBGELg1Lckw0Fe0yr5	192.168.1.105	49547	198.189.255.74	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49547 > 198.189.255.74:80 content gap (< 80268074/6900)	-	192.168.1.105	198.189.255.74	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568418.769682	CBGELg1Lckw0Fe0yr5	192.168.1.105	49547	198.189.255.74	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49547 > 198.189.255.74:80 ack above a hole	-	192.168.1.105	198.189.255.74	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-1258568537.637113	CjZOXc4X0ILbO8k2Jd	192.168.1.102	1655	96.6.244.212	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=dsa.csdata1.com,ST=Ohio,OU=IT,O=ClearSaleing\, Inc.,L=Dublin,C=US	192.168.1.102	96.6.244.212	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258568537.637113	CjZOXc4X0ILbO8k2Jd	192.168.1.102	1655	96.6.244.212	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=dsa.csdata1.com,ST=Ohio,OU=IT,O=ClearSaleing\\, Inc.,L=Dublin,C=US	192.168.1.102	96.6.244.212	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568673.914417	C2TbVQ3sRZVYkEQM2e	192.168.1.102	1709	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1709 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.102	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568743.707489	CiLpxa3F3WRNftfqti	192.168.1.105	49561	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.105:49561 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.105	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258570538.116798	Cvd4vc3sO6Z7eCBCTi	192.168.1.105	49569	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.105	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -749,4 +749,4 @@
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:1169 > 87.106.1.47:80 content gap (< 238741/1380)	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.104:1169 > 87.106.1.47:80 ack above a hole	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258608433.629381	CCKMEXkk2p0Cyg7L6	192.168.1.104	1186	65.55.184.155	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.155	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2015-03-19-17-26-05
+#close	2015-04-17-03-10-21

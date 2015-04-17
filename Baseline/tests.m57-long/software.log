@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2014-11-26-23-01-26
+#open	2015-04-17-03-09-27
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1258535653.087137	192.168.1.104	-	HTTP::BROWSER	Windows-Update-Agent	-	-	-	-	-	Windows-Update-Agent	-
@@ -281,14 +281,14 @@
 1258567194.375710	68.71.208.111	80	HTTP::SERVER	barista	3	3	6	-	-	barista/3.3.6	-
 1258567195.124762	68.71.208.178	80	HTTP::SERVER	barista	3	3	6	-	-	barista/3.3.6	-
 1258567195.406797	66.235.138.2	80	HTTP::SERVER	Omniture DC	2	0	0	-	-	Omniture DC/2.0.0	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Java Deployment Toolkit	6	0	160	1	-	Java Deployment Toolkit 6.0.160.1	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Google Update	-	-	-	-	-	Google Update	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Windows Presentation Foundation	-	-	-	-	-	Windows Presentation Foundation	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Default Plug-in	-	-	-	-	-	Default Plug-in	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Microsoft\xae Windows Media Player Firefox Plugin	-	-	-	-	-	Microsoft\xae Windows Media Player Firefox Plugin	-
 1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Google Gears	0	5	33	0	-	Google Gears 0.5.33.0	-
-1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Shockwave Flash	-	-	-	-	-	Shockwave Flash	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Java Deployment Toolkit	6	0	160	1	-	Java Deployment Toolkit 6.0.160.1	-
 1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Java(TM) Platform SE	6	-	-	-	U16	Java(TM) Platform SE 6 U16	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Google Update	-	-	-	-	-	Google Update	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Shockwave Flash	-	-	-	-	-	Shockwave Flash	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Windows Presentation Foundation	-	-	-	-	-	Windows Presentation Foundation	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Microsoft\xae Windows Media Player Firefox Plugin	-	-	-	-	-	Microsoft\xae Windows Media Player Firefox Plugin	-
+1258567195.406797	192.168.1.105	-	HTTP::BROWSER_PLUGIN	Default Plug-in	-	-	-	-	-	Default Plug-in	-
 1258567195.507778	198.189.255.82	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258567212.862109	68.71.209.202	80	HTTP::SERVER	(empty)	1	7	-	-	-	1.7	-
 1258567221.316546	216.240.189.196	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
@@ -338,11 +338,11 @@
 1258567306.315192	199.4.81.167	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
 1258567310.882324	98.137.88.35	80	HTTP::SERVER	YTS	1	17	22	-	-	YTS/1.17.22	-
 1258567311.366520	66.235.132.118	80	HTTP::SERVER	Omniture DC	2	0	0	-	-	Omniture DC/2.0.0	-
-1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Java Deployment Toolkit	6	0	160	1	-	Java Deployment Toolkit 6.0.160.1	-
-1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Microsoft\xae DRM	-	-	-	-	-	Microsoft\xae DRM	-
 1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Mozilla Default Plug-in	-	-	-	-	-	Mozilla Default Plug-in	-
-1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Windows Media Player Plug-in Dynamic Link Library	-	-	-	-	-	Windows Media Player Plug-in Dynamic Link Library	-
+1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Java Deployment Toolkit	6	0	160	1	-	Java Deployment Toolkit 6.0.160.1	-
 1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Java(TM) Platform SE	6	-	-	-	U17	Java(TM) Platform SE 6 U17	-
+1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Microsoft\xae DRM	-	-	-	-	-	Microsoft\xae DRM	-
+1258567311.366520	192.168.1.102	-	HTTP::BROWSER_PLUGIN	Windows Media Player Plug-in Dynamic Link Library	-	-	-	-	-	Windows Media Player Plug-in Dynamic Link Library	-
 1258567311.637601	198.189.255.75	80	HTTP::SERVER	YTS	1	16	6	-	-	YTS/1.16.6	-
 1258567311.826247	198.189.255.82	80	HTTP::SERVER	Apache	2	2	13	-	Linux/SUSE	Apache/2.2.13 (Linux/SUSE) DAV/2 mod_perl/2.0.4 Perl/v5.10.0	-
 1258567312.041106	198.189.255.82	80	HTTP::SERVER	Apache	2	2	11	-	Linux/SUSE	Apache/2.2.11 (Linux/SUSE) DAV/2 mod_perl/2.0.4 Perl/v5.10.0	-
@@ -691,4 +691,4 @@
 1258596580.834903	208.111.129.112	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
 1258608426.067634	65.54.95.191	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258608426.067634	65.54.95.191	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2014-11-26-23-02-20
+#close	2015-04-17-03-10-21
