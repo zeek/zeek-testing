@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	pe
+#open	2015-04-20-01-23-43
+#fields	ts	id	machine	compile_ts	os	subsystem	is_exe	is_64bit	uses_aslr	uses_dep	uses_code_integrity	uses_seh	has_import_table	has_export_table	has_cert_table	has_debug_data	section_names
+#types	time	string	string	time	string	string	bool	bool	bool	bool	bool	bool	bool	bool	bool	bool	vector[string]
+1258867308.731658	FUn5Lj1IPr8Q1WayJ1	I386	1239423734.000000	Windows Vista	WINDOWS_GUI	T	F	T	T	F	T	T	F	T	T	.text,.data,.rsrc,.reloc
+#close	2015-04-20-01-23-47
