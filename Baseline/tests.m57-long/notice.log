@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2014-09-10-22-55-30
+#open	2015-03-19-17-24-22
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	C4CB2H39KpiLwHQNpf	192.168.1.104	1196	65.55.184.16	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -452,6 +452,8 @@
 1258595457.074831	CEE8QV2Gy00SJwqO6i	192.168.1.105	49325	137.226.34.227	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49325 > 137.226.34.227:80 content gap (< 113273853/25956)	-	192.168.1.105	137.226.34.227	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595457.074831	CEE8QV2Gy00SJwqO6i	192.168.1.105	49325	137.226.34.227	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49325 > 137.226.34.227:80 ack above a hole	-	192.168.1.105	137.226.34.227	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595464.838492	C1dmDuFy3CzGnGgj8	192.168.1.105	49331	65.55.184.26	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.184.26	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258595507.320037	CVompyhV7Qx7OvBA9	192.168.1.105	49405	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49405 > 65.54.95.7:80 content gap (< 70381/2760)	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258595507.320037	CVompyhV7Qx7OvBA9	192.168.1.105	49405	65.54.95.7	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49405 > 65.54.95.7:80 ack above a hole	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.321537	CXocjN1ufmVcMwC352	192.168.1.105	49432	65.54.95.209	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49432 > 65.54.95.209:80 content gap (< 111781/6900)	-	192.168.1.105	65.54.95.209	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.321537	CXocjN1ufmVcMwC352	192.168.1.105	49432	65.54.95.209	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49432 > 65.54.95.209:80 ack above a hole	-	192.168.1.105	65.54.95.209	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.322277	C4P8qN2MwVPxsURBX7	192.168.1.105	49431	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49431 > 65.54.95.7:80 content gap (< 120061/5520)	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -486,6 +488,8 @@
 1258595507.387495	CZYR9E14XiRZRJmC43	192.168.1.105	49401	65.54.95.7	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49401 > 65.54.95.7:80 ack above a hole	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.389244	C9sokv2nwZn1kzvzol	192.168.1.105	49417	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49417 > 65.54.95.7:80 content gap (< 162841/16560)	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.389244	C9sokv2nwZn1kzvzol	192.168.1.105	49417	65.54.95.7	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49417 > 65.54.95.7:80 ack above a hole	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258595507.391241	CVompyhV7Qx7OvBA9	192.168.1.105	49405	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49405 > 65.54.95.7:80 content gap (< 73141/12420)	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258595507.391241	CVompyhV7Qx7OvBA9	192.168.1.105	49405	65.54.95.7	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49405 > 65.54.95.7:80 ack above a hole	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.392735	CXocjN1ufmVcMwC352	192.168.1.105	49432	65.54.95.209	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49432 > 65.54.95.209:80 content gap (< 118681/19320)	-	192.168.1.105	65.54.95.209	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.392735	CXocjN1ufmVcMwC352	192.168.1.105	49432	65.54.95.209	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.105:49432 > 65.54.95.209:80 ack above a hole	-	192.168.1.105	65.54.95.209	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.395242	Ca7y2244PaHlkg5Vfe	192.168.1.105	49430	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49430 > 65.54.95.7:80 content gap (< 118681/19320)	-	192.168.1.105	65.54.95.7	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -745,4 +749,4 @@
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:1169 > 87.106.1.47:80 content gap (< 238741/1380)	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.104:1169 > 87.106.1.47:80 ack above a hole	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258608433.629381	CCKMEXkk2p0Cyg7L6	192.168.1.104	1186	65.55.184.155	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.155	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2014-09-10-22-56-12
+#close	2015-03-19-17-26-05
