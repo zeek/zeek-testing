@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#open	2015-03-19-17-24-21
+#open	2015-04-17-03-09-27
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
 1258531221.486539	CjhGID4nQcgTWjvg4c	192.168.1.102	68	192.168.1.1	67	udp	dhcp	0.163820	301	300	SF	-	-	0	Dd	1	329	1	328	(empty)
@@ -8511,4 +8511,4 @@
 1258617506.342259	C88I9g2e7zAaTfVJP	192.168.1.104	138	192.168.1.255	138	udp	-	0.000002	402	0	S0	-	-	0	D	2	458	0	0	(empty)
 1258617547.414887	CjI1v01e7Q6bXLA9D6	192.168.1.1	138	192.168.1.255	138	udp	-	0.000023	422	0	S0	-	-	0	D	2	478	0	0	(empty)
 1258595643.914410	CGMqna1K8AmvqhvkE6	192.168.1.1	626	224.0.0.1	626	udp	-	21930.000012	48312	0	S0	-	-	0	D	1464	89304	0	0	(empty)
-#close	2015-03-19-17-26-05
+#close	2015-04-17-03-10-21
