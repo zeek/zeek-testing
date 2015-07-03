@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2015-04-17-03-09-27
+#open	2015-07-03-16-29-23
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -268,8 +268,6 @@
 1258564346.876092	-	-	-	-	-	unknown_packet_type	-	F	bro
 1258564436.422453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258564608.277076	CRegG14xprok8xywBe	192.168.1.103	1524	63.215.202.17	80	window_recision	-	F	bro
-1258564687.755464	Cyd1rn26q23XJRrYCl	192.168.1.103	1559	64.4.9.185	80	inflate_failed	-	F	bro
-1258564690.238130	CKtqd72reKmsiZhfLf	192.168.1.103	1564	64.4.34.150	80	inflate_failed	-	F	bro
 1258564698.605582	CWuctX2hwF38qCf5Ri	192.168.1.103	1573	198.189.255.82	80	unescaped_special_URI_char	-	F	bro
 1258564700.722008	CVYsZB1YZ3vZO227B3	192.168.1.103	1577	198.189.255.73	80	unescaped_special_URI_char	-	F	bro
 1258564703.268912	CN591b3RhwnA97nHVi	192.168.1.103	1580	66.235.133.4	80	unescaped_special_URI_char	-	F	bro
@@ -325,7 +323,6 @@
 1258568117.893775	CFPN291xXmtbd43ry6	192.168.1.105	49391	204.77.30.86	80	unescaped_%_in_URI	-	F	bro
 1258568120.712255	CVfvac2MKq6pxjCLb1	192.168.1.105	49395	68.71.209.71	80	unescaped_special_URI_char	-	F	bro
 1258568133.668122	Cpl2Ur1ipJQVxacDy4	192.168.1.105	49413	68.71.209.71	80	unescaped_special_URI_char	-	F	bro
-1258568135.994473	Cc12HU3szHB1WBjp6e	192.168.1.105	49425	66.128.67.102	80	inflate_failed	-	F	bro
 1258568147.121492	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258568235.461792	CcGS7K2GEPMcZUpzAj	192.168.1.105	49423	208.68.57.14	80	window_recision	-	F	bro
 1258568239.266595	CoYieB4O13K7ozRF4b	192.168.1.105	49486	198.105.194.204	80	unescaped_special_URI_char	-	F	bro
@@ -578,7 +575,6 @@
 1258593983.627425	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258593985.204431	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258593990.684944	Cc2OIi1L3uQOLibFf5	192.168.1.105	49282	198.189.255.82	80	unescaped_special_URI_char	-	F	bro
-1258594001.563925	CHOyys20X4BBddqegl	192.168.1.105	49299	207.176.215.250	80	inflate_failed	-	F	bro
 1258594095.892162	CSAV9i4B5tPXgBiroc	192.168.1.105	49316	66.235.133.1	80	unescaped_special_URI_char	-	F	bro
 1258594203.594376	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258594492.268627	-	-	-	-	-	unknown_packet_type	-	F	bro
@@ -991,4 +987,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.102	137	192.168.1.1	137	dns_unmatched_reply	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617379.842453	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2015-04-17-03-10-21
+#close	2015-07-03-16-30-17

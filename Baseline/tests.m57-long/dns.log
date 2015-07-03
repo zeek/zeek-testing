@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dns
-#open	2015-04-17-03-09-27
+#open	2015-07-03-16-29-23
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	auth	addl
 #types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	set[string]	set[string]
 1258531680.268999	CsRx2w45OKnoww6xl4	192.168.1.103	137	192.168.1.255	137	udp	33000	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
@@ -1976,10 +1976,10 @@
 1258567342.191887	CCxjrSYYgddByJw48	192.168.1.102	51386	192.168.1.1	53	udp	32744	ceoexpress.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567343.519303	Cj2kMMCEaNQG6JRvk	192.168.1.102	64860	192.168.1.1	53	udp	41264	hotfrog.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567344.987905	C0vODCeun6rDwbQc7	192.168.1.102	61804	192.168.1.1	53	udp	45239	usbank.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
-1258567335.613515	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	1341	ecreditguide.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
-1258567336.613382	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	1341	ecreditguide.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567335.457368	Cdld2n4B3seVUkNsKc	192.168.1.102	52220	192.168.1.1	53	udp	12261	creditcards.lovetoknow.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567335.613517	CqFyqt1ZquYs9dxeF3	192.168.1.102	53966	192.168.1.1	53	udp	8200	cardratings.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
+1258567335.613515	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	1341	ecreditguide.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
+1258567336.613382	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	1341	ecreditguide.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567338.035253	CCrIfelcuG3sFvQLa	192.168.1.102	54171	192.168.1.1	53	udp	21215	valueresearchonline.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567339.035120	CCrIfelcuG3sFvQLa	192.168.1.102	54171	192.168.1.1	53	udp	21215	valueresearchonline.com	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
 1258567340.097701	C9H11P1Y3kAAfLu3d2	192.168.1.102	64984	192.168.1.1	53	udp	46987	pr9.net	1	C_INTERNET	1	A	-	-	F	F	T	F	0	-	-	F	-	-
@@ -7778,4 +7778,4 @@
 1258617366.107575	CXaGXB3SxSHcNxm0wf	192.168.1.102	137	192.168.1.255	137	udp	33074	DOMEX	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258617366.107577	CXaGXB3SxSHcNxm0wf	192.168.1.102	137	192.168.1.255	137	udp	33074	DOMEX	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.102	137	192.168.1.1	137	udp	33074	-	-	-	-	-	0	NOERROR	F	F	F	F	0	-	-	F	-	-
-#close	2015-04-17-03-10-21
+#close	2015-07-03-16-30-17

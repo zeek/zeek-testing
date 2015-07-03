@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2015-04-17-03-09-27
+#open	2015-07-03-16-29-23
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	C4CB2H39KpiLwHQNpf	192.168.1.104	1196	65.55.184.16	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -40,7 +40,6 @@
 1258567764.547612	CFuLCZ2qP2XZb8pDEi	192.168.1.105	49336	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.105:49336 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.105	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568043.914413	CqRwBV2hKeO4dGN2Jj	192.168.1.105	49353	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.105:49353 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.105	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568066.136262	CzxNZO325bP3mleyh7	192.168.1.103	1836	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.103:1836 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.103	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-1258568281.198069	CLrJTd1b8yWXHWlEde	192.168.1.105	49511	207.38.101.10	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (self signed certificate in certificate chain)	OU=Domain Control Validated,CN=smp.specificmedia.com,O=smp.specificmedia.com	192.168.1.105	207.38.101.10	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568292.262391	CDa7aGp48WRAur6a8	192.168.1.105	49515	65.55.53.190	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=watson.microsoft.com	192.168.1.105	65.55.53.190	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568334.806135	C2WmEfEbiNlUzvJia	192.168.1.105	49531	198.189.255.74	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49531 > 198.189.255.74:80 content gap (< 6300194/1380)	-	192.168.1.105	198.189.255.74	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258568334.806135	C2WmEfEbiNlUzvJia	192.168.1.105	49531	198.189.255.74	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49531 > 198.189.255.74:80 content gap (< 6304334/20700)	-	192.168.1.105	198.189.255.74	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -749,4 +748,4 @@
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:1169 > 87.106.1.47:80 content gap (< 238741/1380)	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258607813.550249	Cq8TqO29fHpxKoGsxj	192.168.1.104	1169	87.106.1.47	80	-	-	-	tcp	Conn::Ack_Above_Hole	192.168.1.104:1169 > 87.106.1.47:80 ack above a hole	-	192.168.1.104	87.106.1.47	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258608433.629381	CCKMEXkk2p0Cyg7L6	192.168.1.104	1186	65.55.184.155	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.155	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2015-04-17-03-10-21
+#close	2015-07-03-16-30-17

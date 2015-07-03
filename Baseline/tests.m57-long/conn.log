@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#open	2015-04-17-03-09-27
+#open	2015-07-03-16-29-23
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
 1258531221.486539	CjhGID4nQcgTWjvg4c	192.168.1.102	68	192.168.1.1	67	udp	dhcp	0.163820	301	300	SF	-	-	0	Dd	1	329	1	328	(empty)
@@ -2242,9 +2242,9 @@
 1258567222.166213	C8HpIa4GDNNlPmnidd	192.168.1.105	49257	216.240.189.196	80	tcp	http	126.689579	520	57672	RSTR	-	-	0	ShADdr	27	1612	44	59444	(empty)
 1258567222.172462	CMMz043RfAv172kGCh	192.168.1.105	49258	216.240.189.196	80	tcp	http	126.683780	542	1342	RSTR	-	-	0	ShADdr	4	714	3	1474	(empty)
 1258567344.003253	C0vODCeun6rDwbQc7	192.168.1.102	61804	192.168.1.1	53	udp	dns	1.006949	56	80	SF	-	-	0	Dd	2	112	1	108	(empty)
-1258567334.617146	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	dns	2.860336	102	125	SF	-	-	0	Dd	3	186	1	153	(empty)
 1258567334.472267	Cdld2n4B3seVUkNsKc	192.168.1.102	52220	192.168.1.1	53	udp	dns	1.807826	88	107	SF	-	-	0	Dd	2	144	1	135	(empty)
 1258567334.624134	CqFyqt1ZquYs9dxeF3	192.168.1.102	53966	192.168.1.1	53	udp	dns	1.811554	66	85	SF	-	-	0	Dd	2	122	1	113	(empty)
+1258567334.617146	CpYpf73LLZ90p32Es9	192.168.1.102	64640	192.168.1.1	53	udp	dns	2.860336	102	125	SF	-	-	0	Dd	3	186	1	153	(empty)
 1258567337.047614	CCrIfelcuG3sFvQLa	192.168.1.102	54171	192.168.1.1	53	udp	dns	2.575607	123	135	SF	-	-	0	Dd	3	207	1	163	(empty)
 1258567222.347850	CRAiT2ZMtaDYWQBU9	192.168.1.105	49264	69.65.23.168	80	tcp	http	130.877676	1003	272546	RSTR	-	-	0	ShADdar	80	4215	201	280598	(empty)
 1258567222.590199	CkWGiq1f1gKL7SDON4	192.168.1.105	49265	216.240.189.196	80	tcp	http	131.265225	1554	5447	RSTR	-	-	0	ShADdr	8	1886	8	5779	(empty)
@@ -8511,4 +8511,4 @@
 1258617506.342259	C88I9g2e7zAaTfVJP	192.168.1.104	138	192.168.1.255	138	udp	-	0.000002	402	0	S0	-	-	0	D	2	458	0	0	(empty)
 1258617547.414887	CjI1v01e7Q6bXLA9D6	192.168.1.1	138	192.168.1.255	138	udp	-	0.000023	422	0	S0	-	-	0	D	2	478	0	0	(empty)
 1258595643.914410	CGMqna1K8AmvqhvkE6	192.168.1.1	626	224.0.0.1	626	udp	-	21930.000012	48312	0	S0	-	-	0	D	1464	89304	0	0	(empty)
-#close	2015-04-17-03-10-21
+#close	2015-07-03-16-30-17
