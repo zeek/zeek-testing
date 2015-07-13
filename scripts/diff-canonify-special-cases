@@ -1,0 +1,9 @@
+#! /usr/bin/env bash
+#
+# A canonifier that removes special cases triggering benign differences.
+#
+# UID CLrJTd1b8yWXHWlEde is a connection with corner-case SSL certificicate validation.
+
+cat \
+  | grep -v CLrJTd1b8yWXHWlEde \
+  | `dirname $0`/../../../scripts/diff-canonifier-external
