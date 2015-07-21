@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	http
-#open	2015-03-14-02-18-07
+#open	2015-07-20-21-53-40
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	filename	tags	username	password	proxied	orig_fuids	orig_mime_types	resp_fuids	resp_mime_types	client_header_names	server_header_names	cookie_vars	uri_vars
 #types	time	string	addr	port	addr	port	count	string	string	string	string	string	count	count	count	string	count	string	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
 1341812178.428028	CUqYZc2XzbfnZKbgT	2001:470:1f05:17a6::6	59439	2001:770:18:aa40::c101:c142	80	1	GET	heanet.dl.sourceforge.net	/project/cryptopp/cryptopp/5.6.1/cryptopp561.zip	-	fetch libfetch/2.0	0	1069703	200	OK	-	-	-	(empty)	-	-	-	-	-	F3X6ND2Tf3Jeqk5Ix3	application/zip	HOST,USER-AGENT,CONNECTION	-	-	/project/cryptopp/cryptopp/5.6.1/cryptopp561.zip
@@ -334,4 +334,4 @@
 1343424617.103251	CfhRRY2S4aWbuFvJRh	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	53129	2001:4f8:0:2::1e	80	1	GET	mirrors.isc.org	/pub/kde/stable/4.8.4/src/kdewebdev-4.8.4.tar.xz	-	fetch libfetch/2.0	0	2603352	200	OK	-	-	-	(empty)	-	-	-	-	-	FCfxvB3fxTwc4YILV4	application/x-xz	HOST,USER-AGENT,CONNECTION	-	-	/pub/kde/stable/4.8.4/src/kdewebdev-4.8.4.tar.xz
 1343424663.892813	CyJFmIkwFNHbOkDs7	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	26255	2001:4830:134:3::b	80	1	GET	ftp.gnu.org	/gnu/libcdio/libcdio-0.83.tar.gz	-	fetch libfetch/2.0	0	2323747	200	OK	-	-	-	(empty)	-	-	-	-	-	F9OfiC1Jmv7BjgcdH5	application/x-gzip	HOST,USER-AGENT,CONNECTION	-	-	/gnu/libcdio/libcdio-0.83.tar.gz
 1343424646.133544	C0Dbea1PCwE3A6QlJ6	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	26235	2001:770:18:aa40::c101:c142	80	1	GET	heanet.dl.sourceforge.net	/project/xine/xine-lib/1.2.2/xine-lib-1.2.2.tar.xz	-	fetch libfetch/2.0	0	4857248	200	OK	-	-	-	(empty)	-	-	-	-	-	FVnuHl1OvlGKbrZ0k9	application/x-xz	HOST,USER-AGENT,CONNECTION	-	-	/project/xine/xine-lib/1.2.2/xine-lib-1.2.2.tar.xz
-#close	2015-03-14-02-18-21
+#close	2015-07-20-21-54-01

@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_services
-#open	2015-04-17-03-09-03
+#open	2015-07-20-21-53-40
 #fields	ts	host	port_num	port_proto	service
 #types	time	addr	port	enum	set[string]
 1341812178.428028	2001:770:18:aa40::c101:c142	80	tcp	HTTP
@@ -68,4 +68,4 @@
 1343424643.485314	2001:2010:0:1::1	80	tcp	HTTP
 1343424767.935937	2a02:1658:0:8020::4	21	tcp	FTP
 1343424807.039409	2400:3000:20:100::46	21	tcp	FTP
-#close	2015-04-17-03-09-24
+#close	2015-07-20-21-54-01

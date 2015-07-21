@@ -3,11 +3,11 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_devices
-#open	2015-07-03-16-29-23
+#open	2015-07-20-21-54-04
 #fields	ts	mac	dhcp_host_name
 #types	time	string	string
 1258531221.486539	00:0b:db:63:58:a6	m57-jo
 1258531924.321413	00:0b:db:63:5b:d4	m57-pat
 1258532046.693816	00:0b:db:4f:6b:10	m57-charlie
 1258561273.697537	00:08:74:38:01:b4	M57-Terry
-#close	2015-07-03-16-30-17
+#close	2015-07-20-21-54-57
