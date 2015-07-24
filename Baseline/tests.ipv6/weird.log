@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2015-07-20-21-53-48
+#open	2015-07-23-21-12-32
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1343372921.514544	CIFMfe4eJbYlbIrDsd	2001:200:0:1::800:21	58773	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12349	above_hole_data_without_any_acks	-	F	bro
@@ -16,4 +16,4 @@
 1343424158.950508	C95vdd1pAlGnLwBhO4	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	46535	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
 1343424277.117582	C2xqoL3iWMpndjbXLf	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41235	2001:6a8:a40::21	21	NUL_in_line	-	F	bro
 1343424370.201252	CW7pa51VmeX0oPSCA5	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	33891	2001:610:1:80bc:192:87:106:229	80	data_after_reset	-	F	bro
-#close	2015-07-20-21-54-01
+#close	2015-07-23-21-12-45

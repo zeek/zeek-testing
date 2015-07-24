@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2015-07-20-21-53-40
+#open	2015-07-23-21-12-24
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1341812178.428028	2001:470:1f05:17a6::6	-	HTTP::BROWSER	fetch libfetch	2	0	-	-	-	fetch libfetch/2.0	-
@@ -54,4 +54,4 @@
 1343424464.489851	2001:610:1108:5012::135	80	HTTP::SERVER	xs-httpd	3	7	-	-	beta/0	xs-httpd/3.7 beta/0.23	-
 1343424638.006411	2001:41c8:1:6043::12	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache	-
 1343424645.257645	2001:2010:0:1::1	80	HTTP::SERVER	nginx	0	7	65	-	-	nginx/0.7.65	-
-#close	2015-07-20-21-54-01
+#close	2015-07-23-21-12-45

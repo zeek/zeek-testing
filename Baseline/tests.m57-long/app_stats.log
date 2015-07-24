@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	app_stats
-#open	2015-07-20-21-54-06
+#open	2015-07-23-21-12-50
 #fields	ts	ts_delta	app	uniq_hosts	hits	bytes
 #types	time	interval	string	count	count	count
 1258561383.914440	900.000000	google	1	1	342
@@ -41,4 +41,4 @@
 1258586853.914423	900.000000	google	1	4	271239
 1258587756.292551	900.000000	google	2	16	301239
 1258588669.040677	900.000000	google	1	2	270794
-#close	2015-07-20-21-54-57
+#close	2015-07-23-21-13-43

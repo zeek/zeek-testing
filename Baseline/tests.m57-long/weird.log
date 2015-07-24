@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2015-07-20-21-54-04
+#open	2015-07-23-21-12-48
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531203.914398	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
@@ -987,4 +987,4 @@
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.102	137	192.168.1.1	137	dns_unmatched_reply	-	F	bro
 1258617393.914395	-	-	-	-	-	dns_unmatched_msg	-	F	bro
 1258617393.914395	-	-	-	-	-	dns_unmatched_msg	-	F	bro
-#close	2015-07-20-21-54-57
+#close	2015-07-23-21-13-43

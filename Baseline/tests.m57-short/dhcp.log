@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dhcp
-#open	2015-07-20-21-55-03
+#open	2015-07-23-21-13-49
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	mac	assigned_ip	lease_time	trans_id
 #types	time	string	addr	port	addr	port	string	addr	interval	count
 1258790620.476973	C6pKV8GSxOnSLghOa	192.168.1.104	68	192.168.1.1	67	00:0b:db:4f:6b:10	192.168.1.104	3564.000000	3621893901
@@ -208,4 +208,4 @@
 1258876153.392519	CBkVtq4WWzAmZEkGS3	192.168.1.104	68	192.168.1.1	67	00:0b:db:4f:6b:10	192.168.1.104	3564.000000	1753546838
 1258876160.995884	C4V1amiaUWsdegD49	192.168.1.105	68	192.168.1.1	67	00:08:74:38:01:b4	192.168.1.105	3564.000000	3944790859
 1258876284.870545	Cpinzr5MZbnqMqhs8	192.168.1.106	68	192.168.1.1	67	00:0b:db:63:5e:a7	192.168.1.106	3564.000000	3933574500
-#close	2015-07-20-21-55-13
+#close	2015-07-23-21-13-58

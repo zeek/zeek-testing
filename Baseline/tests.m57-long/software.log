@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2015-07-20-21-54-04
+#open	2015-07-23-21-12-49
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1258535653.087137	192.168.1.104	-	HTTP::BROWSER	Windows-Update-Agent	-	-	-	-	-	Windows-Update-Agent	-
@@ -691,4 +691,4 @@
 1258596580.834903	208.111.129.112	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
 1258608426.067634	65.54.95.191	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258608426.067634	65.54.95.191	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2015-07-20-21-54-57
+#close	2015-07-23-21-13-43

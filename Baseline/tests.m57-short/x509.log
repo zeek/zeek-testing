@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	x509
-#open	2015-07-20-21-55-04
+#open	2015-07-23-21-13-49
 #fields	ts	id	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len
 #types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count
 1258798785.816210	Fi2Yqe4pWcGoKb1gjg	3	36B3335E000500013491	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-
@@ -13,4 +13,4 @@
 1258867236.541235	FwB15r2vRNjtrialBj	3	36B3335E000500013491	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-
 1258867272.086942	FAvura3JNeKNmkost3	3	36B3335E000500013491	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-
 1258867301.232371	FDkheUNDuq77JAyIb	3	36B3335E000500013491	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	1249400647.000000	1280936647.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-
-#close	2015-07-20-21-55-13
+#close	2015-07-23-21-13-58

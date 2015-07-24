@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dns
-#open	2015-07-20-21-54-04
+#open	2015-07-23-21-12-48
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	auth	addl
 #types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	set[string]	set[string]
 1258531680.268999	CsRx2w45OKnoww6xl4	192.168.1.103	137	192.168.1.255	137	udp	33000	WORKGROUP	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
@@ -7778,4 +7778,4 @@
 1258617366.107575	CXaGXB3SxSHcNxm0wf	192.168.1.102	137	192.168.1.255	137	udp	33074	DOMEX	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258617366.107577	CXaGXB3SxSHcNxm0wf	192.168.1.102	137	192.168.1.255	137	udp	33074	DOMEX	1	C_INTERNET	32	NB	-	-	F	F	T	F	1	-	-	F	-	-
 1258617366.107652	C2EeJw263acsy7QPCk	192.168.1.102	137	192.168.1.1	137	udp	33074	-	-	-	-	-	0	NOERROR	F	F	F	F	0	-	-	F	-	-
-#close	2015-07-20-21-54-57
+#close	2015-07-23-21-13-43

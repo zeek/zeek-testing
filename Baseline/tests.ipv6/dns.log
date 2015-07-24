@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dns
-#open	2015-07-20-21-53-40
+#open	2015-07-23-21-12-24
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	auth	addl
 #types	time	string	addr	port	addr	port	enum	count	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	set[string]	set[string]
 1341811941.294814	CCvvfg3TEfuqmmG4bh	2001:470:1f05:17a6::6	54972	2001:470:86b2::3	53	udp	6775	www.kame.net	1	C_INTERNET	28	AAAA	0	NOERROR	F	F	T	T	0	orange.kame.net,2001:200:dff:fff1:216:3eff:feb1:44d7	85973.000000,85973.000000	F	orange.kame.net,mango.itojun.org	203.178.141.194,2001:2f0:0:8800::1:1,210.155.141.200
@@ -2701,4 +2701,4 @@
 1342501201.482507	CKh7Zi18DriUQfBlB4	2001:470:1f05:17a6::6	42489	2001:470:86b2::3	53	udp	47536	devns2a.burnttofu.net.berkeley.edu	1	C_INTERNET	28	AAAA	3	NXDOMAIN	F	F	T	F	0	-	-	F	ns-master1.berkeley.edu	-
 1342501201.492560	CBNzFcKYr1VhlE8I9	2001:470:1f05:17a6::6	19570	2001:470:86b2::3	53	udp	47535	devns2a.burnttofu.net	1	C_INTERNET	28	AAAA	3	NXDOMAIN	F	F	T	F	0	-	-	F	ns.burnttofu.net	-
 1342501201.493478	CNkVss1jxeCRfJMQl5	2001:470:1f05:17a6::6	42920	2001:470:86b2::3	53	udp	47536	devns2a.burnttofu.net.berkeley.edu	1	C_INTERNET	28	AAAA	3	NXDOMAIN	F	F	T	F	0	-	-	F	ns-master1.berkeley.edu	-
-#close	2015-07-20-21-54-01
+#close	2015-07-23-21-12-45
