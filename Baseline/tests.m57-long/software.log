@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2015-07-23-21-12-49
+#open	2015-12-18-20-20-38
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1258535653.087137	192.168.1.104	-	HTTP::BROWSER	Windows-Update-Agent	-	-	-	-	-	Windows-Update-Agent	-
@@ -117,6 +117,7 @@
 1258563713.551800	192.168.1.103	-	HTTP::BROWSER	Microsoft-CryptoAPI	5	131	2600	5512	-	Microsoft-CryptoAPI/5.131.2600.5512	-
 1258563713.575343	65.54.95.77	80	HTTP::SERVER	Microsoft-IIS	7	5	-	-	-	Microsoft-IIS/7.5	-
 1258563713.575343	65.54.95.77	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
+1258563713.575343	192.168.1.103	-	OS::WINDOWS	Windows	5	131	2600	5512	XP SP3	-	-
 1258563715.009200	199.7.51.190	80	HTTP::SERVER	Apache	2	2	2	-	Unix	Apache/2.2.2 (Unix)	-
 1258563751.499300	216.168.253.44	80	HTTP::APPSERVER	Servlet	2	5	-	-	JSP/2	Servlet/2.5 JSP/2.1	-
 1258563887.440229	65.55.40.39	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
@@ -691,4 +692,4 @@
 1258596580.834903	208.111.129.112	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
 1258608426.067634	65.54.95.191	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258608426.067634	65.54.95.191	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2015-07-23-21-13-43
+#close	2015-12-18-20-21-36
