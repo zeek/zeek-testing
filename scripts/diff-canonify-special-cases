@@ -6,4 +6,4 @@
 
 cat \
   | grep -v CLrJTd1b8yWXHWlEde \
-  | `dirname $0`/../../../scripts/diff-canonifier-external
+  | `dirname $0`/../../../scripts/diff-canonifier-external $@
