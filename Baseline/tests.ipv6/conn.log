@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#open	2016-06-06-22-58-40
+#open	2016-07-08-20-07-54
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	orig_l2_addr	resp_l2_addr	vlan	inner_vlan
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	string	string	int	int
 1341811941.294814	CCvvfg3TEfuqmmG4bh	2001:470:1f05:17a6::6	54972	2001:470:86b2::3	53	udp	dns	0.001571	30	183	SF	-	-	0	Dd	1	78	1	231	(empty)	02:00:00:00:0c:0b	00:80:c8:b9:c2:06	-	-
@@ -288,7 +288,7 @@
 1341816118.526672	CXJldD2FQZC7hLCZ4l	2001:470:1f05:17a6::1	135	2001:470:1f05:17a6:213:72ff:fe0d:a566	136	icmp	-	0.000063	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	00:80:c8:b9:c2:06	00:13:72:0d:a5:66	-	-
 1341816123.468695	CLGjKI3GMd5OHoi52g	fe80::280:c8ff:feb9:c206	135	fe80::213:72ff:fe0d:a566	136	icmp	-	0.000057	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	00:80:c8:b9:c2:06	00:13:72:0d:a5:66	-	-
 1341816123.525930	CwxXnq2wt1enNZvtPl	2001:470:1f05:17a6:213:72ff:fe0d:a566	135	2001:470:1f05:17a6::1	136	icmp	-	0.000106	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	00:13:72:0d:a5:66	00:80:c8:b9:c2:06	-	-
-1341815966.380986	CAvha74acJ5ddiajF	2001:470:1f05:17a6:29fd:67c1:2286:dce8	49362	2607:f140:ffff:ffff:2e0:81ff:fe52:e0a8	22	tcp	-	-	-	-	OTH	-	-	0	a	0	0	1	60	(empty)	00:80:c8:b9:c2:06	00:1f:5b:eb:81:c6	-	-
+1341815966.380986	CAvha74acJ5ddiajF	2001:470:1f05:17a6:29fd:67c1:2286:dce8	49362	2607:f140:ffff:ffff:2e0:81ff:fe52:e0a8	22	tcp	-	-	-	-	OTH	-	-	0	^a	0	0	1	60	(empty)	00:80:c8:b9:c2:06	00:1f:5b:eb:81:c6	-	-
 1341816241.461999	CWnN5x3CnWzPY9fiq	2001:470:1f05:17a6:213:72ff:fe0d:a566	123	2600:3c00::2:b401	123	udp	-	0.057948	48	48	SF	-	-	0	Dd	1	96	1	96	(empty)	00:13:72:0d:a5:66	00:80:c8:b9:c2:06	-	-
 1341816246.461947	C5Ao9414K7mLPyA6x5	fe80::213:72ff:fe0d:a566	135	fe80::280:c8ff:feb9:c206	136	icmp	-	0.000147	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	00:13:72:0d:a5:66	00:80:c8:b9:c2:06	-	-
 1341816246.530931	CTQsWj29fzOi5wN5j1	2001:470:1f05:17a6::1	135	2001:470:1f05:17a6:213:72ff:fe0d:a566	136	icmp	-	0.000056	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	00:80:c8:b9:c2:06	00:13:72:0d:a5:66	-	-
@@ -10551,7 +10551,7 @@
 1343373056.995793	C072gq3EIjHUxOaNqh	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12498	2001:6b0:e:2018::163	80	tcp	http	2.534770	149	658	SF	-	-	0	ShADadFf	4	445	5	1026	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343373058.585865	CnCDZu4wMkrAurt9kc	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	40469	2001:770:18:aa40::c101:c140	51578	tcp	ftp-data	3.806818	0	0	RSTR	-	-	0	ShAFr	3	224	2	152	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343373042.841625	CBsqVv4ETBqlr4y85c	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	17041	2001:770:18:aa40::c101:c140	21	tcp	ftp	19.551159	220	1231	SF	-	-	0	ShAdDaFf	18	1524	22	2823	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
-1343373068.749508	CPRPef3k1wTVzMr14a	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12498	2001:6b0:e:2018::163	80	tcp	-	0.000038	0	0	SHR	-	-	0	fA	1	72	1	72	(empty)	00:80:c8:b9:c2:06	d4:9a:20:fd:6b:88	-	-
+1343373068.749508	CPRPef3k1wTVzMr14a	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12498	2001:6b0:e:2018::163	80	tcp	-	0.000038	0	0	SHR	-	-	0	^fA	1	72	1	72	(empty)	00:80:c8:b9:c2:06	d4:9a:20:fd:6b:88	-	-
 1343373071.092550	CIsjLn1GsbVUwfeNg4	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	23925	2801:82:80ff:8000::8	80	tcp	http	2.842734	148	520	SF	-	-	0	ShADadfFR	6	576	6	960	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343373077.309750	C2CB5hLhyi9yMEQTa	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	52649	2610:148:1f00:6f00:21b:24ff:fe1d:e940	80	tcp	http	0.664463	155	522	SF	-	-	0	ShADadfF	5	523	5	890	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343372958.513004	C5itsg2Nxq8NP0X28	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	62045	2001:4f8:0:2::e	21	tcp	ftp	121.504174	195	496	SF	-	-	0	ShAadDFRf	24	1847	36	3096	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
@@ -11430,7 +11430,7 @@
 1343424520.050680	CBNIxWBYVocTAtrk6	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	60566	2001:4f8:0:2::1e	80	tcp	http	12.719552	137	62111	SF	-	-	0	ShADadfF	36	2737	49	65647	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343424463.303523	CIytWA2LMSN6DHmDfl	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	11025	2001:b30:1::146	80	tcp	http	71.324383	150	2657235	SF	-	-	0	ShADadfF	988	71294	1891	2793395	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343424520.530414	CYIMpc32k1baRC6Bhi	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	27146	2001:4f8:0:2::1e	80	tcp	http	15.634200	137	85143	SF	-	-	0	ShADadfF	51	3817	67	90387	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
-1343424541.203225	CmrfVupLRxNXpSxk8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	27146	2001:4f8:0:2::1e	80	tcp	-	0.000006	0	0	RSTOS0	-	-	0	aR	1	60	1	72	(empty)	00:80:c8:b9:c2:06	d4:9a:20:fd:6b:88	-	-
+1343424541.203225	CmrfVupLRxNXpSxk8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	27146	2001:4f8:0:2::1e	80	tcp	-	0.000006	0	0	RSTOS0	-	-	0	^aR	1	60	1	72	(empty)	00:80:c8:b9:c2:06	d4:9a:20:fd:6b:88	-	-
 1343424519.576179	CslJFh21wNVf4x8s81	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	37106	2001:4f8:0:2::1e	80	tcp	http	22.534409	133	157900	SF	-	-	0	ShADadfF	84	6189	117	166332	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343424521.019491	CuqxZh4Td6KChnU2nd	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	44247	2001:4f8:0:2::1e	80	tcp	http	24.148210	136	151468	SF	-	-	0	ShADadfF	81	5976	113	159612	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343424518.606470	C5Yvmz3Q3NI6CLDWA	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	51409	2001:4f8:0:2::1e	80	tcp	http	31.241886	137	283787	SF	-	-	0	ShADadfF	147	10729	207	298699	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
@@ -11925,4 +11925,4 @@
 1343501934.109754	CuDzCd3PdEqOzyzAmi	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	135	2001:470:1f05:17a6::1	136	icmp	-	0.000107	24	16	OTH	-	-	0	-	1	72	1	64	(empty)	d4:9a:20:fd:6b:88	00:80:c8:b9:c2:06	-	-
 1343502034.792537	Caumcj4wFLsGNQ7ohd	2001:470:1f05:17a6:391f:d77e:3e77:9f5b	135	ff02::1:ffb9:c206	136	icmp	-	-	-	-	OTH	-	-	0	-	1	72	0	0	(empty)	00:1e:c9:56:a0:c1	33:33:ff:b9:c2:06	-	-
 1343502039.798188	CJlAk034hpQtWrLz4j	2001:470:1f05:17a6:391f:d77e:3e77:9f5b	135	ff02::1:ff00:1	136	icmp	-	-	-	-	OTH	-	-	0	-	1	72	0	0	(empty)	00:1e:c9:56:a0:c1	33:33:ff:00:00:01	-	-
-#close	2016-06-06-22-59-08
+#close	2016-07-08-20-08-14
