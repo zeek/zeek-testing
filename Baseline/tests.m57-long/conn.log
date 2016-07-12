@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#open	2016-07-09-02-24-54
+#open	2016-07-12-18-45-55
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	orig_l2_addr	resp_l2_addr	vlan	inner_vlan
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	string	string	int	int
 1258531221.486539	CjhGID4nQcgTWjvg4c	192.168.1.102	68	192.168.1.1	67	udp	dhcp	0.163820	301	300	SF	-	-	0	Dd	1	329	1	328	(empty)	00:0b:db:63:58:a6	00:19:e3:e7:5d:23	-	-
@@ -6640,7 +6640,7 @@
 1258592788.152184	CHwm9L3j0912yqPoKf	192.168.1.105	49234	193.86.3.40	80	tcp	http	0.780823	203	155	SF	-	-	0	ShADdFaf	6	455	4	327	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592784.730835	CmrB634bNsZk9oqzle	192.168.1.105	57471	192.168.1.1	53	udp	dns	0.018714	42	316	SF	-	-	0	Dd	1	70	1	344	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592790.267610	Cz1Og61dUKFJBgarG6	192.168.1.105	49239	198.189.255.74	80	tcp	http	0.164145	198	131892	SF	-	-	0	ShADadfF	39	1770	99	135864	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
-1258592790.058538	CroKYc2uMUYqrrXGd	192.168.1.105	49238	193.86.3.40	80	tcp	-	0.553160	203	155	SF	-	-	0	^hADdFaf	4	363	4	327	(empty)	00:19:e3:e7:5d:23	00:08:74:38:01:b4	-	-
+1258592790.058538	CroKYc2uMUYqrrXGd	192.168.1.105	49238	193.86.3.40	80	tcp	http	0.553160	203	155	SF	-	-	0	^hADdFaf	4	363	4	327	(empty)	00:19:e3:e7:5d:23	00:08:74:38:01:b4	-	-
 1258592790.828259	CM94v11eQN2RpyUgUh	192.168.1.105	49241	198.189.255.74	80	tcp	http	0.371764	198	338536	SF	-	-	0	ShADadfF	64	2770	249	348508	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592790.433750	CqD8272b79YATYsRN	192.168.1.105	49240	193.86.3.40	80	tcp	http	0.946715	203	155	SF	-	-	0	ShADdFaf	6	455	4	327	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592791.686469	CBu2K73tKpIjfLczPi	192.168.1.105	49243	198.189.255.74	80	tcp	http	0.431728	198	470336	SF	-	-	0	ShADadftF	88	3850	344	484108	(empty)	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
@@ -6934,7 +6934,7 @@
 1258594183.377003	CCdvBB3EGMniy9oTng	192.168.1.102	137	192.168.1.255	137	udp	dns	3.764389	350	0	S0	-	-	0	D	7	546	0	0	(empty)	00:0b:db:63:58:a6	ff:ff:ff:ff:ff:ff	-	-
 1258594217.956800	CJGjN815A9o3wDWQP6	192.168.1.102	1073	68.216.79.113	37	tcp	-	2.995123	0	0	S0	-	-	0	S	2	96	0	0	(empty)	00:0b:db:63:58:a6	00:19:e3:e7:5d:23	-	-
 1258594217.955802	ChPJvf2QHH3w12dR4	192.168.1.102	64669	192.168.1.1	53	udp	dns	0.000207	44	178	SF	-	-	0	Dd	1	72	1	206	(empty)	00:0b:db:63:58:a6	00:19:e3:e7:5d:23	-	-
-1258594162.280066	Cmv8Av1YgcjSgcgNs3	192.168.1.105	49327	143.166.224.210	80	tcp	-	63.568277	1924	503	RSTO	-	-	0	^hADadR	5	2124	3	635	(empty)	00:19:e3:e7:5d:23	00:08:74:38:01:b4	-	-
+1258594162.280066	Cmv8Av1YgcjSgcgNs3	192.168.1.105	49327	143.166.224.210	80	tcp	http	63.568277	1924	503	RSTO	-	-	0	^hADadR	5	2124	3	635	(empty)	00:19:e3:e7:5d:23	00:08:74:38:01:b4	-	-
 1258594226.967145	CilWn42XXgXUlS8kX	192.168.1.102	1073	68.216.79.113	37	tcp	-	-	-	-	S0	-	-	0	S	1	48	0	0	(empty)	00:0b:db:63:58:a6	00:19:e3:e7:5d:23	-	-
 1258594183.402253	COEQNl2yMdFqK51dS5	192.168.1.102	138	192.168.1.255	138	udp	-	2.247574	348	0	S0	-	-	0	D	2	404	0	0	(empty)	00:0b:db:63:58:a6	ff:ff:ff:ff:ff:ff	-	-
 1258594346.598864	CLXdre2wQvWU5W2xk	192.168.1.102	1069	198.189.255.75	80	tcp	-	0.000439	0	0	SHR	-	-	0	^fA	1	40	1	40	(empty)	00:19:e3:e7:5d:23	00:0b:db:63:58:a6	-	-
@@ -8511,4 +8511,4 @@
 1258617506.342259	C88I9g2e7zAaTfVJP	192.168.1.104	138	192.168.1.255	138	udp	-	0.000002	402	0	S0	-	-	0	D	2	458	0	0	(empty)	00:0b:db:4f:6b:10	ff:ff:ff:ff:ff:ff	-	-
 1258617547.414887	CjI1v01e7Q6bXLA9D6	192.168.1.1	138	192.168.1.255	138	udp	-	0.000023	422	0	S0	-	-	0	D	2	478	0	0	(empty)	00:19:e3:e7:5d:23	ff:ff:ff:ff:ff:ff	-	-
 1258595643.914410	CGMqna1K8AmvqhvkE6	192.168.1.1	626	224.0.0.1	626	udp	-	21930.000012	48312	0	S0	-	-	0	D	1464	89304	0	0	(empty)	00:19:e3:e7:5d:23	01:00:5e:00:00:01	-	-
-#close	2016-07-09-02-26-02
+#close	2016-07-12-18-46-29
