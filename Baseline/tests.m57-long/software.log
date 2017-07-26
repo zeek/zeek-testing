@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2015-12-18-20-20-38
+#open	2017-07-26-15-47-10
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1258535653.087137	192.168.1.104	-	HTTP::BROWSER	Windows-Update-Agent	-	-	-	-	-	Windows-Update-Agent	-
@@ -639,7 +639,7 @@
 1258592938.361723	216.218.224.241	80	HTTP::SERVER	Apache	2	2	4	-	Ubuntu	Apache/2.2.4 (Ubuntu) mod_perl/2.0.2 Perl/v5.8.8	-
 1258592939.473767	216.218.224.241	80	HTTP::SERVER	Apache	2	2	3	-	Red Hat	Apache/2.2.3 (Red Hat)	-
 1258593223.948736	199.7.52.190	80	HTTP::SERVER	Apache	2	2	2	-	Unix	Apache/2.2.2 (Unix)	-
-1258593264.599413	192.168.1.105	-	HTTP::BROWSER	AVGDM-	-	-	-	-	-	AVGDM-	-
+1258593264.599413	192.168.1.105	-	HTTP::BROWSER	AVGDM	-	-	-	-	-	AVGDM-	-
 1258593264.770108	212.96.161.228	80	HTTP::SERVER	BigIP	-	-	-	-	-	BigIP	-
 1258593381.864825	192.168.1.102	-	HTTP::BROWSER	Microsoft-CryptoAPI	5	131	2600	5512	-	Microsoft-CryptoAPI/5.131.2600.5512	-
 1258593384.199152	216.218.224.241	80	HTTP::SERVER	Apache	2	2	3	-	Linux/SUSE	Apache/2.2.3 (Linux/SUSE)	-
@@ -692,4 +692,4 @@
 1258596580.834903	208.111.129.112	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
 1258608426.067634	65.54.95.191	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258608426.067634	65.54.95.191	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2015-12-18-20-21-36
+#close	2017-07-26-15-47-33
