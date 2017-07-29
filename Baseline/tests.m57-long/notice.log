@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2016-08-08-19-23-29
+#open	2017-07-28-16-06-46
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	CZrF6x2vDGeSNbw0Jf	192.168.1.104	1196	65.55.184.16	443	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -90,7 +90,7 @@
 1258570538.116798	CUcIS2XskybN0E2ue	192.168.1.105	49569	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.105	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258570540.636666	CpvOT11Gormy6aCG1j	192.168.1.104	1509	151.207.240.23	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:1509 > 151.207.240.23:80 content gap (< 87441/1380)	-	192.168.1.104	151.207.240.23	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258570540.957214	CpvOT11Gormy6aCG1j	192.168.1.104	1509	151.207.240.23	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:1509 > 151.207.240.23:80 content gap (< 88821/99684)	-	192.168.1.104	151.207.240.23	80	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-1258575262.015972	C3RmTt1cll5ILdg3x	192.168.1.103	1882	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.103	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258575093.914378	CGucSHJxHNbIVvea5	192.168.1.104	1581	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.104	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258578864.762742	CXYpjF1H62h3DjhP28	192.168.1.103	1899	208.97.132.223	995	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.103	208.97.132.223	995	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258581758.272912	ClMXYP2vUvJsS0EgH9	192.168.1.103	1934	192.168.1.1	25	-	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (self signed certificate)	C=US,CN=domex.local	192.168.1.103	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258581765.480142	ClMXYP2vUvJsS0EgH9	192.168.1.103	1934	192.168.1.1	25	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.103:1934 > 192.168.1.1:25 SSL on port 25/tcp	SSL	192.168.1.103	192.168.1.1	25	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -790,4 +790,4 @@
 1258617393.914395	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1247 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	bro	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2016-08-08-19-24-04
+#close	2017-07-28-16-07-13
