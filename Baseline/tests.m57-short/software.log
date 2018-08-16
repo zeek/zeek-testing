@@ -3,13 +3,13 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2018-05-01-19-12-36
+#open	2018-08-16-20-48-36
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
-1258790630.336383	192.168.1.104	-	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
-1258790640.540726	192.168.1.105	-	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
-1258790772.799980	192.168.1.106	-	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
-1258791882.799572	192.168.1.103	-	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
+1258790630.336383	192.168.1.104	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
+1258790640.540726	192.168.1.105	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
+1258790772.799980	192.168.1.106	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
+1258791882.799572	192.168.1.103	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
 1258792736.753765	192.168.1.106	-	HTTP::BROWSER	SCSDK	6	0	0	-	-	SCSDK-6.0.0	-
 1258792736.948645	212.227.96.110	80	HTTP::SERVER	Apache	2	2	9	-	Debian	Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny3 with Suhosin-Patch	-
 1258792736.948645	212.227.96.110	80	HTTP::APPSERVER	PHP	5	2	6	1	+lenny3	PHP/5.2.6-1+lenny3	-
@@ -87,4 +87,4 @@
 1258867304.596250	192.168.1.105	-	HTTP::BROWSER	Microsoft BITS	7	0	-	-	-	Microsoft BITS/7.0	-
 1258867304.610983	198.189.255.75	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258867304.610983	198.189.255.75	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2018-05-01-19-12-43
+#close	2018-08-16-20-48-43
