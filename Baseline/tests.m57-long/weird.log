@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2018-09-21-21-06-50
+#open	2019-04-02-01-12-08
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531203.914398	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
@@ -107,21 +107,21 @@
 1258587663.914418	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258588263.914462	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258588863.914422	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258589303.367108	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258589303.367108	-	-	-	-	-	unknown_protocol	-	F	bro
 1258589463.914423	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258589936.092312	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258589936.092312	-	-	-	-	-	unknown_protocol	-	F	bro
 1258590063.914430	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258590663.914421	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258591263.914423	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258591685.270227	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258591685.270227	-	-	-	-	-	unknown_protocol	-	F	bro
 1258591863.914458	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258592297.097222	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258592297.097222	-	-	-	-	-	unknown_protocol	-	F	bro
 1258592472.997524	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258592927.775320	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258592927.775320	-	-	-	-	-	unknown_protocol	-	F	bro
 1258593095.434344	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258593707.248353	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258594341.557220	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-1258594856.068533	-	-	-	-	-	unknown_protocol_2	-	F	bro
+1258594856.068533	-	-	-	-	-	unknown_protocol	-	F	bro
 1258594943.996855	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258595666.621543	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258596275.562777	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
@@ -160,4 +160,4 @@
 1258616013.914411	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258616613.914411	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
 1258617213.914417	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	bro
-#close	2018-09-21-21-07-46
+#close	2019-04-02-01-13-01

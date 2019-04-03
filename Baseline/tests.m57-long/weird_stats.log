@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird_stats
-#open	2018-09-21-21-06-50
+#open	2019-04-02-01-12-08
 #fields	ts	name	num_seen
 #types	time	string	count
 1258532133.914401	non_ip_packet_in_ethernet	31
@@ -91,26 +91,26 @@
 1258586853.914423	non_ip_packet_in_ethernet	30
 1258587756.292551	non_ip_packet_in_ethernet	30
 1258588669.040677	non_ip_packet_in_ethernet	30
-1258589573.130091	unknown_protocol_2	6
 1258589573.130091	non_ip_packet_in_ethernet	30
 1258589573.130091	spontaneous_RST	2
-1258590483.914425	unknown_protocol_2	12
+1258589573.130091	unknown_protocol	6
 1258590483.914425	non_ip_packet_in_ethernet	30
+1258590483.914425	unknown_protocol	12
 1258591413.914419	non_ip_packet_in_ethernet	31
-1258592313.914426	unknown_protocol_2	32
 1258592313.914426	non_ip_packet_in_ethernet	30
-1258593215.711605	unknown_protocol_2	4
+1258592313.914426	unknown_protocol	32
 1258593215.711605	non_ip_packet_in_ethernet	30
 1258593215.711605	unsolicited_SYN_response	1
-1258594115.751003	unknown_protocol_2	2
+1258593215.711605	unknown_protocol	4
 1258594115.751003	non_ip_packet_in_ethernet	30
 1258594115.751003	unsolicited_SYN_response	1
-1258595015.765367	unknown_protocol_2	4
+1258594115.751003	unknown_protocol	2
 1258595015.765367	non_ip_packet_in_ethernet	40
 1258595015.765367	unsolicited_SYN_response	1
 1258595015.765367	spontaneous_FIN	1
-1258595915.919142	unknown_protocol_2	3
+1258595015.765367	unknown_protocol	4
 1258595915.919142	non_ip_packet_in_ethernet	47
+1258595915.919142	unknown_protocol	3
 1258596843.914398	non_ip_packet_in_ethernet	59
 1258597743.914402	non_ip_packet_in_ethernet	58
 1258598665.666319	non_ip_packet_in_ethernet	61
@@ -136,4 +136,4 @@
 1258616013.914409	non_ip_packet_in_ethernet	62
 1258616913.914417	non_ip_packet_in_ethernet	60
 1258617573.914422	non_ip_packet_in_ethernet	46
-#close	2018-09-21-21-07-46
+#close	2019-04-02-01-13-01
