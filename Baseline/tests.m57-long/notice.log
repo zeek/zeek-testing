@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2019-01-29-22-49-14
+#open	2019-04-19-21-06-53
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258535660.560999	CZrF6x2vDGeSNbw0Jf	192.168.1.104	1196	65.55.184.16	443	FElx6m3LsWEZ2L6a0h	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -290,6 +290,7 @@
 1258595507.377752	CBQfgN3rhZi3d71ze6	192.168.1.105	49420	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49420 > 65.54.95.7:80 content gap (< 66241/12420)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.378499	CRXx231ARre63OzyWh	192.168.1.105	49416	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49416 > 65.54.95.7:80 content gap (< 85561/6900)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.382500	CNYD2yASQmGwy1Cwa	192.168.1.105	49419	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49419 > 65.54.95.7:80 content gap (< 19321/6900)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258595507.382742	CBfADn3QvqtNZF0Lt1	192.168.1.105	49428	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49428 > 65.54.95.7:80 content gap (< 44161/11040)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.384245	C5fpVK22luU4qB2wD8	192.168.1.105	49404	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49404 > 65.54.95.7:80 content gap (< 258061/27600)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.387495	C8StF2bPMlLrPNaCf	192.168.1.105	49401	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49401 > 65.54.95.7:80 content gap (< 321541/9660)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258595507.389244	CwB6lc4QKkEDaIwwJ1	192.168.1.105	49417	65.54.95.7	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49417 > 65.54.95.7:80 content gap (< 162841/16560)	-	192.168.1.105	65.54.95.7	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -428,6 +429,9 @@
 1258596213.255386	CrVXza1P08ALRgOcZg	192.168.1.105	49533	68.142.123.21	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49533 > 68.142.123.21:80 content gap (< 169658/77280)	-	192.168.1.105	68.142.123.21	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258596213.256137	CtwDl442NQxJXYnUNi	192.168.1.105	49525	68.142.123.21	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49525 > 68.142.123.21:80 content gap (< 140311/37617)	-	192.168.1.105	68.142.123.21	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258596213.292371	CouVpG3TmyLwthifsh	192.168.1.105	49540	68.142.123.21	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49540 > 68.142.123.21:80 content gap (< 275071/56900)	-	192.168.1.105	68.142.123.21	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258596215.046509	Cvidxe4sC3Qjditg9h	192.168.1.105	49529	68.142.123.21	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49529 > 68.142.123.21:80 content gap (< 96935/48325)	-	192.168.1.105	68.142.123.21	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258596215.046514	CD6MRD2pKs6Nskoww4	192.168.1.105	49528	68.142.123.21	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49528 > 68.142.123.21:80 content gap (< 17064/25055)	-	192.168.1.105	68.142.123.21	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
+1258596215.998917	CaZseY2VsqN0HjtGC1	192.168.1.105	49535	68.142.123.31	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49535 > 68.142.123.31:80 content gap (< 73571/49017)	-	192.168.1.105	68.142.123.31	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258596363.914407	CrXCii3pS88lneh8K	192.168.1.102	1084	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1084 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258596363.914407	CrXCii3pS88lneh8K	192.168.1.102	1084	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1084 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258596373.767395	CmdiYi2gLfwGtEia5a	192.168.1.102	1085	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1085 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -790,4 +794,4 @@
 1258617393.914395	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1247 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2019-01-29-22-49-47
+#close	2019-04-19-21-07-57
