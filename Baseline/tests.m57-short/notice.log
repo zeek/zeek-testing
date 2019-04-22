@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2019-01-29-22-50-16
+#open	2019-04-19-20-51-21
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	dropped	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	bool	string	string	string	double	double
 1258798785.846678	Cp2P763RFUeHgsRayb	192.168.1.105	49168	65.55.25.59	443	Fi2Yqe4pWcGoKb1gjg	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.25.59	443	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -27,7 +27,6 @@
 1258867938.836084	CmoTti1kbmIaxJcUie	192.168.1.105	49249	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49249 > 198.189.255.75:80 content gap (< 295730/83280)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867938.836330	CmoTti1kbmIaxJcUie	192.168.1.105	49249	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49249 > 198.189.255.75:80 content gap (< 379010/2760)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867941.546142	CeQNdxDnrFsNCf8Wb	192.168.1.105	49252	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49252 > 198.189.255.75:80 content gap (< 3290794/1380)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-1258867941.822469	CeQNdxDnrFsNCf8Wb	192.168.1.105	49252	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49252 > 198.189.255.75:80 content gap (< 3292174/169929)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867944.092530	CNuZ6H1DUrO11uAaB5	192.168.1.105	49255	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49255 > 198.189.255.75:80 content gap (< 490199/9660)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867944.092778	CNuZ6H1DUrO11uAaB5	192.168.1.105	49255	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49255 > 198.189.255.75:80 content gap (< 499859/9660)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867944.101276	CNuZ6H1DUrO11uAaB5	192.168.1.105	49255	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49255 > 198.189.255.75:80 content gap (< 509519/24840)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
@@ -35,4 +34,4 @@
 1258867946.405845	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1358219/6900)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867946.413335	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1365119/4140)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
 1258867946.414573	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1369259/24840)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	F	-	-	-	-	-
-#close	2019-01-29-22-50-22
+#close	2019-04-19-20-51-33
