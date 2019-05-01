@@ -1,13 +1,14 @@
 # Needs perftools support.
 #
 # @TEST-GROUP: leaks
+# @TEST-PORT: BROKER_PORT
 #
 # @TEST-REQUIRES: bro --help 2>&1 | grep -q mem-leaks
-# 
-# @TEST-EXEC: btest-bg-run sender "cat $TRACES/2009-M57-day11-21.trace.gz | gunzip | HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local bro -r - -m --pseudo-realtime=10000 ../sender.bro %INPUT"
+#
+# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run sender "cat $TRACES/2009-M57-day11-21.trace.gz | gunzip | ( bro --pseudo-realtime=10000 -r - -m ../sender.zeek %INPUT ; dd of=/dev/null )"
 # @TEST-EXEC: sleep 1
-# @TEST-EXEC: btest-bg-run receiver HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local bro -m %INPUT ../receiver.bro
-# @TEST-EXEC: btest-bg-wait 30
+# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run receiver "bro -m %INPUT ../receiver.zeek"
+# @TEST-EXEC: btest-bg-wait 90
 # 
 # Just make sure there's something in the output to confirm the termination
 # condition works and remote logging was actually employed.
@@ -19,35 +20,62 @@
 
 #####
 
-@TEST-START-FILE sender.bro
-
-@load frameworks/communication/listen
+@TEST-START-FILE sender.zeek
 
 redef Log::enable_local_logging = F;
 
-event remote_connection_established(p: event_peer)
+event zeek_init()
 	{
-	print "peer connected";
+	suspend_processing();
+	Broker::auto_publish("test", DNS::log_dns);
+	Broker::listen("127.0.0.1", to_port(getenv("BROKER_PORT")));
 	}
 
-event remote_connection_closed(p: event_peer)
+event Broker::peer_added(endpoint: Broker::EndpointInfo, msg: string)
+	{
+	print "peer connected";
+	continue_processing();
+	}
+
+event Broker::peer_lost(endpoint: Broker::EndpointInfo, msg: string)
 	{
 	print "peer terminated";
 	terminate();
 	}
 
+global dns_log_count = 0;
+
+event DNS::log_dns(rec: DNS::Info)
+	{
+	++dns_log_count;
+	print fmt("dns log entry #%s", dns_log_count);
+	}
+
 @TEST-END-FILE
 
-@TEST-START-FILE receiver.bro
+@TEST-START-FILE receiver.zeek
 
-redef Communication::nodes += {
-    ["foo"] = [$host = 127.0.0.1, $connect=T, $request_logs=T,
-	          $events = /DNS::log_dns/]
-};
+event zeek_init()
+	{
+	Broker::subscribe("test");
+	Broker::subscribe(Broker::default_log_topic_prefix);
+	Broker::peer("127.0.0.1", to_port(getenv("BROKER_PORT")));
+	}
 
-event remote_connection_established(p: event_peer)
+event Broker::peer_added(endpoint: Broker::EndpointInfo, msg: string)
 	{
 	print "connected to peer";
+	}
+
+event Broker::peer_lost(endpoint: Broker::EndpointInfo, msg: string)
+	{
+	terminate();
+	}
+
+event die()
+	{
+	print "terminated";
+	terminate();
 	}
 
 global dns_log_count = 0;
@@ -57,10 +85,11 @@ event DNS::log_dns(rec: DNS::Info)
 	++dns_log_count;
 	print fmt("dns log entry #%s", dns_log_count);
 
-	if ( dns_log_count > 101 )
+	if ( dns_log_count == 101 )
 		{
 		print "terminating";
-		terminate();
+		Broker::flush_logs();
+		schedule 1sec { die() };
 		}
 	}
 
