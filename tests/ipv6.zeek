@@ -1,4 +1,4 @@
-# @TEST-EXEC: cat $TRACES/ipv6.trace.gz | gunzip | bro -r - %INPUT
+# @TEST-EXEC: cat $TRACES/ipv6.trace.gz | gunzip | zeek -r - %INPUT
 # @TEST-EXEC: $SCRIPTS/diff-all '*.log'
 #
 # @TEST-MEASURE-TIME

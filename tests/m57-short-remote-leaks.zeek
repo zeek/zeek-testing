@@ -3,11 +3,11 @@
 # @TEST-GROUP: leaks
 # @TEST-PORT: BROKER_PORT
 #
-# @TEST-REQUIRES: bro --help 2>&1 | grep -q mem-leaks
+# @TEST-REQUIRES: zeek --help 2>&1 | grep -q mem-leaks
 #
-# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run sender "cat $TRACES/2009-M57-day11-21.trace.gz | gunzip | ( bro --pseudo-realtime=10000 -r - -m ../sender.zeek %INPUT ; dd of=/dev/null )"
+# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run sender "cat $TRACES/2009-M57-day11-21.trace.gz | gunzip | ( zeek --pseudo-realtime=10000 -r - -m ../sender.zeek %INPUT ; dd of=/dev/null )"
 # @TEST-EXEC: sleep 1
-# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run receiver "bro -m %INPUT ../receiver.zeek"
+# @TEST-EXEC: HEAP_CHECK_DUMP_DIRECTORY=. HEAPCHECK=local btest-bg-run receiver "zeek -m %INPUT ../receiver.zeek"
 # @TEST-EXEC: btest-bg-wait 90
 # 
 # Just make sure there's something in the output to confirm the termination
