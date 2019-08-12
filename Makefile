@@ -4,9 +4,13 @@ BTEST=../../../aux/btest/btest -j 3
 SCRIPT_COV=.tmp/script-coverage
 
 all: update-traces cleanup btest-verbose coverage
+leaks: update-traces cleanup btest-verbose-leaks coverage
 
 btest-verbose:
 	@$(BTEST) -f $(DIAG)
+
+btest-verbose-leaks:
+	@$(BTEST) -f $(DIAG) -g leaks
 
 brief: update-traces cleanup btest-brief coverage
 
