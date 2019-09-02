@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird_stats
-#open	2019-04-02-01-12-08
+#open	2019-09-02-13-00-25
 #fields	ts	name	num_seen
 #types	time	string	count
 1258532133.914401	non_ip_packet_in_ethernet	31
@@ -136,4 +136,4 @@
 1258616013.914409	non_ip_packet_in_ethernet	62
 1258616913.914417	non_ip_packet_in_ethernet	60
 1258617573.914422	non_ip_packet_in_ethernet	46
-#close	2019-04-02-01-13-01
+#close	2019-09-02-13-01-07

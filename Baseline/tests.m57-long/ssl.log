@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	ssl
-#open	2017-07-28-15-27-18
+#open	2019-09-02-13-00-25
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	curve	server_name	resumed	last_alert	next_protocol	established	cert_chain_fuids	client_cert_chain_fuids	subject	issuer	client_subject	client_issuer	validation_status	ocsp_status	valid_ct_logs	valid_ct_operators
 #types	time	string	addr	port	addr	port	string	string	string	string	bool	string	string	bool	vector[string]	vector[string]	string	string	string	string	string	string	count	count
 1258535660.267128	CZrF6x2vDGeSNbw0Jf	192.168.1.104	1196	65.55.184.16	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	F	-	-	T	FElx6m3LsWEZ2L6a0h,Fgxthq11vETje01I32,FDJd3yxxxuszZgE1c	(empty)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	-	-	unable to get local issuer certificate	-	0	0
@@ -145,4 +145,4 @@
 1258594094.464059	Ca78P516xoJlrfwIb	192.168.1.105	49313	65.55.251.108	443	TLSv10	TLS_RSA_WITH_RC4_128_MD5	-	urs.microsoft.com	F	-	-	T	FudY0OLd3JYDlx1te,Fzx1eE2GtSMZTwpBY3,FtSg2z3zBYVOpSD2Yh	(empty)	CN=urs.microsoft.com,OU=Windows Live Operations,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	-	-	unable to get local issuer certificate	-	0	0
 1258595464.562116	CqQD4HlGFz7VQGyve	192.168.1.105	49331	65.55.184.26	443	TLSv10	TLS_RSA_WITH_AES_128_CBC_SHA	-	www.update.microsoft.com	F	-	-	T	FcXGY33lGynkRCkIil,FggTqu4SiSbfLd0YVg,Fbro8O3FiJciBYU2mi	(empty)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	-	-	unable to get local issuer certificate	-	0	0
 1258608433.330766	Cibq2H28jnhAmED03d	192.168.1.104	1186	65.55.184.155	443	TLSv10	TLS_RSA_WITH_RC4_128_SHA	-	-	F	-	-	T	FnCPd83oZQ4tS3yzd9,Fee5AY2RfctZL4DA1c,FL3lgFWQOvt8HRM69	(empty)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	CN=Microsoft Secure Server Authority,DC=redmond,DC=corp,DC=microsoft,DC=com	-	-	unable to get local issuer certificate	-	0	0
-#close	2017-07-28-15-27-42
+#close	2019-09-02-13-01-07

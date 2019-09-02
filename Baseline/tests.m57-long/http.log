@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	http
-#open	2019-03-13-19-34-57
+#open	2019-09-02-13-00-25
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types	client_header_names	server_header_names	cookie_vars	uri_vars
 #types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
 1258535653.087137	CCoZLmu5f0vR1S84d	192.168.1.104	1191	65.54.95.64	80	1	HEAD	download.windowsupdate.com	/v9/windowsupdate/redir/muv4wuredir.cab?0911180916	-	1.1	Windows-Update-Agent	-	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-	ACCEPT,USER-AGENT,HOST,CONNECTION	-	-	/v9/windowsupdate/redir/muv4wuredir.cab?0911180916
@@ -4903,4 +4903,4 @@
 1258617359.478235	CU1zJh4auxsT5WPFV	192.168.1.103	1230	87.106.9.29	80	1	POST	87.106.9.29	/rpc.html?e=bl	-	1.1	SCSDK-6.0.0	-	1064	96	200	OK	100	Continue	(empty)	-	-	-	FPeqsD4rvxPpg2zxIl	-	-	FJvgoh2n9hdd4X72L	-	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH,EXPECT	-	-	/rpc.html?e
 1258617360.030886	C3FEyL6ktdJpHrDZ9	192.168.1.103	1231	87.106.66.233	80	1	POST	87.106.66.233	/rpc.html?e=bl	-	1.1	SCSDK-6.0.0	-	992	96	200	OK	-	-	(empty)	-	-	-	Fa41hE2G4iT9gbIwBj	-	-	FDeRmm3L4oImT7jbC1	-	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH	-	-	/rpc.html?e
 1258617362.396401	CCiVSE2AZsEOCpG0te	192.168.1.103	1232	87.106.12.47	80	1	POST	87.106.12.47	/rpc.html?e=bl	-	1.1	SCSDK-6.0.0	-	992	96	200	OK	-	-	(empty)	-	-	-	FmvBKM2ZrEY4ncF0Tj	-	-	FQjNf6PpAYbwui5s2	-	-	USER-AGENT,HOST,ACCEPT,CONTENT-TYPE,CONTENT-LENGTH	-	-	/rpc.html?e
-#close	2019-03-13-19-35-50
+#close	2019-09-02-13-01-07

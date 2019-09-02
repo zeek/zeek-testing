@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	smb_cmd
-#open	2018-08-17-16-04-19
+#open	2019-09-02-13-00-54
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	command	sub_command	argument	status	rtt	version	username	tree	tree_service	referenced_file.ts	referenced_file.uid	referenced_file.id.orig_h	referenced_file.id.orig_p	referenced_file.id.resp_h	referenced_file.id.resp_p	referenced_file.fuid	referenced_file.action	referenced_file.path	referenced_file.name	referenced_file.size	referenced_file.prev_name	referenced_file.times.modified	referenced_file.times.accessed	referenced_file.times.created	referenced_file.times.changed
 #types	time	string	addr	port	addr	port	string	string	string	string	interval	string	string	string	string	time	string	addr	port	addr	port	string	enum	string	string	count	string	time	time	time	time
 1258594907.859780	Chjxid42dvvzIzdeG8	192.168.1.102	1076	192.168.1.1	139	SESSION_SETUP_ANDX	-	-	LOGON_FAILURE	0.000180	SMB1	-	-	-	1258594907.859780	Chjxid42dvvzIzdeG8	192.168.1.102	1076	192.168.1.1	139	-	-	-	-	0	-	-	-	-	-
@@ -197,4 +197,4 @@
 1258617000.537921	CIpxCd2NqMkSyhwCea	192.168.1.104	1236	192.168.1.1	139	SESSION_SETUP_ANDX	-	-	LOGON_FAILURE	0.000185	SMB1	-	-	-	1258617000.537921	CIpxCd2NqMkSyhwCea	192.168.1.104	1236	192.168.1.1	139	-	-	-	-	0	-	-	-	-	-
 1258617366.130561	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	SESSION_SETUP_ANDX	-	-	LOGON_FAILURE	0.000194	SMB1	-	-	-	1258617366.130561	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	-	-	-	0	-	-	-	-	-
 1258617368.379396	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	SESSION_SETUP_ANDX	-	-	LOGON_FAILURE	0.000208	SMB1	-	-	-	1258617368.379396	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	-	0	-	-	-	-	-
-#close	2018-08-17-16-04-30
+#close	2019-09-02-13-01-07

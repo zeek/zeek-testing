@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	files
-#open	2017-07-28-15-28-57
+#open	2019-08-30-18-49-13
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size	entropy
 #types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count	double
 1258792736.753765	FDbW5b2iLXrF5THMi2	192.168.1.106	212.227.96.110	CzY7vCEvk7IXC7yj1	HTTP	0	SHA1,MD5,ENTROPY	-	-	0.000000	-	T	984	984	0	0	F	-	1a2d4fd8d06069db3244ceec0af05cee	49e76419a90f7c1500da9c223e2a5c3fdff20a4d	-	-	-	-	7.676272
@@ -619,4 +619,4 @@
 1258876547.358007	FTUD6fSvXF9wm0H2g	87.106.13.62	192.168.1.103	CYPWVW1dkwSW6jwYbl	HTTP	0	SHA1,MD5,ENTROPY	-	-	0.000000	-	F	96	96	0	0	F	-	87ce674424412d142e8f91a7d0a31543	0d37ea982113bceb6cc8a9def8397c6a23192e7d	-	-	-	-	6.118766
 1258876548.112539	FgMkAt13zRtPlxEXB2	192.168.1.103	87.106.66.233	CUsbkrhDvEsXTpBok	HTTP	0	SHA1,MD5,ENTROPY	-	-	0.000000	-	T	992	992	0	0	F	-	fffdfca329f781cb77c49f02a5fcf18c	fc2e881140751f2fdf2f770ebe6650b3a364c2db	-	-	-	-	7.648493
 1258876548.285417	FyhXjQ1GQxgYjS3Rgk	87.106.66.233	192.168.1.103	CUsbkrhDvEsXTpBok	HTTP	0	SHA1,MD5,ENTROPY	-	-	0.000000	-	F	96	96	0	0	F	-	87ce674424412d142e8f91a7d0a31543	0d37ea982113bceb6cc8a9def8397c6a23192e7d	-	-	-	-	6.118766
-#close	2017-07-28-15-29-01
+#close	2019-08-30-18-49-16

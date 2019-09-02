@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	files
-#open	2018-05-08-15-57-07
+#open	2019-08-30-18-31-16
 #fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size	entropy
 #types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count	double
 1341812180.351656	F3X6ND2Tf3Jeqk5Ix3	2001:770:18:aa40::c101:c142	2001:470:1f05:17a6::6	CXWJkx26KcAdIH66y1	HTTP	0	SHA1,MD5,ENTROPY	application/zip	-	5.097069	-	F	1069703	1069703	0	0	F	-	96cbeba0907562b077e26bcffb483828	31dbb456c21f50865218c57b7eaf4c955a222ba1	-	-	-	-	7.986149
@@ -417,4 +417,4 @@
 1343424647.753669	FVnuHl1OvlGKbrZ0k9	2001:770:18:aa40::c101:c142	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	CbxoZq3ihWSMlEC3u3	HTTP	0	SHA1,MD5,ENTROPY	application/x-xz	-	118.251136	-	F	4857248	4857248	0	0	F	-	6fa70fa336f708452ce9bf311b401de2	a349cbb0b72256bb262377796a022dcf63829b4c	-	-	-	-	7.99996
 1343424852.505420	FGoonSJcK9sKmCr0k	2001:4f8:0:2::e	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	C4qlqIu1CPBwH4pR1	FTP_DATA	0	SHA1,MD5,ENTROPY	application/x-gzip	-	8.184787	-	F	317336	-	0	0	F	-	38b67c48af7a9204660a3e08f97ceba6	4bf36d4052bd0c948e05bbf3b0cd0da8684ac00e	-	-	-	-	7.998393
 1343425233.476541	FG9V1U1iQDE7Grzew7	2001:4f8:0:2::e	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	CU0msy24pvAzKTyYHe	FTP_DATA	0	SHA1,MD5,ENTROPY	application/x-gzip	-	0.068017	-	F	29397	-	0	0	F	-	e6ab8c13ccb9ee405a39214875a990f7	536d430e8c3184123a8d12668643bac53a4ef17d	-	-	-	-	7.993691
-#close	2018-05-08-15-57-29
+#close	2019-08-30-18-31-25

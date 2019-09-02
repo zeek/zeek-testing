@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2019-06-05-19-34-01
+#open	2019-08-30-18-49-13
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude	dropped
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	string	string	string	double	double	bool
 1258798785.846678	Cp2P763RFUeHgsRayb	192.168.1.105	49168	65.55.25.59	443	Fi2Yqe4pWcGoKb1gjg	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.25.59	443	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
@@ -34,4 +34,4 @@
 1258867946.405845	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1358219/6900)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258867946.413335	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1365119/4140)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258867946.414573	CwjkTZO7OL3DvSHs1	192.168.1.105	49257	198.189.255.75	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49257 > 198.189.255.75:80 content gap (< 1369259/24840)	-	192.168.1.105	198.189.255.75	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
-#close	2019-06-05-19-34-08
+#close	2019-08-30-18-49-16

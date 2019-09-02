@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2019-06-07-01-59-10
+#open	2019-08-30-18-49-13
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258790412.799620	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	zeek
@@ -149,4 +149,4 @@
 1258875462.799575	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	zeek
 1258876062.799599	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	zeek
 1258876662.799570	-	-	-	-	-	non_ip_packet_in_ethernet	-	F	zeek
-#close	2019-06-07-01-59-19
+#close	2019-08-30-18-49-16

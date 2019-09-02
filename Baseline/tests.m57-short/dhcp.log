@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	dhcp
-#open	2018-05-01-19-12-36
+#open	2019-08-30-18-49-13
 #fields	ts	uids	client_addr	server_addr	mac	host_name	client_fqdn	domain	requested_addr	assigned_addr	lease_time	client_message	server_message	msg_types	duration	msg_orig	client_software	server_software	circuit_id	agent_remote_id	subscriber_id
 #types	time	set[string]	addr	addr	string	string	string	string	addr	addr	interval	string	string	vector[string]	interval	vector[addr]	string	string	string	string	string
 1258790620.442107	C9cjp71VsiuBn6w6P9	192.168.1.104	192.168.1.1	00:0b:db:4f:6b:10	m57-charlie	m57-charlie.	m57.biz	-	192.168.1.104	3564.000000	-	-	REQUEST,ACK	0.034866	192.168.1.104,192.168.1.1	MSFT 5.0	-	-	-	-
@@ -208,4 +208,4 @@
 1258876153.380214	CTFAU53r2y0XvPeFWb	192.168.1.104	192.168.1.1	00:0b:db:4f:6b:10	m57-charlie	m57-charlie.	m57.biz	-	192.168.1.104	3564.000000	-	-	REQUEST,ACK	0.012305	192.168.1.104,192.168.1.1	MSFT 5.0	-	-	-	-
 1258876160.993692	CT1wVy4SArhZRF5tX2	192.168.1.105	192.168.1.1	00:08:74:38:01:b4	M57-TERRY	M57-TERRY	m57.biz	-	192.168.1.105	3564.000000	-	-	REQUEST,ACK	0.002192	192.168.1.105,192.168.1.1	MSFT 5.0	-	-	-	-
 1258876284.868406	ChlSBH1mJ8gr8Qrsii	192.168.1.106	192.168.1.1	00:0b:db:63:5e:a7	m57-jo	m57-jo.	m57.biz	-	192.168.1.106	3564.000000	-	-	REQUEST,ACK	0.002139	192.168.1.106,192.168.1.1	MSFT 5.0	-	-	-	-
-#close	2018-05-01-19-12-43
+#close	2019-08-30-18-49-16

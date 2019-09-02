@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2019-06-07-01-59-17
+#open	2019-08-30-18-31-19
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1343372921.514544	C0SHkL1bQW7hXczrF1	2001:200:0:1::800:21	58773	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12349	above_hole_data_without_any_acks	-	F	zeek
@@ -16,4 +16,4 @@
 1343424158.950508	CICboS2r6oUy5qCW6b	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	46535	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek
 1343424277.117582	CeKdBI677oRhQWA7h	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41235	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek
 1343424370.201252	CFKB15129pPbqwtzZ7	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	33891	2001:610:1:80bc:192:87:106:229	80	data_after_reset	-	F	zeek
-#close	2019-06-07-01-59-33
+#close	2019-08-30-18-31-25

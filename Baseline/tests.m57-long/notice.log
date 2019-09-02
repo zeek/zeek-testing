@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2019-07-29-17-00-22
+#open	2019-09-02-13-00-25
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude	dropped
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	string	string	string	double	double	bool
 1258535660.560999	CZrF6x2vDGeSNbw0Jf	192.168.1.104	1196	65.55.184.16	443	FElx6m3LsWEZ2L6a0h	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
@@ -794,4 +794,4 @@
 1258617393.914395	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1247 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
-#close	2019-07-29-17-00-36
+#close	2019-09-02-13-01-07

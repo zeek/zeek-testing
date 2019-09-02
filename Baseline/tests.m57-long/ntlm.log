@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	ntlm
-#open	2018-09-04-21-16-00
+#open	2019-09-02-13-00-54
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	username	hostname	domainname	server_nb_computer_name	server_dns_computer_name	server_tree_name	success
 #types	time	string	addr	port	addr	port	string	string	string	string	string	string	bool
 1258594907.858032	Chjxid42dvvzIzdeG8	192.168.1.102	1076	192.168.1.1	139	-	M57-JO	-	DOMEX	domex.nps.edu	-	-
@@ -196,4 +196,4 @@
 1258617000.536674	CIpxCd2NqMkSyhwCea	192.168.1.104	1236	192.168.1.1	139	-	M57-CHARLIE	-	DOMEX	domex.nps.edu	-	-
 1258617366.129311	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	M57-JO	-	DOMEX	domex.nps.edu	-	-
 1258617368.378152	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	M57-JO	-	DOMEX	domex.nps.edu	-	-
-#close	2018-09-04-21-16-10
+#close	2019-09-02-13-01-07

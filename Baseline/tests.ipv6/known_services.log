@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_services
-#open	2019-06-16-00-48-43
+#open	2019-08-30-18-31-16
 #fields	ts	host	port_num	port_proto	service
 #types	time	addr	port	enum	set[string]
 1341811937.461939	2600:3c00::2:b401	123	udp	NTP
@@ -79,4 +79,4 @@
 1343424807.039409	2400:3000:20:100::46	21	tcp	FTP
 1343448804.767073	2001:470:8398:101::1	123	udp	NTP
 1343497154.996757	2001:470:bbbf::7b	123	udp	NTP
-#close	2019-06-16-00-49-10
+#close	2019-08-30-18-31-25
