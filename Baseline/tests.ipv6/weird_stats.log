@@ -3,12 +3,12 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird_stats
-#open	2018-07-27-00-29-22
+#open	2020-07-06-21-59-31
 #fields	ts	name	num_seen
 #types	time	string	count
-1343373989.767062	above_hole_data_without_any_acks	1
-1343373989.767062	NUL_in_line	5
 1343373989.767062	spontaneous_FIN	1
-1343425041.421374	NUL_in_line	3
+1343373989.767062	NUL_in_line	5
+1343373989.767062	above_hole_data_without_any_acks	1
 1343425041.421374	data_after_reset	8
-#close	2018-07-27-00-29-31
+1343425041.421374	NUL_in_line	3
+#close	2020-07-06-21-59-44
