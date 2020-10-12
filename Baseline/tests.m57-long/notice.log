@@ -3,10 +3,32 @@
 #empty_field	(empty)
 #unset_field	-
 #path	notice
-#open	2020-09-23-21-23-31
+#open	2020-10-12-23-34-58
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	suppress_for	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude	dropped
 #types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	interval	string	string	string	double	double	bool
+1258531263.914408	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258532193.914383	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258533093.914395	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258533993.914404	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258534893.914434	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258535660.560999	CZrF6x2vDGeSNbw0Jf	192.168.1.104	1196	65.55.184.16	443	FEZqSF2gRb2YVkK67k	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.104	65.55.184.16	443	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258537653.914390	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258539453.914415	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258540374.060134	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258541283.914406	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258542213.914408	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258544043.914430	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258546803.914389	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258548633.914392	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258549533.914393	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258551333.914412	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258552233.914416	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258554093.914412	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258555023.914415	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258555923.914419	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258556823.914432	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258558653.914423	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258559583.914398	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258561885.852421	CepO9Z248T5yb9bRlh	192.168.1.105	49210	65.55.184.155	443	FqXi1h2N9Mf2dYoRv	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=www.update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.184.155	443	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258562477.944082	CioH0n4sS1UrYRuAN6	192.168.1.104	1377	208.97.132.223	995	F7UaLb3TKPkvS8Nrb8	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	emailAddress=support@dreamhost.com,CN=*.mail.dreamhost.com,OU=Security,O=Dreamhost.com,L=Brea,ST=California,C=US	192.168.1.104	208.97.132.223	995	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258563574.352337	CepxHjOvkgW4Zw6J7	192.168.1.103	1397	192.168.1.1	25	FV1dzp2cse7ZwDTec	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (self signed certificate)	C=US,CN=domex.local	192.168.1.103	192.168.1.1	25	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
@@ -158,6 +180,7 @@
 1258589859.206813	CxKhCc4SA2ifCyoHCl	192.168.1.104	36338	193.1.193.64	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:36338 > 193.1.193.64:80 content gap (< 1288268/43776)	-	192.168.1.104	193.1.193.64	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258589859.207052	CxKhCc4SA2ifCyoHCl	192.168.1.104	36338	193.1.193.64	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.104:36338 > 193.1.193.64:80 content gap (< 1333412/23256)	-	192.168.1.104	193.1.193.64	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258589859.256773	CHdvP63hX1Cc3atFHd	192.168.1.103	40865	193.1.193.64	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.103:40865 > 193.1.193.64:80 content gap (< 1623244/49672)	-	192.168.1.103	193.1.193.64	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
+1258591413.914419	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258592302.801434	CpJXMe4AcBP5i2QeR9	192.168.1.105	49160	65.55.13.91	443	FCcQYH2z6ArDg5BO7i	-	-	tcp	SSL::Invalid_Server_Cert	SSL certificate validation failed with (unable to get local issuer certificate)	CN=update.microsoft.com,OU=MSCOM,O=Microsoft,L=Redmond,ST=Washington,C=US	192.168.1.105	65.55.13.91	443	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258592789.289477	CbDRtF3bYXH6Db63y9	192.168.1.105	49237	198.189.255.74	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49237 > 198.189.255.74:80 content gap (< 133861/11040)	-	192.168.1.105	198.189.255.74	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258592789.295469	CbDRtF3bYXH6Db63y9	192.168.1.105	49237	198.189.255.74	80	-	-	-	tcp	Conn::Content_Gap	192.168.1.105:49237 > 198.189.255.74:80 content gap (< 144901/1380)	-	192.168.1.105	198.189.255.74	80	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
@@ -794,4 +817,4 @@
 1258617393.914395	CoOlEk1NiMny8iWj4b	192.168.1.102	1247	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1247 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 NTLM on port 139/tcp	NTLM	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
 1258617393.914395	C74l3y13CPNYfZ02b4	192.168.1.102	1248	192.168.1.1	139	-	-	-	tcp	ProtocolDetector::Protocol_Found	192.168.1.102:1248 > 192.168.1.1:139 GSSAPI on port 139/tcp	GSSAPI	192.168.1.102	192.168.1.1	139	-	-	Notice::ACTION_LOG	3600.000000	-	-	-	-	-	F
-#close	2020-09-23-21-23-45
+#close	2020-10-12-23-35-08
