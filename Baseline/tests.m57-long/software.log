@@ -3,12 +3,12 @@
 #empty_field	(empty)
 #unset_field	-
 #path	software
-#open	2018-08-16-20-48-35
+#open	2020-10-15-19-24-47
 #fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version	url
 #types	time	addr	port	enum	string	count	count	count	count	string	string	string
 1258531233.914396	192.168.1.102	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
 1258531939.613071	192.168.1.103	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
-1258532073.914388	192.168.1.104	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
+1258532063.319646	192.168.1.104	68	DHCP::CLIENT	MSFT	5	0	-	-	-	MSFT 5.0	-
 1258535653.087137	192.168.1.104	-	HTTP::BROWSER	Windows-Update-Agent	-	-	-	-	-	Windows-Update-Agent	-
 1258535653.110698	65.54.95.64	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258535653.110698	65.54.95.64	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
@@ -696,4 +696,4 @@
 1258596580.834903	208.111.129.112	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
 1258608426.067634	65.54.95.191	80	HTTP::SERVER	Microsoft-IIS	6	0	-	-	-	Microsoft-IIS/6.0	-
 1258608426.067634	65.54.95.191	80	HTTP::APPSERVER	ASP.NET	-	-	-	-	-	ASP.NET	-
-#close	2018-08-16-20-49-09
+#close	2020-10-15-19-25-48
