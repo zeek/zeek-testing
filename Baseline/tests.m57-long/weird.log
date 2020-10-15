@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2020-10-15-19-24-47
+#open	2020-10-15-19-54-22
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer
 #types	time	string	addr	port	addr	port	string	string	bool	string
 1258531220.093410	-	-	-	-	-	unknown_ip_version	-	F	zeek
@@ -107,21 +107,25 @@
 1258587656.101604	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258588258.408124	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258588890.828496	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258589303.367108	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258589303.367108	-	192.168.1.103	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
+1258589378.071995	-	192.168.1.102	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
+1258589395.075068	-	192.168.1.104	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258589493.134550	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258589936.092312	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258589936.092312	-	192.168.1.105	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258590095.439577	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258590727.860431	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258591360.280477	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258591685.270227	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258591685.270227	-	192.168.1.105	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258591992.701769	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258592297.097222	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258592086.962587	-	169.254.173.77	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
+1258592297.097222	-	192.168.1.104	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258592625.122744	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258592927.775320	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258592927.775320	-	192.168.1.104	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
+1258593089.108308	-	192.168.1.102	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258593257.542847	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258593859.848068	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258594492.268627	-	-	-	-	-	unknown_ip_version	-	F	zeek
-1258594856.068533	-	-	-	-	-	no_suitable_analyzer_found	-	F	zeek
+1258594856.068533	-	192.168.1.103	0	224.0.0.22	0	no_suitable_analyzer_found	-	F	zeek
 1258595094.574587	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258595726.994402	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258596329.298291	-	-	-	-	-	unknown_ip_version	-	F	zeek
@@ -160,4 +164,4 @@
 1258616175.232521	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258616777.538470	-	-	-	-	-	unknown_ip_version	-	F	zeek
 1258617379.842453	-	-	-	-	-	unknown_ip_version	-	F	zeek
-#close	2020-10-15-19-25-48
+#close	2020-10-15-19-55-45

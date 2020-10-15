@@ -3,7 +3,7 @@
 #empty_field	(empty)
 #unset_field	-
 #path	conn
-#open	2020-10-15-19-24-47
+#open	2020-10-15-19-54-22
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	orig_l2_addr	resp_l2_addr	vlan	inner_vlan
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	string	string	int	int
 1258531221.486539	CMucAv3aPcRqfSv8Dj	192.168.1.102	68	192.168.1.1	67	udp	dhcp	0.163820	301	300	SF	-	-	0	Dd	1	329	1	328	-	00:0b:db:63:58:a6	00:19:e3:e7:5d:23	-	-
@@ -6534,8 +6534,8 @@
 1258592302.686711	CA7k8X1ZoaAnzhx0vi	192.168.1.105	60841	192.168.1.1	53	udp	dns	0.000257	38	171	SF	-	-	0	Dd	1	66	1	199	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592305.430749	CW78OCNL1ynNrKVAi	192.168.1.105	56997	192.168.1.1	53	udp	dns	0.228835	48	208	SF	-	-	0	Dd	1	76	1	236	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592311.139162	CJF9ze2OlEOUXP77A4	192.168.1.105	49162	207.46.211.250	80	tcp	http	0.048716	2623	651	RSTO	-	-	0	ShADdafR	7	2915	4	823	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
-1258592300.403902	CptH091IiNJuxiGbOc	192.168.1.105	137	192.168.1.255	137	udp	dns	8.265567	450	0	S0	-	-	0	D	9	702	0	0	-	00:08:74:38:01:b4	ff:ff:ff:ff:ff:ff	-	-
 1258592311.094947	CnOtaw2qYA0SDyUKl	192.168.1.105	53635	192.168.1.1	53	udp	dns	0.042944	44	182	SF	-	-	0	Dd	1	72	1	210	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
+1258592300.403902	CptH091IiNJuxiGbOc	192.168.1.105	137	192.168.1.255	137	udp	dns	8.265567	450	0	S0	-	-	0	D	9	702	0	0	-	00:08:74:38:01:b4	ff:ff:ff:ff:ff:ff	-	-
 1258592300.397160	CSkJgf4jz7qKkIcLy3	192.168.1.105	68	255.255.255.255	67	udp	dhcp	-	-	-	S0	-	-	0	D	1	328	0	0	-	00:08:74:38:01:b4	ff:ff:ff:ff:ff:ff	-	-
 1258592300.398634	CBKFe4L9wjMByEfe2	192.168.1.105	68	192.168.1.1	67	udp	dhcp	-	-	-	SHR	-	-	0	^d	0	0	1	328	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
 1258592302.688210	CpJXMe4AcBP5i2QeR9	192.168.1.105	49160	65.55.13.91	443	tcp	ssl	64.506563	2438	6392	RSTR	-	-	0	ShADdar	12	2930	10	6804	-	00:08:74:38:01:b4	00:19:e3:e7:5d:23	-	-
@@ -8511,4 +8511,4 @@
 1258617506.342259	CcQ3As2Kv3rycLlhR1	192.168.1.104	138	192.168.1.255	138	udp	-	0.000002	402	0	S0	-	-	0	D	2	458	0	0	-	00:0b:db:4f:6b:10	ff:ff:ff:ff:ff:ff	-	-
 1258617547.414887	CjO20X2oOQwP1ixVag	192.168.1.1	138	192.168.1.255	138	udp	-	0.000023	422	0	S0	-	-	0	D	2	478	0	0	-	00:19:e3:e7:5d:23	ff:ff:ff:ff:ff:ff	-	-
 1258595643.914410	CLeYFD1eT0TZoVBAe6	192.168.1.1	626	224.0.0.1	626	udp	-	21930.000012	48312	0	S0	-	-	0	D	1464	89304	0	0	-	00:19:e3:e7:5d:23	01:00:5e:00:00:01	-	-
-#close	2020-10-15-19-25-48
+#close	2020-10-15-19-55-45
