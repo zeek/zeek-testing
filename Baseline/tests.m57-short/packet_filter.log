@@ -6,7 +6,7 @@
 #unset_field	-
 #path	packet_filter
 #open XXXX-XX-XX-XX-XX-XX
-#fields	ts	node	filter	init	success
-#types	time	string	string	bool	bool
+#fields	ts	node	filter	init	success	failure_reason
+#types	time	string	string	bool	bool	string
 #close XXXX-XX-XX-XX-XX-XX
-XXXXXXXXXX.XXXXXX	zeek	ip or not ip	T	T
+XXXXXXXXXX.XXXXXX	zeek	ip or not ip	T	T	-
