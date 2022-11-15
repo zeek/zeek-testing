@@ -1,0 +1,19 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2022-11-14-17-09-48
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1343372921.514544	CIkGd44anIyXNb0qli	2001:200:0:1::800:21	58773	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12349	above_hole_data_without_any_acks	-	F	zeek	TCP
+1343372929.059854	CNgj6h3MBRUC2LzE14	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	53939	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343372929.357806	C78nOX1kNqLhfz3xMf	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	51671	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343372930.754512	CEKhFQ1ppX5bOmhcTa	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	55257	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343372942.522819	C38DtA2PGJGGE2m2Sh	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	24316	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343372952.958654	C5E3HG363lEVhYF3M8	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41160	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343424158.541624	C6hVJW2AYZJCNPf0ag	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	64769	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343424158.950508	CxO1mA1iWtCIfSP113	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	46535	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343424277.117582	CN2GZD1yleH9P7hhNg	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41235	2001:6a8:a40::21	21	NUL_in_line	-	F	zeek	NVT
+1343424370.201252	CJVnIY1EUYyadsB8Ib	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	33891	2001:610:1:80bc:192:87:106:229	80	data_after_reset	-	F	zeek	TCP
+#close	2022-11-14-17-10-13
