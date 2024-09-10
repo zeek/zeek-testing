@@ -10,6 +10,6 @@
 #types	time	string	addr	port	addr	port	string	string	string	string	string	count	count	string	bool	addr	addr	port	string
 #close XXXX-XX-XX-XX-XX-XX
 XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	PASV	-	-	-	227	Entering Passive Mode (143,166,11,10,250,53)	T	192.168.1.105	143.166.11.10	64053	-
-XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	-	-	-	-	FFtxtk1TkcNm6gi9Zg
+XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49306	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	-	-	-	-	FMpEvr1xbZVaORaYri
 XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	PASV	-	-	-	227	Entering Passive Mode (143,166,11,10,251,78)	T	192.168.1.105	143.166.11.10	64334	-
-XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	-	-	-	-	FqQZTUEnQvlNl84Xi
+XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	192.168.1.105	49329	143.166.11.10	21	anonymous	IEUser@	RETR	ftp://143.166.11.10/video/R79733.EXE	application/x-dosexec	-	226	Transfer complete.	-	-	-	-	FdBP5a3gb8LC6Ttdo

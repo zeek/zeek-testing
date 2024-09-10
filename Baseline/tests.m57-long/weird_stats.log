@@ -12,6 +12,11 @@
 XXXXXXXXXX.XXXXXX	HTTP_version_mismatch	1
 XXXXXXXXXX.XXXXXX	bad_HTTP_request	2
 XXXXXXXXXX.XXXXXX	line_terminated_with_single_CR	1
+XXXXXXXXXX.XXXXXX	no_suitable_analyzer_found	14
+XXXXXXXXXX.XXXXXX	no_suitable_analyzer_found	18
+XXXXXXXXXX.XXXXXX	no_suitable_analyzer_found	18
+XXXXXXXXXX.XXXXXX	no_suitable_analyzer_found	6
+XXXXXXXXXX.XXXXXX	no_suitable_analyzer_found	7
 XXXXXXXXXX.XXXXXX	spontaneous_FIN	1
 XXXXXXXXXX.XXXXXX	spontaneous_FIN	14
 XXXXXXXXXX.XXXXXX	spontaneous_FIN	2
