@@ -6,7 +6,7 @@
 #unset_field	-
 #path	conn
 #open XXXX-XX-XX-XX-XX-XX
-#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	protocol_id	community_id	orig_l2_addr	resp_l2_addr	protocol_name	vlan	inner_vlan
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	ip_proto	community_id	orig_l2_addr	resp_l2_addr	ip_proto_name	vlan	inner_vlan
 #types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	count	string	string	string	string	int	int
 #close XXXX-XX-XX-XX-XX-XX
 XXXXXXXXXX.XXXXXX	XXXXXXXXXXX	2001:200:0:1::800:21	58773	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	12349	tcp	-	79.341606	5223316	0	OTH	F	F	0	D	3657	5485500	0	0	-	6	1:ozYM1ZZaHIrzIuk/V8HZM8dvG7Y=	00:80:c8:b9:c2:06	d4:9a:20:fd:6b:88	tcp	-	-
