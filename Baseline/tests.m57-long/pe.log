@@ -9,14 +9,14 @@
 #fields	ts	id	machine	compile_ts	os	subsystem	is_exe	is_64bit	uses_aslr	uses_dep	uses_code_integrity	uses_seh	has_import_table	has_export_table	has_cert_table	has_debug_data	section_names
 #types	time	string	string	time	string	string	bool	bool	bool	bool	bool	bool	bool	bool	bool	bool	vector[string]
 #close XXXX-XX-XX-XX-XX-XX
-XXXXXXXXXX.XXXXXX	FFtxtk1TkcNm6gi9Zg	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	F	.text,.rdata,.data,.idata,.rsrc,.reloc
 XXXXXXXXXX.XXXXXX	FMl1HU1GX0caJuHfg1	I386	XXXXXXXXXX.XXXXXX	Windows Vista or Server 2008	WINDOWS_GUI	T	F	T	T	F	T	T	F	T	T	.text,.data,.rsrc,.reloc
+XXXXXXXXXX.XXXXXX	FMpEvr1xbZVaORaYri	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	F	.text,.rdata,.data,.idata,.rsrc,.reloc
 XXXXXXXXXX.XXXXXX	FNSG6keKJNMN5Qih5	I386	XXXXXXXXXX.XXXXXX	Windows XP x64 or Server 2003	WINDOWS_GUI	T	F	F	F	F	F	T	F	T	T	.text,.data,.rsrc
 XXXXXXXXXX.XXXXXX	Fbhbx9p92RuatsjGl	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	F	T	F	T	F	.text,.rdata,.data,.ndata,.rsrc
+XXXXXXXXXX.XXXXXX	FdBP5a3gb8LC6Ttdo	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	F	.text,.rdata,.data,.idata,.rsrc,.reloc
 XXXXXXXXXX.XXXXXX	FflTaWZd5P7MIM45f	I386	XXXXXXXXXX.XXXXXX	Windows XP x64 or Server 2003	WINDOWS_GUI	T	F	F	F	F	F	T	F	T	T	.text,.data,.rsrc
 XXXXXXXXXX.XXXXXX	FhDQCx2zoWEPTaZkol	I386	XXXXXXXXXX.XXXXXX	Windows 2000	WINDOWS_GUI	T	F	T	T	F	T	T	F	T	T	.text,.data,.rsrc,.reloc
 XXXXXXXXXX.XXXXXX	Fo0NxH2KPfiIVh2vu8	I386	XXXXXXXXXX.XXXXXX	Windows XP x64 or Server 2003	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	T	.text,.data,.rsrc
 XXXXXXXXXX.XXXXXX	FojaV31sNWUaJL1xSh	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	F	T	F	T	F	.text,.rdata,.data,.ndata,.rsrc
-XXXXXXXXXX.XXXXXX	FqQZTUEnQvlNl84Xi	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	F	.text,.rdata,.data,.idata,.rsrc,.reloc
 XXXXXXXXXX.XXXXXX	FungxtKEi0jJCx1hl	I386	XXXXXXXXXX.XXXXXX	Windows XP x64 or Server 2003	WINDOWS_GUI	T	F	F	F	F	F	T	F	T	T	.text,.data,.rsrc
 XXXXXXXXXX.XXXXXX	FzMdnfGSyvFpDL5n2	I386	XXXXXXXXXX.XXXXXX	Windows 95 or NT 4.0	WINDOWS_GUI	T	F	F	F	F	T	T	F	T	F	.text,.rdata,.data,.ndata,.rsrc
