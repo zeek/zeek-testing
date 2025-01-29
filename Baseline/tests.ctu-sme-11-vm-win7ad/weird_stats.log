@@ -312,7 +312,7 @@ XXXXXXXXXX.XXXXXX	TCP_seq_underflow_or_misorder	2
 XXXXXXXXXX.XXXXXX	TCP_seq_underflow_or_misorder	4
 XXXXXXXXXX.XXXXXX	TCP_seq_underflow_or_misorder	4
 XXXXXXXXXX.XXXXXX	bad_HTTP_request	1
-XXXXXXXXXX.XXXXXX	bad_HTTP_request	22
+XXXXXXXXXX.XXXXXX	bad_HTTP_request	40
 XXXXXXXXXX.XXXXXX	connection_originator_SYN_ack	1
 XXXXXXXXXX.XXXXXX	data_before_established	12
 XXXXXXXXXX.XXXXXX	data_before_established	12

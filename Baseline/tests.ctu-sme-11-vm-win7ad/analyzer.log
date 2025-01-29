@@ -17,26 +17,44 @@ XXXXXXXXXX.XXXXXX	violation	protocol	DNP3_UDP	XXXXXXXXXXX	-	192.168.1.108	54182	
 XXXXXXXXXX.XXXXXX	violation	protocol	DNP3_UDP	XXXXXXXXXXX	-	192.168.1.108	55309	1.1.1.1	53	broken_checksum	-
 XXXXXXXXXX.XXXXXX	violation	protocol	DNP3_UDP	XXXXXXXXXXX	-	192.168.1.108	55384	205.251.193.220	53	broken_checksum	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62518	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62518	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62520	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62522	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62522	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62529	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62529	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62530	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62530	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62534	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62534	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62535	104.192.141.1	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62535	104.192.141.1	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62536	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62536	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62537	188.114.96.9	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62537	188.114.96.9	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62538	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62538	185.199.110.133	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62539	188.114.96.9	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62539	188.114.96.9	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62540	188.114.96.9	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62540	188.114.96.9	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62549	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62549	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62553	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62553	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62554	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62555	104.192.141.1	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62561	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62561	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62564	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62564	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62565	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62565	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62574	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62575	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62575	87.240.132.72	80	not a http request line	-
+XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62580	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.108	62580	87.240.132.72	80	not a http request line	-
 XXXXXXXXXX.XXXXXX	violation	protocol	SSL	XXXXXXXXXXX	-	192.168.1.108	62518	87.240.132.72	80	Invalid version late in TLS connection. Packet reported version: 21588	-
 XXXXXXXXXX.XXXXXX	violation	protocol	SSL	XXXXXXXXXXX	-	192.168.1.108	62522	87.240.132.72	80	Invalid version late in TLS connection. Packet reported version: 21588	-
