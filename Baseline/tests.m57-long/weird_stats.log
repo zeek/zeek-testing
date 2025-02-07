@@ -10,7 +10,7 @@
 #types	time	string	count
 #close XXXX-XX-XX-XX-XX-XX
 XXXXXXXXXX.XXXXXX	HTTP_version_mismatch	1
-XXXXXXXXXX.XXXXXX	bad_HTTP_request	2
+XXXXXXXXXX.XXXXXX	bad_HTTP_request	1
 XXXXXXXXXX.XXXXXX	line_terminated_with_single_CR	1
 XXXXXXXXXX.XXXXXX	spontaneous_FIN	1
 XXXXXXXXXX.XXXXXX	spontaneous_FIN	14

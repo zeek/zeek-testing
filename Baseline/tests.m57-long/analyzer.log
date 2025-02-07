@@ -38,4 +38,3 @@ XXXXXXXXXX.XXXXXX	violation	file	PE	XXXXXXXXXXX	ForpmF2ZYOfrzEIRg4	192.168.1.105
 XXXXXXXXXX.XXXXXX	violation	file	PE	XXXXXXXXXXX	Fq0Y6K1S5ObFAaYWQd	192.168.1.105	49190	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-
 XXXXXXXXXX.XXXXXX	violation	file	PE	XXXXXXXXXXX	Fw21Nn1qscPFyyzFYl	192.168.1.104	1266	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-
 XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.105	49251	68.71.209.202	80	not a http reply line	-
-XXXXXXXXXX.XXXXXX	violation	protocol	HTTP	XXXXXXXXXXX	-	192.168.1.105	49251	68.71.209.202	80	not a http request line	-
