@@ -6,21 +6,21 @@
 #unset_field	-
 #path	analyzer
 #open XXXX-XX-XX-XX-XX-XX
-#fields	ts	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	failure_reason	failure_data	packet_segment
-#types	time	string	string	string	string	addr	port	addr	port	string	string	string
+#fields	ts	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	failure_reason	failure_data	packet_segment
+#types	time	string	string	string	string	addr	port	addr	port	enum	string	string	string
 #close XXXX-XX-XX-XX-XX-XX
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	F4dWUC12urjUhQKgoh	192.168.1.106	1397	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	F60WSC1wJwNzz14UX2	192.168.1.104	1545	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FFGh0P3wxSM5rpLyT1	192.168.1.106	1321	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FK23AJ2CTzcOhDguJh	192.168.1.104	1282	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FKXbu31o1NRU1m76cc	192.168.1.105	49175	198.189.255.76	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FOsErE4cAJ8u4cqelg	192.168.1.104	1280	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FRHywE2n50ZC8UYYi3	192.168.1.103	1319	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FTQWao4jvKjbQ4Gyu5	192.168.1.106	1603	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FZ3vUv4ryU9FNTNrM3	192.168.1.106	1391	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FaXzfw2ysFsK7UIv4e	192.168.1.106	1395	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FbAiXT3W10Gg9dheyb	192.168.1.105	49173	198.189.255.76	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	Fi6oFFIPzEK3sF7sk	192.168.1.105	49179	198.189.255.76	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FqE6HK2Hp972MGmoMl	192.168.1.103	1317	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FrCTmWkMQROW4Nni8	192.168.1.106	1323	198.189.255.89	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
-XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FslOlj33pNfEk2uK86	192.168.1.103	1571	198.189.255.75	80	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	F4dWUC12urjUhQKgoh	192.168.1.106	1397	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	F60WSC1wJwNzz14UX2	192.168.1.104	1545	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FFGh0P3wxSM5rpLyT1	192.168.1.106	1321	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FK23AJ2CTzcOhDguJh	192.168.1.104	1282	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FKXbu31o1NRU1m76cc	192.168.1.105	49175	198.189.255.76	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FOsErE4cAJ8u4cqelg	192.168.1.104	1280	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FRHywE2n50ZC8UYYi3	192.168.1.103	1319	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FTQWao4jvKjbQ4Gyu5	192.168.1.106	1603	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FZ3vUv4ryU9FNTNrM3	192.168.1.106	1391	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FaXzfw2ysFsK7UIv4e	192.168.1.106	1395	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FbAiXT3W10Gg9dheyb	192.168.1.105	49173	198.189.255.76	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	Fi6oFFIPzEK3sF7sk	192.168.1.105	49179	198.189.255.76	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FqE6HK2Hp972MGmoMl	192.168.1.103	1317	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FrCTmWkMQROW4Nni8	192.168.1.106	1323	198.189.255.89	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
+XXXXXXXXXX.XXXXXX	file	PE	XXXXXXXXXXX	FslOlj33pNfEk2uK86	192.168.1.103	1571	198.189.255.75	80	-	Binpac exception: binpac exception: &enforce violation : DOS_Header:AddressOfNewExeHeader	-	-
