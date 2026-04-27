@@ -6,7 +6,7 @@
 #unset_field	-
 #path	multicast_participants
 #open XXXX-XX-XX-XX-XX-XX
-#fields	ts	cid	orig_h	multicast_addr	multicast_p	participants
+#fields	ts	cid	orig_h	group_addr	group_p	participants
 #types	time	string	addr	addr	port	set[addr]
 #close XXXX-XX-XX-XX-XX-XX
 XXXXXXXXXX.XXXXXX	C005MN2554qh6OMJ16	192.168.1.108	224.0.0.252	5355	192.168.1.105,192.168.1.106,192.168.1.107
