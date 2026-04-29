@@ -9,7 +9,6 @@
 #fields	ts	cause	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	failure_reason	failure_data
 #types	time	string	string	string	string	string	addr	port	addr	port	string	string
 #close XXXX-XX-XX-XX-XX-XX
-XXXXXXXXXX.XXXXXX	violation	file	ZIP	XXXXXXXXXXX	FiB4SC2pyCND5226vd	2001:470:1f05:17a6:213:72ff:fe0d:a566	30880	2001:6b0:e:2018::1337	80	&size amount not consumed: expected 67188 bytes, but got 10561 bytes (<...>/zip.spicy:131:22-131:47)	-
 XXXXXXXXXX.XXXXXX	violation	protocol	FTP	XXXXXXXXXXX	-	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	24316	2001:6a8:a40::21	21	non-numeric reply code	SSH-2.0-mod_sftp/0.9.7
 XXXXXXXXXX.XXXXXX	violation	protocol	FTP	XXXXXXXXXXX	-	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41160	2001:6a8:a40::21	21	non-numeric reply code	SSH-2.0-mod_sftp/0.9.7
 XXXXXXXXXX.XXXXXX	violation	protocol	FTP	XXXXXXXXXXX	-	2001:470:1f05:17a6:d69a:20ff:fefd:6b88	41235	2001:6a8:a40::21	21	non-numeric reply code	SSH-2.0-mod_sftp/0.9.7
