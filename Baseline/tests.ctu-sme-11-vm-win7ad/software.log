@@ -53,7 +53,6 @@ XXXXXXXXXX.XXXXXX	188.114.97.9	80	HTTP::SERVER	cloudflare	-	-	-	-	-	cloudflare	-
 XXXXXXXXXX.XXXXXX	188.72.236.136	80	HTTP::SERVER	nginx	-	-	-	-	-	nginx	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	(empty)	901785252112	-	-	-	-	901785252112	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	102	0	4992	0	-	Mozilla/5.0 (X11; CrOS x86_64 14685.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4992.0 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	102	0	4992	0	-	Mozilla/5.0 (X11; CrOS x86_64 14685.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4992.0 Safari/537.36	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	102	0	5005	58	-	Mozilla/5.0 (Linux; Android 12; SM-G970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.58 Mobile Safari/537.36	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	103	0	5060	114	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	103	0	5060	53	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36	-
@@ -67,26 +66,8 @@ XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	109	0	0	0	-	Mozilla/5.0 (
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	109	0	0	0	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	109	0	0	0	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	109	0	0	0	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	109	0	0	0	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	18	0	1025	166	-	Mozilla/5.0 (Linux; Android 4.0.4; LT28h Build/6.1.E.3.7) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	39	8	149	233	-	Opera/5.0 (Windows; Windows NT 6.4; WOW64; en-US) Chrome/39.8.149.233 Safari/634.95	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	56	0	2924	67	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.67 Safari/537.36	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	74	0	3729	169	-	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Chrome	84	0	4147	89	-	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36	-
@@ -105,12 +86,6 @@ XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Firefox	111	0	-	-	-	Mozilla/5.0 
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Firefox	111	0	-	-	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Firefox	111	0	-	-	-	Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	-	-	-	-	-	Go-http-client	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	-	-	-	-	-	Go-http-client	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	-	-	-	-	-	Go-http-client	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	-	-	-	-	-	Go-http-client	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	1	1	-	-	-	Go-http-client/1.1	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	1	1	-	-	-	Go-http-client/1.1	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	1	1	-	-	-	Go-http-client/1.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	1	1	-	-	-	Go-http-client/1.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Go-http-client	1	1	-	-	-	Go-http-client/1.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	MSIE	11	0	-	-	-	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko	-
@@ -131,16 +106,16 @@ XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	13	0	5	-	-	Mozilla/5.0 (M
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	13	1	2	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	13	5	1	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.5.1 Mobile/15E148 Safari/605.1.15	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	14	0	-	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.0 Mobile/15E148 Safari/604.1	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	14	0	-	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.0 Mobile/15E148 Safari/604.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	14	1	-	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/18A8395 Safari/E7FBAF	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	16	1	-	-	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15	-
-XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	16	1	-	-	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	16	1	-	-	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	16	1	-	-	Mobile	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	3	1	1	-	Mobile	Mozilla/5.0 (iPod; U; CPU iPhone OS 2_2_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5H11a Safari/525.20	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; Android 12; SM-G998B Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 GNews Android/2022044151	-
+XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; ZTE-Z990G Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; SHW-M110S Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1	-
+XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; U; Android 2.3.7; en-us; LG-VM696 Build/ZV5.GWK74) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-B5330 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30	-
+XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	Safari	4	0	-	-	Mobile	Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; DROID RAZR Build/9.8.2O-72_VZW-16) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	TeslaBrowser	5	5	-	-	-	TeslaBrowser/5.5	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	User-Agent: Mozilla	5	0	-	-	Windows	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70	-
 XXXXXXXXXX.XXXXXX	192.168.1.108	-	HTTP::BROWSER	curl	7	55	1	-	-	curl/7.55.1	-
@@ -201,10 +176,7 @@ XXXXXXXXXX.XXXXXX	93.115.29.139	80	HTTP::SERVER	nginx	1	18	0	-	Ubuntu	nginx/1.18
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	33	-	-	-	E	ECS (via/F33E)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	33	-	-	-	F	ECS (via/F33F)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	33	-	-	-	F	ECS (via/F33F)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	33	-	-	-	F	ECS (via/F33F)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	334	-	-	-	-	ECS (via/F334)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	337	-	-	-	-	ECS (via/F337)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	337	-	-	-	-	ECS (via/F337)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	337	-	-	-	-	ECS (via/F337)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	338	-	-	-	-	ECS (via/F338)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	338	-	-	-	-	ECS (via/F338)	-
@@ -212,14 +184,11 @@ XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	340	-	-	-	-	ECS (via/
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	341	-	-	-	-	ECS (via/F341)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	341	-	-	-	-	ECS (via/F341)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	341	-	-	-	-	ECS (via/F341)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	341	-	-	-	-	ECS (via/F341)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	342	-	-	-	-	ECS (via/F342)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	342	-	-	-	-	ECS (via/F342)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	343	-	-	-	-	ECS (via/F343)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	343	-	-	-	-	ECS (via/F343)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	344	-	-	-	-	ECS (via/F344)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	345	-	-	-	-	ECS (via/F345)	-
-XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	346	-	-	-	-	ECS (via/F346)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	346	-	-	-	-	ECS (via/F346)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	346	-	-	-	-	ECS (via/F346)	-
 XXXXXXXXXX.XXXXXX	93.184.220.29	80	HTTP::SERVER	ECS (via/F	347	-	-	-	-	ECS (via/F347)	-
