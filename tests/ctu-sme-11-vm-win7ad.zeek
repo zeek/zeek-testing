@@ -7,6 +7,10 @@
 # See: https://github.com/zeek/zeek/issues/4092
 # @TEST-REQUIRES: ! grep -q "#define ZEEK_TSAN" $BUILD/zeek-config.h
 
+# Running this test with asan enabled on CircleCI takes long enough that CI times
+# out. Disable for the time being in that environment.
+# @TEST-REQUIRES: ! ( have-asan && test "${CIRCLECI}" = "true" )
+
 # @TEST-REQUIRES: have-spicy
 # @TEST-EXEC: cat $TRACES/CTU-SME-11-Experiment-VM-Microsoft-Windows7AD-1-malicious-filtered.pcap.gz | gunzip | zeek -r - %INPUT
 # @TEST-EXEC: $SCRIPTS/diff-all '*.log'
